@@ -1,0 +1,2108 @@
+company,industry,stage,country,first_layoff_date,last_layoff_date,layoff_events,total_laid_off,avg_pct_laid_off
+Amazon,Retail,Post-IPO,United States,2022-10-28,2026-03-04,13,58124,2.0
+Intel,Hardware,Post-IPO,United States,2022-12-06,2025-07-11,9,43115,17.5
+Microsoft,Other,Post-IPO,United States,2023-01-18,2025-09-08,10,30055,3.8
+Meta,Consumer,Post-IPO,United States,2022-11-09,2026-03-25,7,27500,5.3
+Salesforce,Sales,Post-IPO,United States,2020-08-26,2025-09-04,11,16475,3.0
+Cisco,Infrastructure,Post-IPO,United States,2022-11-16,2025-08-19,5,14521,5.7
+Tesla,Transportation,Post-IPO,United States,2024-04-15,2024-04-30,2,14500,10.0
+Google,Consumer,Post-IPO,United States,2023-01-20,2025-10-02,10,13697,6.0
+Dell,Hardware,Post-IPO,United States,2023-02-06,2024-03-25,2,12650,5.0
+SAP,Other,Post-IPO,Germany,2023-01-26,2024-01-23,2,11000,5.0
+Ericsson,Other,Post-IPO,Sweden,2023-02-24,2026-01-15,2,10100,8.0
+Philips,Healthcare,Post-IPO,Netherlands,2022-10-24,2023-01-30,2,10000,9.0
+Flink,Food,Series B,Germany,2023-04-24,2023-05-24,2,8100,28.0
+HP,Hardware,Post-IPO,United States,2025-02-28,2025-11-25,2,8000,10.0
+Micron,Hardware,Post-IPO,United States,2023-01-01,2025-08-12,3,7500,7.5
+Uber,Transportation,Post-IPO,United States,2020-05-06,2023-06-21,3,6900,13.5
+Block,Finance,Post-IPO,United States,2024-01-30,2026-02-26,3,5931,19.3
+Getir,Food,Series E,United Kingdom,2023-08-22,2024-04-29,2,5800,11.0
+Byju's,Education,Private Equity,India,2022-10-12,2024-04-02,4,5500,4.0
+PayPal,Finance,Post-IPO,United States,2022-05-23,2024-01-30,3,4583,8.0
+Peloton,Fitness,Post-IPO,United States,2022-02-08,2024-05-02,5,4495,15.0
+Northvolt,Energy,Unknown,Sweden,2024-09-23,2025-03-31,2,4400,41.0
+Booking.com,Travel,Acquired,Netherlands,2020-07-30,2020-07-30,1,4375,25.0
+Wayfair,Retail,Post-IPO,United States,2022-08-19,2024-01-19,3,4270,9.3
+Carvana,Transportation,Post-IPO,United States,2022-05-10,2022-11-18,2,4000,10.0
+Toshiba,Manufacturing,Unknown,Japan,2024-05-16,2024-05-16,1,4000,
+Twitter,Consumer,Post-IPO,United States,2022-11-04,2023-02-25,3,3940,30.0
+Better.com,Real Estate,Unknown,United States,2021-12-01,2022-03-08,2,3900,21.0
+IBM,Hardware,Post-IPO,United States,2023-01-25,2023-01-25,1,3900,2.0
+Groupon,Retail,Post-IPO,United States,2020-04-13,2023-01-30,3,3800,29.5
+Paytm,Finance,Subsidiary,India,2024-06-10,2024-06-10,1,3500,
+Seagate,Hardware,Post-IPO,United States,2022-10-26,2023-03-29,2,3480,8.0
+Shopify,Retail,Post-IPO,Canada,2020-08-14,2023-05-04,5,3450,15.0
+Indeed,HR,Acquired,United States,2023-03-22,2024-05-13,2,3200,11.5
+Unity,Other,Post-IPO,United States,2022-06-29,2024-01-08,6,3199,8.8
+Cerner,Healthcare,Acquired,United States,2023-05-16,2023-05-16,1,3000,11.0
+Xerox,Hardware,Post-IPO,United States,2024-01-03,2024-01-03,1,3000,15.0
+Ola,Transportation,Series J,India,2020-05-20,2024-04-29,5,2980,22.5
+Bytedance,Consumer,Unknown,China,2021-08-05,2023-11-27,3,2950,
+Lyft,Transportation,Post-IPO,United States,2020-04-29,2024-09-04,5,2844,11.8
+VMware,Infrastructure,Acquired,United States,2023-11-27,2023-11-27,1,2837,
+OpenText,Data,Post-IPO,Canada,2024-07-03,2025-05-06,2,2800,2.0
+Amdocs,Support,Post-IPO,United States,2023-01-02,2023-07-06,2,2700,4.5
+Stitch Fix,Retail,Post-IPO,United States,2020-06-01,2023-10-09,4,2688,16.5
+Workday,HR,Post-IPO,United States,2023-01-31,2026-02-04,3,2675,4.3
+Autodesk,Other,Post-IPO,United States,2023-02-02,2026-01-22,3,2600,6.0
+Hewlett Packard Enterprise,Hardware,Post-IPO,United States,2025-03-06,2025-11-05,2,2552,5.0
+LinkedIn,Recruiting,Acquired,United States,2020-07-21,2024-11-21,4,2538,3.5
+Zillow,Real Estate,Post-IPO,United States,2021-11-02,2026-02-02,4,2523,15.0
+Intuit,Finance,Post-IPO,United States,2020-06-22,2024-07-10,2,2515,8.5
+UKG,HR,Unknown,United States,2023-03-06,2024-07-03,2,2465,14.0
+Atlassian,Other,Post-IPO,Australia,2023-03-06,2026-03-11,4,2450,7.5
+Playtika,Consumer,Post-IPO,Israel,2022-05-31,2026-01-14,6,2440,13.2
+Katerra,Construction,Unknown,United States,2021-06-01,2021-06-01,1,2434,100.0
+Vacasa,Travel,Post-IPO,United States,2023-01-24,2024-05-09,3,2420,11.7
+Gopuff,Food,Series H,United States,2022-01-26,2023-03-09,5,2400,5.0
+Spotify,Media,Post-IPO,Sweden,2023-01-23,2026-03-23,6,2370,8.3
+Redfin,Real Estate,Post-IPO,United States,2020-04-07,2025-02-12,7,2347,6.8
+OLX Group,Marketing,Acquired,Netherlands,2023-01-30,2023-06-20,2,2300,15.0
+Twilio,Other,Post-IPO,United States,2022-09-14,2023-02-13,2,2300,14.0
+Crypto.com,Crypto,Unknown,Singapore,2022-06-10,2022-10-06,2,2260,17.5
+Swiggy,Food,Series I,India,2020-04-21,2020-07-27,3,2250,9.5
+SolarEdge,Energy,Post-IPO,Israel,2024-01-21,2025-01-06,4,2200,14.0
+Coinbase,Crypto,Post-IPO,United States,2022-06-14,2023-01-10,3,2110,19.0
+WhiteHat Jr,Education,Acquired,India,2021-01-06,2022-06-28,2,2100,
+Synopsys,Other,Post-IPO,United States,2023-01-27,2025-11-12,2,2100,10.0
+Rivian,Transportation,Post-IPO,United States,2022-07-27,2025-10-23,7,2070,2.6
+Cruise,Transportation,Acquired,United States,2020-05-14,2025-02-04,3,2050,27.3
+Farfetch,Retail,Acquired,United Kingdom,2024-02-16,2024-02-16,1,2000,25.0
+WiseTech,Logistics,Post-IPO,Australia,2026-02-24,2026-02-24,1,2000,30.0
+Ocado,Food,Post-IPO,United Kingdom,2023-12-31,2026-02-26,2,2000,5.0
+Snap,Consumer,Post-IPO,United States,2022-08-31,2024-02-05,4,1970,15.0
+Electronic Arts,Consumer,Post-IPO,United States,2023-02-28,2025-04-29,4,1950,5.5
+Airbnb,Travel,Private Equity,United States,2020-05-05,2020-05-05,1,1900,25.0
+GoTo Group,Transportation,Post-IPO,Indonesia,2022-11-10,2023-03-10,2,1900,12.0
+Instacart,Food,Unknown,United States,2021-01-21,2021-01-21,1,1877,
+Epic Games,Consumer,Unknown,United States,2023-09-28,2026-03-24,2,1870,16.0
+Vroom,Transportation,Post-IPO,United States,2022-05-09,2024-01-23,5,1802,33.8
+Bytedance,Consumer,Unknown,India,2021-01-27,2021-01-27,1,1800,
+DocuSign,Sales,Post-IPO,United States,2022-09-28,2024-02-06,3,1791,8.3
+Unacademy,Education,Series H,India,2022-04-07,2024-07-02,4,1750,10.0
+ASML,Hardware,Post-IPO,Netherlands,2026-01-28,2026-01-28,1,1700,
+Expedia,Travel,Post-IPO,United States,2023-10-17,2026-02-01,3,1700,8.0
+Stone,Finance,Post-IPO,Brazil,2020-05-12,2026-03-13,2,1700,11.5
+Lucid Motors,Transportation,Post-IPO,United States,2023-03-28,2024-05-24,2,1700,12.0
+Just Eat,Food,Acquired,United Kingdom,2023-03-21,2023-03-21,1,1700,
+NetApp,Data,Post-IPO,United States,2023-01-31,2025-04-30,2,1660,7.0
+Flipkart,Retail,Acquired,India,2024-01-08,2026-03-06,3,1640,5.0
+Yahoo,Consumer,Acquired,United States,2023-02-09,2023-02-09,1,1600,20.0
+eBay,Retail,Post-IPO,United States,2023-02-07,2024-01-23,2,1500,6.5
+Agoda,Travel,Acquired,Singapore,2020-05-18,2020-05-18,1,1500,25.0
+PuduTech,Other,Series C,China,2022-07-08,2022-07-08,1,1500,
+Ola Electric,Transportation,Post-IPO,India,2024-11-22,2025-03-03,2,1500,
+PaisaBazaar,Finance,Series G,India,2020-06-16,2020-06-16,1,1500,50.0
+Cazoo,Transportation,Post-IPO,United Kingdom,2022-06-07,2022-06-07,2,1500,15.0
+Kraken,Crypto,Unknown,United States,2022-11-30,2024-10-30,2,1500,22.5
+Paytm,Finance,Unknown,India,2020-04-21,2023-12-25,2,1500,
+Qualcomm,Hardware,Post-IPO,United States,2022-12-22,2023-10-12,3,1495,2.0
+Chegg,Education,Post-IPO,United States,2023-06-12,2025-10-27,5,1476,23.0
+Zoom,Other,Post-IPO,United States,2023-02-07,2024-02-01,2,1450,8.5
+Opendoor,Real Estate,Post-IPO,United States,2022-11-02,2024-11-07,3,1410,19.0
+Copia,Retail,Series C,Kenya,2023-07-26,2024-06-06,2,1410,25.0
+Applied Material,Manufacturing,Post-IPO,United States,2025-10-23,2025-10-23,1,1400,4.0
+Infineon,Manufacturing,Post-IPO,Germany,2024-08-05,2024-08-05,1,1400,
+Dropbox,Other,Post-IPO,United States,2021-01-13,2024-10-30,3,1342,17.0
+Lam Research,Hardware,Post-IPO,United States,2023-01-25,2023-01-25,1,1300,7.0
+Indeed + Glassdoor,HR,Acquired,United States,2025-07-10,2025-07-10,1,1300,
+Toast,Food,Series F,United States,2020-04-07,2020-04-07,1,1300,50.0
+Juul,Consumer,Unknown,United States,2020-05-05,2022-11-10,2,1300,30.0
+Oracle,Other,Post-IPO,United States,2022-11-01,2025-09-04,7,1294,
+DoorDash,Food,Post-IPO,United States,2022-11-30,2022-11-30,1,1250,6.0
+Invitae,Healthcare,Post-IPO,United States,2022-07-19,2023-12-13,2,1235,15.0
+Zomato,Food,Series J,India,2020-05-15,2025-04-01,3,1220,8.5
+Robinhood,Finance,Post-IPO,United States,2022-04-26,2023-06-26,3,1203,13.0
+OYO,Travel,Series F,India,2020-12-08,2022-12-03,2,1200,
+Loft,Real Estate,Unknown,Brazil,2022-04-19,2023-03-03,4,1195,13.0
+Shutterfly,Retail,Acquired,United States,2021-01-25,2023-01-25,2,1160,
+Cars24,Transportation,Series G,India,2022-05-19,2025-05-27,4,1120,6.0
+Vedantu,Education,Series E,India,2022-05-05,2022-12-07,4,1109,5.0
+Viasat,Other,Post-IPO,United States,2023-04-12,2023-11-02,2,1100,7.0
+MindBody,Fitness,Post-IPO,United States,2020-04-02,2022-10-26,2,1100,25.0
+Capital One,Finance,Post-IPO,United States,2023-01-19,2023-01-19,1,1100,
+Sabre,Travel,Post-IPO,United States,2023-05-04,2023-05-04,1,1100,15.0
+TripAdvisor,Travel,Post-IPO,United States,2020-04-28,2025-02-04,3,1100,14.5
+Thoughtworks,Other,Post-IPO,United States,2023-03-01,2023-08-08,2,1079,4.5
+Cue Health,Healthcare,Post-IPO,United States,2023-04-28,2024-05-22,5,1075,44.4
+Magic Leap,Consumer,Series E,United States,2020-04-22,2024-07-19,2,1075,50.0
+Doma,Finance,Post-IPO,United States,2022-05-10,2022-12-06,3,1075,22.7
+Yelp,Consumer,Post-IPO,United States,2020-04-09,2020-07-13,2,1063,17.0
+TikTok,Consumer,Acquired,United States,2024-01-22,2024-05-21,2,1060,
+Stripe,Finance,Series H,United States,2022-08-19,2022-11-03,2,1050,14.0
+F5,Security,Post-IPO,United States,2022-10-21,2025-08-13,5,1049,3.2
+Blue Origin,Aerospace,Unknown,United States,2023-10-09,2025-02-13,2,1040,10.0
+eBay,Retail,Post-IPO,Israel,2023-12-17,2026-02-26,4,1040,6.0
+Swiggy,Food,Unknown,India,2022-12-08,2024-01-25,3,1030,5.3
+Blend,Finance,Post-IPO,United States,2022-04-19,2023-08-09,5,1010,15.0
+Citrix,Infrastructure,Acquired,United States,2024-01-10,2024-01-10,1,1000,12.0
+AMD,Hardware,Post-IPO,United States,2024-11-13,2024-11-13,1,1000,4.0
+Reliance JioMart,Food,Subsidiary,India,2023-05-23,2023-05-23,1,1000,
+Binance,Crypto,Unknown,Cayman Islands,2023-07-14,2023-07-14,1,1000,
+Hyland Software,Other,Acquired,United States,2023-04-03,2023-04-03,1,1000,20.0
+Grab,Transportation,Post-IPO,Singapore,2023-06-20,2023-06-20,1,1000,11.0
+FNZ,Finance,Private Equity,United Kingdom,2023-07-06,2023-07-06,1,1000,15.0
+Revel,Transportation,Unknown,United States,2024-06-06,2024-06-06,1,1000,
+Lilium,Aerospace,Post-IPO,Germany,2024-12-23,2024-12-23,1,1000,100.0
+Butler Hospitality,Food,Series B,United States,2022-07-08,2022-07-08,1,1000,100.0
+Redbox,Media,Acquired,United States,2024-07-10,2024-07-10,1,1000,100.0
+Livspace,Consumer,Series F,India,2026-02-20,2026-02-20,1,1000,12.0
+IBM,Hardware,Post-IPO,China,2024-08-26,2024-08-26,1,1000,
+Noom,Healthcare,Series F,United States,2022-04-29,2022-10-11,2,995,10.0
+Informatica,Data,Post-IPO,United States,2023-01-10,2023-11-01,2,995,8.5
+GoDaddy,Marketing,Post-IPO,United States,2020-06-24,2023-02-08,2,981,7.0
+Bytedance,Consumer,Unknown,Indonesia,2024-06-12,2024-10-11,2,950,
+OneTrust,Security,Series C,United States,2022-06-09,2022-06-09,1,950,25.0
+Curefit,Fitness,Series D,India,2020-05-04,2020-07-17,2,920,16.0
+Okta,Security,Post-IPO,United States,2022-08-26,2025-02-04,4,904,5.0
+Jumia,Retail,Post-IPO,Nigeria,2022-11-21,2022-11-21,1,900,20.0
+Grubhub,Food,Acquired,United States,2023-06-12,2025-02-28,2,900,19.0
+Sony Interactive,Consumer,Subsidiary,United States,2024-02-27,2024-02-27,1,900,8.0
+Bitwise,Crypto,Series B,United States,2023-06-14,2023-06-14,1,900,100.0
+Black Shark,Hardware,Unknown,China,2023-01-13,2023-01-13,1,900,
+Splunk,Data,Post-IPO,United States,2020-06-16,2023-11-01,3,895,4.0
+HelloFresh,Food,Post-IPO,United States,2022-10-10,2025-03-17,2,884,
+Freshworks,Support,Post-IPO,United States,2022-12-15,2024-11-07,3,864,5.7
+Lending Club,Finance,Post-IPO,United States,2020-04-21,2023-10-12,3,857,19.3
+Enphase Energy,Energy,Post-IPO,United States,2023-12-18,2024-11-11,2,850,13.5
+Pinterest,Consumer,Post-IPO,United States,2023-02-01,2026-01-27,2,850,15.0
+Gorillas,Food,Series C,Germany,2022-05-24,2022-07-03,2,840,50.0
+Zulily,Retail,Acquired,United States,2023-12-08,2023-12-08,1,839,100.0
+Zendesk,Support,Acquired,United States,2022-08-04,2025-02-21,4,801,6.5
+GoHealth,Healthcare,Post-IPO,United States,2022-08-09,2022-08-09,1,800,20.0
+Loggi,Logistics,Series F,Brazil,2022-08-08,2023-02-06,2,800,11.0
+CoverMyMeds,Healthcare,Acquired,United States,2023-03-29,2023-03-29,1,800,
+Klarna,Finance,Unknown,Sweden,2022-05-23,2022-09-22,2,800,10.0
+Skip the Dishes,Food,Acquired,Canada,2024-08-20,2024-08-20,1,800,
+Arrival,Transportation,Post-IPO,United Kingdom,2023-01-30,2023-01-30,1,800,50.0
+Xero,Finance,Post-IPO,New Zealand,2023-03-09,2023-03-09,1,800,15.0
+AppLovin,Marketing,Post-IPO,United States,2022-06-27,2025-04-16,7,790,12.0
+Flywheel Sports,Fitness,Acquired,United States,2020-03-20,2020-03-20,1,784,98.0
+Qualtrics,Other,Acquired,United States,2023-10-04,2023-10-04,1,780,14.0
+Lightspeed Commerce,Retail,Post-IPO,Canada,2023-01-17,2024-12-02,3,780,10.0
+Sprinklr,Support,Post-IPO,United States,2022-06-22,2025-02-06,4,766,7.3
+Illumina,Healthcare,Post-IPO,United States,2022-11-14,2024-02-01,3,762,5.0
+Roku,Media,Post-IPO,United States,2022-11-17,2023-09-06,3,760,7.7
+Red Hat,Other,Acquired,United States,2023-04-24,2023-04-24,1,760,4.0
+Delivery Hero,Food,Post-IPO,Germany,2021-12-22,2024-07-31,4,756,4.0
+Sema4,Healthcare,Post-IPO,United States,2022-08-15,2022-11-14,2,750,13.0
+Reef,Transportation,Unknown,United States,2022-05-06,2022-05-06,1,750,5.0
+Just Eat,Food,Acquired,Netherlands,2024-11-07,2025-09-25,2,750,3.5
+Wayfair,Retail,Post-IPO,Germany,2025-01-10,2025-01-10,1,730,3.0
+Compass,Real Estate,Post-IPO,United States,2022-06-14,2022-09-20,2,721,10.0
+Apple,Hardware,Post-IPO,United States,2024-04-04,2024-08-27,2,714,
+Meesho,Retail,Series F,India,2022-04-11,2023-05-05,3,701,15.0
+ShareChat,Consumer,Series H,India,2023-01-16,2023-12-20,2,700,17.5
+Sapiens,Finance,Acquired,Israel,2025-12-28,2025-12-28,1,700,15.0
+MakeMyTrip,Travel,Post-IPO,India,2020-06-01,2020-08-31,2,700,10.0
+Zebra Technologies,Manufacturing,Post-IPO,United States,2023-08-28,2023-08-28,1,700,7.0
+Cerebral,Healthcare,Series C,United States,2022-10-24,2023-02-27,2,685,17.5
+Eventbrite,Consumer,Post-IPO,United States,2020-04-08,2024-08-07,3,680,21.3
+Deliv,Retail,Series C,United States,2020-05-13,2020-05-13,1,669,100.0
+Zepz,Finance,Series E,United Kingdom,2023-05-16,2025-02-12,3,650,16.0
+Misfits Market,Food,Series C,United States,2023-02-09,2023-02-09,1,649,33.0
+Nuro,Transportation,Series D,United States,2022-07-13,2023-05-12,3,647,25.0
+Flexport,Logistics,Series E,United States,2023-01-11,2023-01-11,1,640,20.0
+SiriusXM,Media,Post-IPO,United States,2023-03-06,2024-02-12,2,635,5.5
+Udaan,Retail,Unknown,India,2022-06-27,2023-12-18,3,630,7.0
+Clear Capital,Real Estate,Unknown,United States,2022-10-14,2023-01-25,2,628,26.0
+Carbon Health,Healthcare,Series D,United States,2022-06-02,2024-02-23,4,620,6.5
+Convoy,Logistics,Series E,United States,2022-06-09,2023-10-19,3,620,37.3
+Sonos,Consumer,Post-IPO,United States,2020-06-24,2025-02-05,4,604,9.3
+Uber,Transportation,Post-IPO,India,2020-05-26,2020-05-26,1,600,23.0
+MFine,Healthcare,Series C,India,2022-05-21,2022-05-21,1,600,75.0
+Skill Lync,Education,Series A,India,2023-04-25,2023-07-13,2,600,
+Bybit,Crypto,Unknown,Singapore,2022-06-20,2022-06-20,1,600,30.0
+Opendoor,Real Estate,Series E,United States,2020-04-15,2020-04-15,1,600,35.0
+Dunzo,Food,Unknown,India,2023-04-05,2024-08-31,3,600,45.0
+GupShup,Other,Series F,India,2024-12-31,2025-09-04,3,600,
+1K Kirana,Retail,Series B,India,2023-04-04,2023-04-04,1,600,40.0
+Wish,Retail,Post-IPO,United States,2022-03-01,2023-07-27,3,595,22.0
+Bumble,Consumer,Post-IPO,United States,2024-02-27,2025-06-25,2,590,30.0
+Argo AI,Transportation,Unknown,United States,2022-07-07,2022-11-01,3,582,5.0
+Games 24x7,Consumer,Unknown,India,2025-05-07,2025-09-01,2,580,
+Take-Two,Consumer,Post-IPO,United States,2024-04-16,2024-04-16,1,579,5.0
+Riot Games,Consumer,Acquired,United States,2023-01-19,2024-01-22,2,576,11.0
+Huobi,Crypto,Unknown,China,2022-06-28,2023-01-06,2,575,25.0
+WayCool,Food,Unknown,India,2023-07-11,2024-07-26,3,570,12.0
+Affirm,Finance,Post-IPO,United States,2023-02-08,2024-02-21,2,560,19.0
+Cue,Healthcare,Post-IPO,United States,2022-06-27,2023-01-05,2,558,
+Infarm,Other,Series D,Germany,2022-09-14,2022-11-28,2,550,27.5
+Motional,Transportation,Unknown,United States,2024-05-10,2024-05-10,1,550,40.0
+TikTok,Consumer,Acquired,Ireland,2024-04-11,2025-03-06,2,550,
+Toast,Food,Post-IPO,United States,2024-02-15,2024-02-15,1,550,10.0
+WeWork,Real Estate,Series H,United States,2020-03-28,2020-04-29,2,550,
+New Relic,Infrastructure,Post-IPO,United States,2020-06-29,2023-06-27,4,545,7.3
+Akamai,Security,Post-IPO,United States,2023-05-09,2024-11-07,2,540,2.5
+Deliveroo,Food,Post-IPO,United Kingdom,2023-02-09,2026-02-25,2,537,9.0
+Careem,Transportation,Acquired,United Arab Emirates,2020-05-04,2020-05-04,1,536,31.0
+Eaze,Consumer,Series D,United States,2022-06-01,2024-10-07,2,525,100.0
+Hootsuite,Marketing,Series C,Canada,2022-08-09,2023-01-18,3,520,14.0
+SecureWorks,Security,Post-IPO,United States,2023-02-07,2023-08-14,2,512,12.0
+Beyond Meat,Food,Post-IPO,United States,2022-08-03,2023-11-02,4,505,12.5
+Upstart,Finance,Post-IPO,United States,2022-11-01,2023-01-31,2,505,13.5
+Netflix,Media,Post-IPO,United States,2022-04-28,2022-09-14,4,505,2.0
+Alerzo,Retail,Series B,Nigeria,2023-03-06,2023-11-21,2,500,
+Paycom,HR,Post-IPO,United States,2025-10-01,2025-10-01,1,500,
+Lendingkart,Finance,Unknown,India,2020-05-15,2020-05-15,1,500,50.0
+Cimpress,Retail,Post-IPO,France,2023-03-23,2023-03-23,1,500,
+CrowdStrike,Security,Post-IPO,United States,2025-05-07,2025-05-07,1,500,5.0
+Head Digital Works,Consumer,Private Equity,India,2025-09-04,2025-09-04,1,500,
+Avo,Food,Series B,Israel,2022-05-01,2022-05-01,1,500,67.0
+Veeam,Data,Acquired,United States,2023-03-23,2024-01-12,2,500,
+Blackbaud,Other,Post-IPO,United States,2023-02-14,2023-02-14,1,500,14.0
+Twitch,Consumer,Acquired,United States,2024-01-09,2024-01-09,1,500,35.0
+xAI,AI,Unknown,United States,2025-09-12,2025-09-12,1,500,
+Jump,Transportation,Acquired,United States,2020-05-07,2020-05-07,1,500,100.0
+Flyhomes,Real Estate,Series C,United States,2022-07-20,2022-11-09,2,500,30.0
+WeDoctor,Healthcare,Series F,China,2022-03-02,2022-03-02,1,500,
+PagBank,Finance,Post-IPO,Brazil,2023-01-16,2023-01-16,1,500,7.0
+OYO,Travel,Series F,Brazil,2020-04-25,2020-04-25,1,500,
+TuSimple,Transportation,Post-IPO,United States,2022-12-21,2023-12-04,2,500,25.0
+TomTom,Transportation,Post-IPO,Netherlands,2022-06-01,2022-06-01,1,500,10.0
+HubSpot,Marketing,Post-IPO,United States,2023-01-31,2023-01-31,1,500,7.0
+Cyberark,Security,Acquired,United States,2026-02-17,2026-02-17,1,500,12.0
+Twiga,Food,Series C,Kenya,2022-11-16,2023-08-20,2,494,27.0
+Airtable,Product,Series F,United States,2022-12-08,2023-09-14,2,491,23.5
+Bounce,Transportation,Series D,India,2020-03-19,2023-01-06,4,490,22.3
+Pegasystems,HR,Post-IPO,United States,2023-01-03,2023-08-31,2,485,4.0
+Guild,Education,Series F,United States,2023-05-24,2024-05-22,2,472,18.5
+Wix,Marketing,Post-IPO,Israel,2022-08-09,2023-02-15,2,470,6.0
+Rapid7,Security,Post-IPO,United States,2023-08-08,2023-08-08,1,470,18.0
+Gympass,Fitness,Series D,Brazil,2020-04-03,2020-04-03,1,467,33.0
+Root Insurance,Finance,Post-IPO,United States,2022-01-20,2022-11-09,2,467,20.0
+Kiwi.com,Travel,Unknown,Czech Republic,2024-01-30,2026-01-29,2,466,27.0
+The RealReal,Retail,Post-IPO,United States,2020-04-14,2023-02-16,2,465,8.5
+Western Digital,Hardware,Post-IPO,United States,2022-11-22,2023-06-13,2,462,
+Sonder,Travel,Post-IPO,United States,2022-06-08,2024-02-15,3,456,17.3
+iRobot,Consumer,Post-IPO,United States,2024-01-29,2024-11-06,2,455,23.5
+UiPath,Data,Post-IPO,United States,2022-06-27,2022-11-15,2,451,5.5
+OneWeb,Aerospace,Unknown,United Kingdom,2020-03-27,2020-03-27,1,451,85.0
+Cornershop,Food,Acquired,Chile,2023-05-11,2024-04-10,2,450,11.0
+Sophos,Security,Acquired,United Kingdom,2023-01-18,2023-01-18,1,450,10.0
+Bench,Finance,Series C,Canada,2024-12-27,2024-12-27,1,450,100.0
+Workrise,Energy,Series E,United States,2022-04-05,2022-04-05,1,450,
+Viaplay,Media,Unknown,Sweden,2023-07-20,2023-07-20,1,450,25.0
+Olive,Healthcare,Series H,United States,2022-07-19,2022-07-19,1,450,31.0
+Kaseya,Security,Private Equity,United States,2025-10-23,2026-01-08,2,450,5.0
+Livspace,Retail,Series D,India,2020-05-19,2020-05-19,1,450,15.0
+Checkr,HR,Series D,United States,2020-07-23,2024-04-09,2,446,22.0
+Juniper Networks,Hardware,Post-IPO,United States,2023-10-06,2023-10-06,1,440,4.0
+ezCater,Food,Series D,United States,2020-04-07,2025-11-21,2,440,24.0
+Glovo,Food,Acquired,Spain,2023-01-30,2024-05-25,4,437,6.0
+Gojek,Transportation,Series F,Indonesia,2020-06-23,2020-06-23,1,430,9.0
+TrueCar,Transportation,Post-IPO,United States,2020-05-28,2026-02-24,3,421,28.0
+Pristyn Care,Healthcare,Series E,India,2023-03-07,2024-03-01,2,420,11.0
+UIPath,Other,Post-IPO,United States,2024-07-09,2024-07-09,1,420,10.0
+Brex,Finance,Series D,United States,2022-10-11,2024-01-23,2,418,15.5
+Bird,Transportation,Series D,United States,2020-03-27,2020-03-27,1,406,30.0
+GamesKraft,Consumer,Unknown,India,2025-09-18,2025-11-10,2,400,
+Katerra,Construction,Series E,United States,2020-06-29,2020-06-29,1,400,7.0
+Nikola,Transportation,Post-IPO,United States,2023-06-16,2024-10-11,2,400,15.0
+Pico Interactive,Other,Acquired,United States,2023-02-16,2023-02-16,1,400,20.0
+Oriente,Finance,Series B,Hong Kong,2020-05-04,2020-05-04,1,400,20.0
+New Work SE,Consumer,Post-IPO,Germany,2024-01-11,2024-01-11,1,400,
+Milkrun,Food,Series A,Australia,2023-04-11,2023-04-11,1,400,100.0
+Mobile Premier League,Consumer,Series E,India,2022-05-30,2025-09-01,2,400,10.0
+Sonder,Travel,Series D,United States,2020-03-24,2020-03-24,1,400,33.0
+Enjoy,Retail,Post-IPO,United States,2022-06-30,2022-06-30,1,400,18.0
+Cvent,Marketing,Acquired,United States,2020-05-21,2020-05-21,1,400,10.0
+ZipRecruiter,Recruiting,Series B,United States,2020-03-29,2020-03-29,1,400,39.0
+SWVL,Transportation,Post-IPO,United Arab Emirates,2022-05-30,2022-05-30,1,400,32.0
+Ginkgo Bioworks,Healthcare,Post-IPO,United States,2024-06-20,2024-06-20,1,400,35.0
+GoStudent,Education,Series D,Austria,2022-09-08,2024-01-23,3,400,
+Milkbasket,Food,Acquired,India,2023-07-27,2023-07-27,1,400,67.0
+Pluralsight,Education,Acquired,United States,2022-12-12,2022-12-12,1,400,20.0
+AliExpress Russia,Retail,Acquired,Russia,2022-05-14,2022-05-14,1,400,40.0
+Kry,Healthcare,Series D,Sweden,2022-05-17,2022-10-31,2,400,10.0
+Niantic,Other,Series D,United States,2023-06-29,2025-03-25,3,398,
+Miro,Other,Series C,United States,2023-02-02,2024-10-30,2,394,12.5
+Renmoney,Finance,Unknown,Nigeria,2020-04-28,2020-04-28,1,391,50.0
+Just Eat Takeaway,Food,Post-IPO,Netherlands,2022-07-20,2022-07-20,1,390,
+Neon,Finance,Series D,Brazil,2023-02-15,2023-10-10,2,390,9.0
+Hopin,Other,Series D,United Kingdom,2022-02-10,2022-07-11,2,380,20.5
+Personio,HR,Series E,Germany,2024-01-24,2025-10-29,3,380,8.0
+Wex,Finance,Post-IPO,United States,2024-06-18,2024-06-18,1,375,5.0
+Compass,Real Estate,Series G,United States,2020-03-23,2020-03-23,1,375,15.0
+CommerceHub,Retail,Acquired,United States,2023-02-14,2023-02-14,1,371,31.0
+Zupee,Consumer,Series B,India,2025-09-11,2026-01-30,2,370,30.0
+Gemini,Crypto,Unknown,United States,2022-06-02,2025-02-05,3,368,8.5
+Deliveroo,Food,Series G,United Kingdom,2020-04-28,2020-04-28,1,367,15.0
+Nubank,Finance,Post-IPO,Brazil,2023-01-31,2023-06-07,3,366,
+BuzzFeed,Media,Post-IPO,United States,2022-12-06,2023-04-20,2,360,13.5
+Grab,Transportation,Series I,Singapore,2020-06-16,2020-06-16,1,360,5.0
+Moladin,Transportation,Series B,Indonesia,2023-02-12,2023-02-12,1,360,11.0
+Simpl,Finance,Series B,India,2023-04-09,2025-10-01,4,360,20.0
+Snyk,Security,Series F,United States,2022-06-30,2023-04-13,3,356,14.0
+iFood,Food,Subsidiary,Brazil,2023-03-01,2023-03-01,1,355,6.0
+8x8,Support,Post-IPO,United States,2022-10-04,2023-01-18,2,355,8.0
+Enovix,Energy,Post-IPO,United States,2023-10-05,2024-05-06,2,355,33.0
+Paper,Education,Series D,Canada,2023-04-17,2024-08-16,4,355,13.8
+SSense,Retail,Series A,Canada,2023-01-27,2026-03-05,2,353,7.0
+Junglee Games,Consumer,Seed,India,2025-11-26,2025-11-26,1,350,
+Sea,Retail,Post-IPO,India,2022-03-30,2022-03-30,1,350,
+SkipTheDishes,Food,Acquired,Canada,2022-09-09,2022-09-09,1,350,
+VerSe Innovation copy,Media,Series J,India,2025-05-18,2025-05-18,1,350,
+Selina,Travel,Post-IPO,United Kingdom,2023-06-27,2023-06-27,1,350,
+Grail,Healthcare,Post-IPO,United States,2024-08-13,2024-08-13,1,350,
+Meero,Other,Series C,France,2022-05-09,2022-05-09,1,350,50.0
+LendingTree,Finance,Post-IPO,United States,2022-11-03,2023-03-30,2,350,13.0
+Porter,Logistics,Series F,India,2025-11-04,2025-11-04,1,350,18.0
+Toppr,Education,Acquired,India,2022-06-29,2022-06-29,1,350,
+ZipRecruiter,Recruiting,Post-IPO,United States,2023-05-31,2025-09-16,2,350,20.0
+Green Labs,Food,Series C,South Korea,2023-02-21,2023-02-21,1,350,70.0
+Angi,Consumer,Post-IPO,United States,2026-01-07,2026-01-07,1,350,
+MPL,Consumer,Unknown,India,2023-08-08,2023-08-08,1,350,
+Moxion Power,Energy,Unknown,United States,2024-06-26,2024-07-29,2,349,100.0
+KeepTruckin,Logistics,Series D,United States,2020-03-31,2020-03-31,1,349,18.0
+23andMe,Healthcare,Post-IPO,United States,2023-06-09,2024-11-11,3,346,20.0
+Noon,Retail,Unknown,Saudi Arabia,2023-04-18,2023-04-18,1,340,10.0
+Wayfair ,Retail,Post-IPO,Germany,2025-03-07,2025-03-07,1,340,
+Sage Therapeutics,Healthcare,Post-IPO,United States,2020-04-07,2020-04-07,1,340,53.0
+FarEye,Logistics,Series E,India,2022-06-10,2023-02-03,2,340,30.0
+Ebanx,Finance,Series B,Brazil,2022-06-21,2022-06-21,1,340,20.0
+Oportun,Finance,Post-IPO,United States,2023-02-09,2023-11-07,2,340,8.5
+Evolve,Travel,Series F,United States,2023-05-29,2023-09-12,2,339,17.0
+GoPro,Consumer,Post-IPO,United States,2020-04-15,2024-08-19,2,339,17.5
+Innovaccer,Healthcare,Series E,United States,2022-09-01,2023-01-24,2,335,11.5
+Clear,Finance,Series C,India,2022-09-16,2025-08-01,2,335,18.0
+Faire,Retail,Series G,United States,2022-10-18,2023-11-01,2,334,13.5
+IAC,Consumer,Post-IPO,United States,2024-01-10,2024-01-10,1,330,
+Luno,Crypto,Acquired,United Kingdom,2023-01-25,2023-01-25,1,330,35.0
+Freshly,Food,Acquired,United States,2022-12-12,2022-12-12,1,329,
+Outbrain,Marketing,Post-IPO,United States,2022-07-26,2025-02-05,3,328,6.5
+Match Group,Consumer,Post-IPO,United States,2025-05-08,2025-05-08,1,325,13.0
+Truepill,Healthcare,Series D,United States,2022-06-08,2022-08-11,2,325,24.0
+Marvell,Hardware,Post-IPO,United States,2023-03-21,2023-03-21,1,320,4.0
+Alteryx,Data,Post-IPO,United States,2023-04-27,2023-04-27,1,320,11.0
+Fate Therapeutics,Healthcare,Post-IPO,United States,2023-01-09,2023-01-09,1,315,57.0
+Five9,Support,Post-IPO,United States,2024-08-20,2025-04-03,2,313,5.5
+Mozilla,Consumer,Unknown,United States,2020-08-11,2024-02-13,2,310,15.0
+ConsenSys,Crypto,Series D,United States,2023-01-10,2025-07-22,3,310,12.7
+Fiverr,Other,Post-IPO,Israel,2022-07-26,2025-09-15,2,310,19.0
+McMakler,Real Estate,Unknown,Germany,2022-07-26,2023-11-21,4,310,
+Edgio,Infrastructure,Post-IPO,United States,2022-12-13,2024-03-04,3,309,10.7
+Project44,Logistics,Unknown,United States,2022-07-15,2023-09-14,3,309,7.5
+Ribbon,Real Estate,Series C,United States,2022-07-28,2022-11-14,2,306,85.0
+Coherent,Manufacturing,Post-IPO,United States,2023-03-16,2023-06-06,2,304,
+Adjust,Marketing,Acquired,Germany,2024-11-22,2024-11-22,1,304,
+Stripe,Finance,Series I,United States,2025-01-21,2025-01-21,1,300,3.0
+Samsara,Logistics,Series F,United States,2020-05-20,2020-05-20,1,300,18.0
+Sojern,Marketing,Series D,United States,2020-04-03,2020-04-03,1,300,50.0
+Klook,Travel,Series D,Hong Kong,2020-04-20,2020-04-20,1,300,15.0
+Otipy,Food,Series B,India,2025-05-23,2025-05-23,1,300,100.0
+Glassdoor,Recruiting,Acquired,United States,2020-05-07,2020-05-07,1,300,30.0
+Adda247,Education,Series B,India,2023-10-14,2023-10-14,1,300,
+Better Collective,Other,Unknown,Denmark,2024-11-14,2024-11-14,1,300,
+UKG,HR,Unknown,Uruguay,2025-11-18,2025-11-18,1,300,
+Yellow.ai,Support,Series C,United States,2023-03-01,2025-12-23,2,300,30.0
+Cybereason,Security,Series F,United States,2022-06-01,2022-10-26,2,300,11.5
+TomTom,Other,Post-IPO,Netherlands,2025-06-30,2025-06-30,1,300,10.0
+Spinny,Transportation,Series E,India,2023-08-02,2023-08-02,1,300,5.0
+TripActions,Travel,Series D,United States,2020-03-25,2020-03-25,1,300,25.0
+Proterra,Transportation,Post-IPO,United States,2023-01-19,2023-01-19,1,300,
+Zip,Finance,Post-IPO,Australia,2023-07-02,2023-07-02,1,300,20.0
+Skyscanner,Travel,Acquired,United Kingdom,2020-07-14,2020-07-14,1,300,20.0
+Logitech,Hardware,Post-IPO,Switzerland,2023-03-22,2023-03-22,1,300,
+Bol.com,Retail,Acquired,Netherlands,2022-12-09,2022-12-09,1,300,10.0
+Skybox Security,Security,Private Equity,United States,2025-02-24,2025-02-24,1,300,100.0
+Anaplan,Other,Acquired,United States,2023-06-21,2023-06-21,1,300,
+iFit,Fitness,Private Equity,United States,2022-11-14,2022-11-14,1,300,20.0
+Wise,Finance,Post-IPO,United States,2025-02-10,2025-02-10,1,300,
+Wildlife Studios,Consumer,Unknown,Brazil,2022-11-28,2022-11-28,1,300,20.0
+Tekion,Other,Series D,India,2023-08-02,2023-08-02,1,300,10.0
+Mobileye,Transportation,Post-IPO,Israel,2024-09-09,2025-12-08,2,300,4.0
+Sono Motors,Transportation,Post-IPO,Germany,2023-02-27,2023-02-27,1,300,
+Color Health,Healthcare,Series E,United States,2023-03-01,2023-03-01,1,300,
+SAP Labs,Other,Subsidiary,India,2023-02-24,2023-02-24,1,300,
+Wave,Finance,Series A,Senegal,2022-07-13,2022-07-13,1,300,15.0
+Zepto,Retail,Series H,India,2025-10-18,2025-10-18,1,300,5.0
+Extramarks,Education,Unknown,India,2023-04-26,2023-04-26,1,300,
+Lacework,Security,Series D,United States,2022-05-25,2022-05-25,1,300,20.0
+WeWork ,Real Estate,Post-IPO,United States,2023-01-19,2023-01-19,1,300,
+Tencent,Consumer,Post-IPO,China,2023-02-17,2023-02-17,1,300,
+Envato,Marketing,Unknown,Australia,2022-06-02,2026-03-04,2,300,30.0
+Trell,Retail,Series B,India,2022-03-15,2022-03-15,1,300,50.0
+Teladoc Health,Healthcare,Post-IPO,United States,2023-01-18,2023-01-18,1,300,6.0
+SEND,Food,Seed,Australia,2022-05-04,2022-05-04,1,300,100.0
+Planet,Aerospace,Post-IPO,United States,2023-08-01,2024-06-26,2,297,13.5
+Supernal,Transportation,Unknown,United States,2026-03-04,2026-03-04,1,296,80.0
+Oda,Food,Unknown,Norway,2022-11-01,2024-06-05,3,290,12.0
+Sage Therapeutics copy,Healthcare,Post-IPO,United States,2023-09-15,2023-09-15,1,290,
+Bolt,Finance,Series E,United States,2022-05-25,2023-01-24,2,290,18.5
+Pear Therapeutics,Healthcare,Post-IPO,United States,2022-11-14,2023-04-07,3,288,45.3
+Voi,Transportation,Series D,Sweden,2022-06-22,2024-02-16,3,285,11.7
+Jam City,Consumer,Unknown,United States,2022-08-04,2024-08-05,2,285,13.5
+Automattic,Other,Series E,United States,2025-04-02,2025-04-02,1,281,16.0
+CityMall,Retail,Series C,India,2022-06-19,2023-10-16,2,281,30.0
+Udemy,Education,Post-IPO,United States,2024-09-11,2024-09-11,1,280,
+Haven Technologies,Finance,Subsidiary,United States,2023-06-01,2023-06-01,1,280,70.0
+BeepKart,Retail,Series A,India,2024-10-08,2025-08-23,2,280,70.0
+RenoRun,Construction,Series B,Canada,2022-08-04,2022-10-27,2,280,27.5
+C3.ai,AI,Series F,United States,2026-02-25,2026-02-25,1,280,26.0
+Proofpoint,Security,Acquired,United States,2024-01-31,2024-01-31,1,280,6.0
+Asana,Other,Post-IPO,United States,2022-11-15,2025-02-04,2,280,9.0
+FrontRow,Education,Series A,India,2022-05-27,2022-10-12,2,275,52.5
+Restaurant365,Food,Series C,United States,2020-03-27,2025-08-14,2,275,9.0
+Pure Storage,Data,Post-IPO,United States,2024-02-08,2024-02-08,1,275,
+Pocket FM,Media,Series D,India,2024-07-27,2025-01-16,2,275,
+Rackspace,Data,Acquired,United States,2023-03-27,2023-03-27,1,275,
+Latch,Security,Post-IPO,United States,2022-05-10,2022-08-02,3,275,23.7
+Jellysmack,Media,Series C,France,2023-02-15,2024-10-21,4,273,
+Branch,Finance,Series C,United States,2023-06-08,2024-01-09,2,271,
+Yotpo,Marketing,Unknown,United States,2022-11-16,2025-08-05,2,270,21.5
+Qualtrics,Other,Post-IPO,United States,2023-01-11,2023-01-11,1,270,5.0
+ZoomInfo,Sales,Post-IPO,Canada,2023-06-02,2025-06-09,2,270,3.5
+Bitpanda,Crypto,Series C,Austria,2022-06-24,2022-06-24,1,270,27.0
+Twist Bioscience,Healthcare,Post-IPO,United States,2023-05-05,2023-05-05,1,270,25.0
+Nutanix,Infrastructure,Post-IPO,United States,2022-08-09,2022-08-09,1,270,4.0
+BookMyShow,Consumer,Unknown,India,2020-05-28,2020-05-28,1,270,18.0
+Drizly,Retail,Acquired,United States,2023-03-29,2024-02-05,2,268,100.0
+Tonal,Fitness,Series E,United States,2022-07-13,2022-07-13,1,262,35.0
+Blockchain.com,Crypto,Series D,United Kingdom,2022-07-21,2023-01-12,2,260,26.5
+Tier Mobility,Transportation,Series D,Germany,2022-08-23,2023-01-25,2,260,11.5
+Automation Anywhere,Other,Series B,United States,2020-04-27,2020-04-27,1,260,10.0
+Mural,Product,Series C,United States,2022-05-05,2023-06-01,2,260,10.0
+Plaid,Finance,Series D,United States,2022-12-07,2022-12-07,1,260,20.0
+Forto,Logistics,Series D,Germany,2022-11-11,2025-04-12,2,260,8.0
+Payoneer,Finance,Post-IPO,United States,2023-06-26,2025-12-08,2,260,8.0
+WeTransfer,Other,Acquired,Netherlands,2024-09-08,2024-09-08,1,260,75.0
+Facily,Retail,Series D,Brazil,2022-04-20,2022-04-20,1,260,30.0
+RealPage,Real Estate,Acquired,United States,2024-06-27,2024-06-27,1,260,4.0
+Turo,Transportation,Series E,United States,2020-03-31,2025-04-16,2,258,23.5
+Ritual,Food,Series C,Canada,2020-04-02,2023-06-21,3,257,36.7
+Everlane,Retail,Unknown,United States,2020-03-27,2023-01-05,2,257,17.0
+Chrono24,Retail,Series C,Germany,2022-12-08,2025-01-16,3,255,18.5
+Houzz,Consumer,Series E,United States,2020-04-21,2022-12-07,2,250,9.0
+Aptiv,Transportation,Post-IPO,Poland,2024-02-20,2024-02-20,1,250,
+HOOQ,Consumer,Unknown,Singapore,2020-03-27,2020-03-27,1,250,100.0
+Verily,Healthcare,Subsidiary,United States,2023-01-11,2023-01-11,1,250,15.0
+ChargePoint,Manufacturing,Unknown,United States,2024-09-04,2024-09-04,1,250,15.0
+TravelTriangle,Travel,Series D,India,2020-03-28,2020-03-28,1,250,50.0
+Thumbtack,Consumer,Series F,United States,2020-03-30,2020-03-30,1,250,30.0
+OLX India,Marketing,Acquired,India,2020-10-10,2020-10-10,1,250,
+BlockFi,Crypto,Series E,United States,2022-06-13,2022-06-13,1,250,20.0
+Big Fish Games,Media,Acquired,United States,2020-09-01,2020-09-01,1,250,
+Instacart,Food,Post-IPO,United States,2024-02-13,2024-02-13,1,250,7.0
+Pleo,Finance,Series C,Denmark,2022-11-03,2025-11-19,2,250,13.5
+SAS,Data,Unknown,United States,2023-05-01,2023-05-01,1,250,
+B8ta,Retail,Series C,United States,2020-03-26,2020-03-26,1,250,50.0
+Magicbricks,Real Estate,Unknown,India,2020-05-17,2020-05-17,1,250,
+ZestMoney,Finance,Series C,India,2023-04-07,2023-12-05,2,250,60.0
+Hopper,Travel,Unknown,Canada,2023-10-04,2023-10-04,1,250,30.0
+Swappie,Retail,Series C,Finland,2022-06-15,2022-06-15,1,250,17.0
+Stoqo,Food,Series A,Indonesia,2020-04-25,2020-04-25,1,250,100.0
+MaxMilhas,Travel,Unknown,Brazil,2020-04-03,2023-09-05,2,249,30.0
+Cameo,Consumer,Unknown,United States,2022-05-04,2023-07-18,3,247,25.0
+Broadcom,Hardware,Post-IPO,United States,2025-10-17,2025-10-17,1,247,
+Shutterfly,Manufacturing,Post-IPO,United States,2023-08-10,2023-08-10,1,246,
+SoundHound,Other,Post-IPO,United States,2022-11-10,2023-01-05,2,245,30.0
+ThredUp,Retail,Series F,United States,2021-02-09,2021-02-09,1,243,
+Chargebee,Finance,Series H,United States,2022-11-02,2023-09-11,2,242,10.0
+Pagaya,Finance,Post-IPO,Israel,2023-01-18,2024-06-05,2,240,20.0
+NS8,Data,Series A,United States,2020-09-11,2020-09-11,1,240,95.0
+Sisense,Data,Series F,United States,2020-04-23,2024-01-11,3,240,12.3
+Katerra,Construction,Series D,United States,2020-04-02,2020-04-02,1,240,3.0
+Highspot,Sales,Series F,United States,2023-02-02,2023-06-08,2,240,12.5
+Stash,Finance,Unknown,United States,2022-12-06,2024-12-04,4,240,20.8
+Runtastic,Fitness,Acquired,Austria,2023-03-16,2024-09-16,2,240,28.0
+Kayak / OpenTable,Travel,Acquired,United States,2020-04-29,2023-10-16,2,240,8.0
+Bullhorn,Sales,Acquired,United States,2020-04-30,2023-10-19,2,240,9.0
+TaskUs,Support,Post-IPO,United States,2022-06-21,2023-02-22,2,238,0.0
+Motive,Transportation,Series F,United States,2022-12-07,2022-12-07,1,237,6.0
+Khoros,Sales,Private Equity,United States,2022-10-21,2025-06-20,2,236,10.0
+Recur Forever,Crypto,Series A,United States,2022-12-07,2022-12-07,1,235,
+Frontdesk,Travel,Unknown,United States,2020-04-10,2024-01-02,2,235,58.0
+Lightricks,Consumer,Series D,Israel,2022-07-04,2025-10-27,3,235,13.0
+Headspace,Healthcare,Unknown,United States,2022-12-14,2023-06-29,2,231,9.5
+InvestCloud,Finance,Private Equity,United States,2023-10-06,2026-03-10,2,230,5.0
+ManoMano,Retail,Series F,France,2023-10-18,2023-10-18,1,230,25.0
+Embark Trucks,Transportation,Post-IPO,United States,2023-03-03,2023-03-03,1,230,70.0
+Grammarly,Consumer,Unknown,United States,2024-02-07,2024-02-07,1,230,
+Uber Freight,Logistics,Subsidiary,United States,2023-01-23,2024-01-09,3,230,3.0
+Flexe,Logistics,Series D,United States,2023-09-26,2024-01-08,2,230,35.5
+DealShare,Retail,Series E,India,2023-01-27,2023-09-21,2,230,6.0
+Zwift,Fitness,Series C,United States,2022-05-12,2023-03-07,2,230,15.0
+Rupeek,Finance,Unknown,India,2022-06-07,2022-09-07,2,230,15.0
+Hotmart,Marketing,Series C,Brazil,2022-10-20,2022-10-20,1,227,12.0
+Booking.com,Travel,Acquired,United States,2022-11-01,2022-11-01,1,226,
+Zipcar,Transportation,Acquired,United States,2020-03-27,2026-02-02,2,226,20.0
+Sarcos,Aerospace,Post-IPO,United States,2023-07-17,2023-11-14,2,225,25.0
+Malwarebytes,Security,Series B,United States,2022-08-17,2023-08-31,2,225,14.0
+Uber,Transportation,Post-IPO,Netherlands,2020-06-12,2020-06-12,1,225,25.0
+Etsy,Retail,Post-IPO,United States,2023-12-13,2023-12-13,1,225,11.0
+iRobot,Consumer,Acquired,United States,2022-08-05,2023-02-13,2,225,8.5
+Tipalti,Finance,Series F,United States,2023-01-11,2026-01-15,2,223,11.0
+LivePerson,Support,Post-IPO,United States,2020-11-01,2022-09-15,2,223,11.0
+Electric,Other,Series D,United States,2022-08-30,2023-02-13,2,222,25.0
+Confluent,Data,Post-IPO,United States,2023-01-26,2023-01-26,1,221,8.0
+ServiceTitan,Sales,Series G,United States,2023-02-15,2023-02-15,1,221,8.0
+Stay Alfred,Travel,Series B,United States,2020-05-20,2020-05-20,1,221,100.0
+Velodyne Lidar,Transportation,Acquired,United States,2023-02-24,2023-02-24,1,220,
+FreshBooks,Finance,Unknown,Canada,2023-03-21,2024-10-01,2,220,10.0
+FormFactor,Manufacturing,Post-IPO,United States,2026-01-09,2026-01-09,1,220,11.0
+Bizzabo,Marketing,Series E,United States,2022-07-05,2022-12-01,2,220,33.5
+Bungie,Consumer,Acquired,United States,2024-07-31,2024-07-31,1,220,17.0
+Zoox,Transportation,Series B,United States,2020-04-03,2020-04-13,2,220,10.0
+Article,Retail,Series B,Canada,2022-08-04,2022-08-04,1,216,17.0
+Olive AI,Healthcare,Series H,United States,2023-02-09,2023-02-09,1,215,35.0
+Vendease,Food,Series A,Nigeria,2022-11-25,2025-02-19,3,215,24.3
+StepStone,Recruiting,Acquired,Germany,2023-10-30,2023-10-30,1,215,5.0
+OneFootball,Marketing,Series D,Germany,2022-12-09,2023-02-23,2,212,21.8
+Intercom,Support,Series D,United States,2020-05-20,2022-11-14,3,212,8.0
+OrCam,Healthcare,Unknown,Israel,2022-10-23,2024-06-03,3,212,28.3
+AppFolio,Real Estate,Post-IPO,United States,2023-05-22,2023-08-17,2,211,9.0
+AdRoll,Marketing,Series C,United States,2020-03-31,2020-03-31,1,210,30.0
+MessageBird,Other,Series C,Netherlands,2024-03-05,2025-02-10,2,210,26.5
+Meow Wolf,Media,Unknown,United States,2020-04-10,2023-12-04,2,209,
+Waymo,Transportation,Subsidiary,United States,2023-03-01,2023-03-01,1,209,8.0
+Discord,Consumer,Series H,United States,2023-08-03,2024-01-11,2,207,10.5
+Britishvolt,Transportation,Unknown,United Kingdom,2023-01-17,2023-01-17,1,206,100.0
+eToro,Finance,Unknown,Israel,2022-07-05,2026-01-13,2,205,6.5
+Smartsheet,Other,Post-IPO,United States,2023-02-16,2025-10-02,2,205,3.0
+Rad Power Bikes,Transportation,Series D,United States,2022-04-12,2023-07-10,3,203,12.0
+Cuemath,Education,Unknown,India,2023-05-08,2023-08-26,2,200,
+Planetly,Other,Acquired,Germany,2022-11-04,2022-11-04,1,200,100.0
+Smava,Finance,Unknown,Germany,2022-08-31,2022-11-02,2,200,12.5
+Hirect,Recruiting,Series A,India,2022-11-28,2022-11-28,1,200,40.0
+WeWork,Real Estate,Series H,United Kingdom,2020-06-19,2020-06-19,1,200,
+Xendit,Finance,Series D,Indonesia,2024-01-22,2024-01-22,1,200,
+Ninjacart,Food,Unknown,India,2021-02-23,2021-02-23,1,200,
+Wayflyer,Marketing,Unknown,Ireland,2022-11-16,2022-11-16,1,200,40.0
+Shopee,Food,Unknown,Indonesia,2023-03-09,2023-03-09,1,200,
+Chewy,Retail,Post-IPO,United States,2023-11-14,2023-11-14,1,200,
+Navi Technologies,Finance,Unknown,India,2023-07-13,2023-07-13,1,200,
+Justworks,HR,Unknown,United States,2025-02-10,2025-02-10,1,200,
+Synamedia,Media,Unknown,United Kingdom,2023-02-22,2023-02-22,1,200,12.0
+Easee,Energy,Unknown,Norway,2023-08-14,2023-08-14,1,200,57.0
+Daniel Wellington,Retail,Unknown,Sweden,2022-06-09,2022-06-09,1,200,15.0
+Eroad,Transportation,Unknown,New Zealand,2023-07-28,2023-07-28,1,200,31.0
+Meesho,Retail,Series D,India,2020-04-08,2020-04-08,1,200,28.0
+Pollen,Travel,Series C,United Kingdom,2022-05-10,2022-05-10,1,200,33.0
+DigitalOcean,Infrastructure,Post-IPO,United States,2023-02-15,2023-02-15,1,200,11.0
+ChowNow,Food,Series C,United States,2022-07-13,2024-03-28,3,200,16.7
+Merative,Healthcare,Acquired,United States,2023-02-23,2023-02-23,1,200,10.0
+Hulu,Media,Acquired,China,2023-03-30,2023-03-30,1,200,
+Flymya,Travel,Unknown,Myanmar,2020-04-01,2020-04-01,1,200,33.0
+King.com,Consumer,Acquired,Sweden,2025-07-14,2025-07-14,1,200,
+EverBridge,Other,Post-IPO,United States,2022-11-08,2022-11-08,1,200,
+Zume,Food,Unknown,United States,2020-04-15,2020-04-15,1,200,67.0
+Emma Sleep,Retail,Acquired,Germany,2024-06-19,2024-06-19,1,200,18.0
+StubHub,Consumer,Acquired,United States,2020-05-28,2020-05-28,1,200,
+Forward,Healthcare,Series E,United States,2024-11-12,2024-11-12,1,200,100.0
+MX,Finance,Series C,United States,2022-10-11,2022-10-11,1,200,
+Zenius,Education,Series B,Indonesia,2022-05-24,2022-05-24,1,200,
+Kape Technologies,Security,Post-IPO,United Kingdom,2023-07-30,2023-07-30,1,200,30.0
+Booksy,Consumer,Series B,United States,2020-04-01,2020-04-01,1,200,
+Pipe,Finance,Series D,United States,2025-11-16,2025-11-16,1,200,50.0
+DataRobot,Data,Series E,United States,2020-03-27,2020-03-27,1,200,
+Simplilearn,Education,Acquired,India,2023-12-07,2023-12-07,1,200,
+MyGate,Other,Series B,India,2023-02-20,2023-02-20,1,200,30.0
+Software AG,Data,Post-IPO,Germany,2023-01-31,2023-01-31,1,200,4.0
+Fareportal,Travel,Unknown,India,2020-03-26,2020-03-26,1,200,
+MediBuddy,Healthcare,Acquired,India,2023-01-20,2023-01-20,1,200,8.0
+Shop101,Retail,Series C,India,2020-04-15,2020-04-15,1,200,40.0
+PayFit,HR,Series E,France,2023-03-01,2023-03-01,1,200,20.0
+VTEX,Retail,Post-IPO,Brazil,2022-05-26,2022-05-26,1,200,13.0
+JD.ID,Retail,Post-IPO,Indonesia,2022-12-14,2022-12-14,1,200,30.0
+ABBYY,Data,Unknown,Cyprus,2024-10-01,2024-10-01,1,200,
+StockX,Retail,Series E,United States,2022-06-28,2022-06-28,2,200,8.0
+Scale AI,Data,Series E,United States,2025-07-16,2025-07-16,1,200,14.0
+Beam,Other,Unknown,United Kingdom,2025-05-01,2025-05-01,1,200,100.0
+CareerBuilder + Monster,Recruiting,Acquired,United States,2024-10-10,2024-10-10,1,200,15.0
+CarDekho,Transportation,Series D,India,2020-05-25,2020-05-25,1,200,
+BlackBuck,Logistics,Series D,India,2020-04-17,2020-04-17,1,200,
+MasterClass,Education,Series E,United States,2022-06-22,2023-03-02,2,199,20.0
+ShareFile,Other,Acquired,United States,2024-11-07,2024-11-07,1,199,
+Glints,HR,Series D,Singapore,2022-12-08,2022-12-08,1,198,18.0
+Brightcove,Marketing,Acquired,United States,2025-03-19,2025-03-19,1,198,33.0
+Outreach,Sales,Series G,United States,2022-08-02,2024-11-06,3,197,7.0
+Palantir,Data,Post-IPO,United States,2023-02-27,2025-03-27,2,195,2.0
+ShopBack,Retail,Series F,Singapore,2024-03-19,2024-03-19,1,195,24.0
+Rover,Consumer,Series G,United States,2020-03-31,2020-03-31,1,194,41.0
+Chainalysis,Crypto,Series F,United States,2023-02-01,2023-10-02,2,194,10.0
+Dock,Finance,Private Equity,Brazil,2022-11-07,2022-11-07,1,190,12.0
+Hippo Insurance,Finance,Post-IPO,United States,2022-08-31,2023-10-26,2,190,15.0
+Integral Ad Science,Marketing,Acquired,United States,2020-05-14,2022-12-07,2,190,11.5
+2TM,Crypto,Unknown,Brazil,2022-06-01,2022-09-01,2,190,13.5
+Zymergen,Other,Acquired,United States,2022-07-25,2023-05-03,3,187,
+Clearco,Finance,Series C,Canada,2022-06-06,2022-07-29,2,185,25.0
+Rapid,Finance,Series D,United States,2023-04-25,2023-04-25,2,185,40.0
+Flywire,Finance,Series E,United States,2020-05-07,2025-02-26,2,185,12.0
+Chipper Cash,Finance,Series C,United States,2022-12-06,2024-03-15,4,185,26.2
+AvantStay,Travel,Private Equity,United States,2022-11-09,2023-06-20,2,181,22.0
+Bitso,Crypto,Series C,Mexico,2022-05-26,2022-11-29,2,180,11.0
+BigCommerce,Retail,Post-IPO,United States,2022-12-15,2022-12-15,1,180,13.0
+BenevolentAI,Healthcare,Private Equity,United Kingdom,2023-05-25,2023-05-25,1,180,
+SurveyMonkey,Marketing,Post-IPO,United States,2022-10-10,2022-10-10,1,180,11.0
+Checkout.com,Finance,Series D,United Kingdom,2022-09-13,2023-12-18,2,180,5.0
+Konfio,Finance,Series E,Mexico,2022-09-23,2022-09-23,1,180,
+Orchard,Real Estate,Series D,United States,2022-11-17,2022-11-17,1,180,
+Xiaohongshu,Consumer,Series E,China,2022-04-21,2022-04-21,1,180,9.0
+Kape,Security,Post-IPO,United Kingdom,2023-07-28,2023-07-28,1,180,
+Furlenco,Retail,Series D,India,2022-03-26,2022-03-26,1,180,
+Trax,Retail,Series E,Singapore,2022-06-20,2022-11-22,2,180,10.0
+Similarweb,Other,Post-IPO,United States,2022-11-16,2023-05-10,2,180,8.0
+Postmates,Food,Acquired,United States,2021-01-23,2021-01-23,1,180,15.0
+Procore,Construction,Unknown,United States,2020-07-28,2020-07-28,1,180,9.0
+Avaya,Other,Post-IPO,United States,2024-08-01,2024-08-01,1,180,3.0
+Teads,Marketing,Unknown,United States,2025-12-04,2025-12-04,1,180,10.0
+Storytel,Media,Post-IPO,Sweden,2022-03-17,2024-01-24,2,180,11.5
+Cogito,Data,Unknown,India,2023-04-29,2023-04-29,1,177,
+Zscaler,Security,Post-IPO,United States,2023-03-02,2023-03-02,1,177,3.0
+Alice,Healthcare,Series C,Brazil,2022-07-11,2022-12-09,2,176,16.0
+Thinkific,Education,Post-IPO,Canada,2022-03-29,2023-01-10,2,176,19.5
+Astronomer,Data,Series C,United States,2023-01-04,2023-04-13,2,176,30.0
+Weedmaps,Other,Acquired,United States,2022-12-06,2022-12-06,1,175,25.0
+Inmobi,Marketing,Unknown,India,2023-01-23,2024-01-11,2,175,5.0
+Trybe,Education,Series B,Brazil,2022-08-10,2023-06-09,2,175,22.5
+Socure,Finance,Series E,United States,2022-06-17,2023-01-05,2,173,16.0
+Varo,Finance,Series E,United States,2022-07-20,2023-05-11,2,172,
+Telenav,Transportation,Post-IPO,Romania,2023-05-12,2023-05-12,1,172,
+Gem,Recruiting,Series C,United States,2022-11-01,2023-08-02,2,170,33.0
+Notarize,Legal,Series D,United States,2022-06-15,2022-10-31,2,170,25.0
+PolicyGenius,Finance,Series E,United States,2022-06-02,2022-06-02,1,170,25.0
+Matterport,Data,Post-IPO,United States,2023-07-11,2023-07-11,1,170,30.0
+Crejo.Fun,Education,Seed,India,2022-06-30,2022-06-30,1,170,100.0
+OwnBackup,Security,Series E,United States,2022-11-15,2022-11-15,1,170,17.0
+Aspiration,Finance,Unknown,United States,2023-03-24,2023-03-24,1,170,
+Mojocare,Healthcare,Series A,India,2023-06-17,2023-06-17,1,170,80.0
+Favo,Food,Series A,Brazil,2022-06-02,2022-06-02,1,170,
+Kitty Hawk,Aerospace,Unknown,United States,2020-06-03,2022-09-21,2,170,100.0
+View,Other,Post-IPO,United States,2023-04-03,2023-04-03,1,170,23.0
+Aurora Solar,Energy,Series D,United States,2024-01-30,2025-01-16,2,169,20.0
+Vox Media,Media,Series F,United States,2022-07-27,2023-01-20,2,169,4.5
+Our Next Energy,Transportation,Series B,United States,2023-11-27,2024-03-04,2,168,19.0
+Veriff,Security,Series C,Estonia,2023-02-09,2023-08-23,2,167,16.5
+Jamf,Other,Post-IPO,United States,2025-07-15,2025-07-15,1,166,6.0
+Monzo,Finance,Series F,United States,2020-04-09,2020-04-09,1,165,
+Hubilo,Other,Series B,United States,2023-01-19,2023-10-30,2,165,35.0
+Swyftx,Crypto,Unknown,Australia,2022-08-17,2022-12-05,2,164,30.5
+Verbit,Data,Series E,United States,2022-07-05,2025-09-10,3,162,8.0
+Carta,Finance,Series E,United States,2020-04-15,2020-04-15,1,161,16.0
+AudioCodes,Other,Post-IPO,Israel,2023-05-09,2023-07-13,2,160,6.0
+Wefox,Finance,Series D,Germany,2023-01-31,2024-05-16,2,160,
+Buser,Transportation,Series C,Brazil,2022-12-08,2022-12-08,1,160,30.0
+Rubius,Healthcare,Post-IPO,United States,2022-09-13,2022-09-13,1,160,75.0
+Thumbtack,Consumer,Series I,United States,2022-12-13,2022-12-13,1,160,14.0
+Glamyo Health,Healthcare,Series B,India,2023-06-01,2023-06-01,1,160,
+Happay,Finance,Acquired,India,2023-05-12,2023-05-12,1,160,35.0
+SIRCLO,Retail,Series B,Indonesia,2022-11-22,2022-11-22,1,160,8.0
+Unico,Other,Series D,Brazil,2022-10-24,2023-01-17,2,160,7.0
+QuintoAndar,Real Estate,Series E,Brazil,2022-04-19,2022-04-19,1,160,4.0
+Homie,Real Estate,Series B,United States,2022-02-14,2022-10-04,2,159,21.0
+Wealthsimple,Finance,Unknown,Canada,2022-06-15,2022-06-15,1,159,13.0
+Drift,Marketing,Acquired,United States,2023-02-06,2023-09-07,2,159,25.0
+Inspirato,Travel,Post-IPO,United States,2023-01-18,2023-07-19,2,159,9.0
+ShareChat,Marketing,Series D,India,2020-05-20,2025-01-15,3,158,11.7
+Happy Money,Finance,Series D,United States,2022-11-30,2022-11-30,1,158,34.0
+Chime,Finance,Series G,United States,2022-11-02,2022-11-02,1,156,12.0
+Calibrate,Healthcare,Series B,United States,2022-07-08,2022-07-08,1,156,24.0
+Cityblock Health,Healthcare,Series D,United States,2023-06-08,2023-06-08,1,155,12.0
+WalkMe,Other,Post-IPO,United States,2023-01-08,2023-04-19,2,155,6.5
+NuScale Power,Energy,Post-IPO,United States,2024-01-08,2024-01-08,1,154,28.0
+ClassPass,Fitness,Series E,United States,2020-04-02,2020-04-02,1,154,22.0
+Bridge Connector,Healthcare,Series B,United States,2020-11-17,2020-11-17,1,154,100.0
+Zeus Living,Real Estate,Series B,United States,2020-03-24,2020-05-12,2,153,40.0
+BenchSci,Healthcare,Series D,Canada,2024-01-08,2025-08-12,2,153,20.0
+Spendesk,Finance,Series C,France,2024-09-18,2024-09-18,1,151,
+Relativity,Legal,Private Equity,United States,2022-12-07,2022-12-07,1,150,10.0
+Project Ronin,Healthcare,Unknown,United States,2024-03-01,2024-03-01,1,150,100.0
+Dataminr,AI,Series F,United States,2023-11-28,2023-11-28,1,150,20.0
+Instructure,Education,Acquired,United States,2020-05-27,2020-05-27,1,150,12.0
+Domestika,Education,Series D,United States,2022-04-28,2022-04-28,1,150,19.0
+Placer.ai,Data,Unknown,United States,2025-01-29,2025-01-29,1,150,18.0
+Fabric,Logistics,Series C,United States,2022-07-13,2024-04-11,2,150,27.5
+VerSe Innovation,Media,Series J,India,2022-11-25,2022-11-25,1,150,5.0
+mPharma,Healthcare,Series D,Ghana,2023-09-04,2023-09-04,1,150,
+AlphaSense,Other,Series F,United States,2024-11-27,2024-11-27,1,150,8.0
+Vah Vah!,Education,Seed,India,2023-04-30,2023-04-30,1,150,
+Scaler,Education,Series B,India,2024-04-10,2024-04-10,1,150,
+Coursera,Education,Post-IPO,United States,2024-10-25,2024-10-25,1,150,10.0
+Clutch,Transportation,Unknown,Canada,2023-01-17,2023-01-17,1,150,
+Fundbox,Finance,Series D,United States,2022-10-25,2022-10-25,1,150,42.0
+Weee!,Food,Series E,United States,2022-06-15,2022-06-15,1,150,10.0
+Next Insurance,Finance,Series E,United States,2022-07-07,2022-07-07,1,150,17.0
+HealthifyMe,Healthcare,Series D,India,2024-04-27,2024-04-27,1,150,27.0
+OneTrust,Legal,Series B,United States,2020-04-09,2020-04-09,1,150,10.0
+ClickUp,Other,Series C,United States,2022-05-23,2023-06-28,2,150,8.5
+Celsius,Crypto,Series B,United States,2022-07-03,2022-07-03,1,150,25.0
+Fraazo,Food,Series B,India,2022-07-12,2022-07-12,1,150,
+Atlas,HR,Series B,United States,2023-08-23,2023-08-23,1,150,30.0
+SeatGeek,Consumer,Series E,United States,2025-02-20,2025-02-20,1,150,15.0
+Lummo,Marketing,Series C,Indonesia,2022-06-07,2022-06-07,1,150,
+HealthifyMe,Fitness,Series C,India,2022-12-03,2022-12-03,1,150,
+Share Now,Transportation,Acquired,Germany,2022-12-09,2022-12-09,1,150,36.0
+Augury,Manufacturing,Series E,United States,2023-01-04,2025-07-10,3,150,13.7
+OYO,Travel,Series F,United Kingdom,2020-05-01,2020-05-01,1,150,
+Sinch,Other,Post-IPO,Sweden,2022-10-12,2022-10-12,1,150,
+The Good Glamm Group,Retail,Unknown,India,2024-04-18,2024-04-18,1,150,15.0
+Krutrim,AI,Unknown,India,2025-07-28,2025-09-01,2,150,
+GoCardless,Finance,Series G,United Kingdom,2023-06-12,2023-06-12,1,150,17.0
+Metro Africa Xpress,Logistics,Unknown,Nigeria,2025-02-13,2025-02-13,1,150,
+PayU,Finance,Acquired,Netherlands,2022-12-26,2022-12-26,1,150,6.0
+Glossier,Retail,Series D,United States,2020-08-07,2020-08-07,1,150,38.0
+Simple Feast,Food,Unknown,Denmark,2022-09-07,2022-09-07,1,150,100.0
+Convene,Real Estate,Series D,United States,2020-03-23,2020-03-23,1,150,18.0
+Lido,Education,Series A,India,2022-02-21,2022-02-21,1,150,
+6sense,Sales,Series E,United States,2022-10-12,2022-10-12,1,150,10.0
+Kavak,Transportation,Series E,Brazil,2022-06-08,2022-06-08,1,150,
+Culture Amp,HR,Series F,Australia,2023-04-18,2025-11-18,2,150,7.5
+Vesttoo,Finance,Series C,Israel,2023-08-01,2023-08-01,1,150,75.0
+Curology,Healthcare,Series D,United States,2022-03-16,2022-03-16,1,150,
+OutSystems,Product,Series G,United States,2024-04-19,2024-04-19,1,150,8.0
+Healthcare.com,Healthcare,Series C,United States,2022-08-03,2022-08-03,1,149,
+Knotel,Real Estate,Series C,United States,2020-03-27,2020-10-29,2,147,19.0
+Minted,Retail,Series E,United States,2020-04-03,2020-04-03,1,147,37.0
+Unbabel,Support,Series C,Portugal,2020-04-08,2025-01-20,2,146,30.0
+PrepLadder,Education,Acquired,India,2024-05-08,2024-05-08,1,145,25.0
+Pendo,Product,Series F,United States,2022-09-07,2023-06-12,2,145,8.5
+Kaltura,Media,Post-IPO,United States,2023-01-04,2025-08-07,2,145,10.5
+Navan,Finance,Unknown,United States,2023-12-05,2023-12-05,1,145,5.0
+Navan,Travel,Unknown,United States,2023-12-06,2023-12-06,1,145,
+IronNet,Security,Post-IPO,United States,2022-06-22,2022-06-22,2,145,26.0
+On Deck,Education,Series A,United States,2022-05-05,2022-08-04,2,145,29.0
+Zilingo,Retail,Series D,Singapore,2020-04-17,2020-07-09,2,144,8.5
+Redesign Health,Healthcare,Series C,United States,2022-10-10,2024-02-23,2,144,20.0
+Care/of,Healthcare,Acquired,United States,2024-06-15,2024-06-15,1,143,100.0
+Pipedrive,Sales,Private Equity,Estonia,2022-11-14,2022-11-14,1,143,15.0
+Exotel,Support,Series D,India,2023-01-17,2023-01-17,1,142,15.0
+WanderJaunt,Travel,Series B,United States,2020-03-25,2022-07-01,2,141,61.5
+MyBambu,Finance,Unknown,United States,2025-11-05,2025-11-05,1,141,100.0
+Rec Room,Consumer,Series F,United States,2025-08-27,2025-08-27,1,141,
+Criteo,Marketing,Post-IPO,France,2024-04-12,2024-04-12,1,140,4.0
+Science 37,Healthcare,Post-IPO,United States,2023-04-12,2023-04-12,1,140,
+DraftKings,Consumer,Post-IPO,United States,2023-02-01,2023-02-01,1,140,4.0
+FreshDirect,Food,Acquired,United States,2022-08-25,2024-01-10,2,140,3.0
+Velodyne Lidar,Transportation,Unknown,United States,2020-04-03,2020-04-03,1,140,
+Impossible Foods copy,Food,Series H,United States,2023-01-30,2023-01-30,1,140,20.0
+Axonius,Security,Series E,United States,2025-11-06,2026-02-15,2,140,7.5
+Klaviyo,Marketing,Unknown,United States,2023-03-15,2023-03-15,1,140,
+LEAD,Education,Series E,India,2022-08-04,2023-01-10,2,140,4.0
+ContaAzul,Education,Series D,Brazil,2020-04-17,2020-04-17,1,140,35.0
+Yojak,Construction,Seed,India,2022-06-02,2022-06-02,1,140,50.0
+GoodRx,Healthcare,Post-IPO,United States,2022-08-31,2022-08-31,1,140,16.0
+ForeScout,Security,Acquired,Israel,2023-01-10,2023-09-06,2,140,10.0
+Glassdoor,HR,Acquired,United States,2023-03-22,2023-03-22,1,140,15.0
+Bizongo,Logistics,Series C,India,2020-07-10,2020-07-10,1,140,
+Callisto Media,Media,Series D,United States,2022-07-21,2022-07-21,1,140,35.0
+Luminar,Transportation,Post-IPO,United States,2024-05-03,2024-05-03,1,140,20.0
+Reali,Real Estate,Series B,United States,2022-08-24,2022-08-24,1,140,100.0
+SRTX,Manufacturing,Unknown,Canada,2025-02-05,2025-02-05,1,140,
+Bonterra ,Other,Unknown,United States,2023-01-13,2023-01-13,1,140,10.0
+SkyKick,Other,Unknown,United States,2023-08-30,2023-08-30,1,140,
+LeddarTech,Transportation,Post-IPO,Canada,2025-05-22,2025-05-22,1,138,95.0
+Bird,Transportation,Post-IPO,United States,2022-06-07,2022-06-07,1,138,23.0
+Packable,Retail,Unknown,United States,2022-08-23,2022-08-23,1,138,20.0
+Benevity,Other,Unknown,Canada,2023-01-18,2023-01-18,1,137,14.0
+Monarch Tractor,Other,Unknown,United States,2024-11-08,2025-11-19,2,137,10.0
+Upwork,Other,Post-IPO,United States,2023-05-03,2023-05-03,1,137,15.0
+Bluprint,Education,Acquired,United States,2020-05-26,2020-05-26,1,137,100.0
+Omie,Finance,Series B,Brazil,2020-04-09,2020-04-09,1,136,31.0
+Foundation Medicine,Healthcare,Acquired,United States,2023-04-04,2023-04-04,1,135,
+Aqua Security,Security,Series E,United States,2022-12-05,2025-12-01,3,135,10.0
+Andela,Recruiting,Series D,United States,2020-05-05,2020-05-05,1,135,10.0
+Ula,Retail,Series B,Indonesia,2022-11-30,2022-11-30,1,134,23.0
+Perfect Day,Food,Series D,United States,2023-07-06,2023-07-06,1,134,15.0
+Divvy Homes,Real Estate,Series B,United States,2022-09-27,2023-09-11,2,134,12.0
+Dapper Labs,Crypto,Series D,Canada,2022-11-02,2022-11-02,1,134,22.0
+Tome Biosciences,Healthcare,Series A,United States,2024-08-26,2024-08-26,1,131,100.0
+TouchBistro,Food,Series E,Canada,2020-04-14,2020-04-14,1,131,23.0
+REE Automotive,Transportation,Post-IPO,Israel,2023-02-09,2023-02-09,2,131,30.5
+Validity,Data,Private Equity,United States,2020-05-06,2020-05-06,1,130,33.0
+Takl,Consumer,Unknown,United States,2020-03-24,2020-03-24,1,130,
+ID.me,Security,Unknown,United States,2022-06-07,2022-06-07,1,130,
+Acxiom,Marketing,Post-IPO,United States,2025-03-19,2025-03-19,1,130,3.0
+GitLab,Product,Post-IPO,United States,2023-02-09,2023-02-09,1,130,7.0
+Blueground,Real Estate,Series B,United States,2020-03-27,2020-03-27,1,130,25.0
+Inspirato,Travel,Series C,United States,2020-03-16,2020-03-16,1,130,22.0
+Wonder,Food,Series B,United States,2022-11-30,2022-11-30,1,130,7.0
+AppGate,Security,Post-IPO,United States,2022-07-21,2022-07-21,1,130,22.0
+Trove Recommerce,Retail,Series E,United States,2024-01-31,2024-01-31,1,130,
+Calendly,Other,Series B,United States,2023-07-26,2024-12-11,2,130,11.5
+SirionLabs,Legal,Series D,United States,2023-01-25,2023-01-25,1,130,15.0
+Liftoff,Marketing,Acquired,United States,2022-11-09,2022-11-09,1,130,15.0
+CarGurus,Transportation,Post-IPO,United States,2020-04-16,2020-04-16,1,130,13.0
+Workhuman,HR,Unknown,Ireland,2023-03-21,2023-03-21,1,130,10.0
+SiFive,Hardware,Series F,United States,2023-10-24,2023-10-24,1,130,20.0
+Amount,Finance,Unknown,United States,2023-02-27,2023-02-27,1,130,25.0
+Guardant Health,Healthcare,Post-IPO,United States,2023-01-25,2023-01-25,1,130,7.0
+Quanterix,Healthcare,Post-IPO,United States,2022-08-09,2022-08-09,1,130,25.0
+Evernote,Consumer,Acquired,United States,2023-02-17,2023-02-17,1,129,
+Mindstrong,Healthcare,Series C,United States,2023-02-02,2023-02-02,1,127,
+Bark,Retail,Post-IPO,United States,2023-02-09,2023-02-09,1,126,12.0
+Gusto,HR,Series E,United States,2023-02-08,2023-02-08,1,126,5.0
+PeerStreet,Finance,Series C,United States,2020-03-30,2022-05-25,2,126,30.0
+Spartan Poker,Consumer,Unknown,India,2023-08-19,2023-08-19,1,125,40.0
+Westwing,Retail,Post-IPO,Germany,2022-09-29,2022-09-29,1,125,
+NCC Group,Security,Post-IPO,United Kingdom,2023-02-02,2023-02-02,1,125,7.0
+EasyPost,Logistics,Series A,United States,2020-03-11,2020-04-13,2,125,25.0
+Kitopi,Food,Series B,United States,2020-04-29,2020-04-29,1,124,
+Digital River,Retail,Private Equity,United States,2025-01-28,2025-01-28,1,122,
+Cyren,Security,Post-IPO,United States,2023-02-01,2023-02-01,1,121,
+Lululemon Studio,Fitness,Acquired,United States,2023-09-28,2023-09-28,1,120,
+Deliveroo Australia,Food,Post-IPO,Australia,2022-11-15,2022-11-15,1,120,100.0
+WillowTree,Marketing,Acquired,United States,2023-05-24,2023-05-24,1,120,11.0
+Monzo,Finance,Series F,United Kingdom,2020-06-03,2020-06-03,1,120,8.0
+UpGrad,Education,Unknown,India,2023-03-06,2023-03-06,1,120,
+ScaleFocus,Infrastructure,Unknown,Bulgaria,2020-06-11,2020-06-11,1,120,10.0
+Greenhouse,Recruiting,Series D,United States,2020-04-17,2020-04-17,1,120,28.0
+Taxfix,Finance,Series D,Germany,2023-05-30,2023-05-30,1,120,20.0
+Zymergen,Other,Post-IPO,United States,2021-09-23,2021-09-23,1,120,
+Till Payments,Finance,Series C,Australia,2023-01-10,2023-01-10,1,120,
+Physics Wallah,Education,Series A,India,2023-11-19,2023-11-19,1,120,1.0
+Trax,Retail,Series D,Israel,2020-05-03,2020-05-03,1,120,10.0
+BioMarin,Healthcare,Post-IPO,United States,2022-10-07,2022-10-07,1,120,4.0
+Soluto,Support,Acquired,Israel,2022-07-24,2022-07-24,1,120,100.0
+Cure.fit,Fitness,Series F,India,2024-01-23,2024-01-23,1,120,
+Breather,Real Estate,Series D,Canada,2020-12-16,2020-12-16,1,120,80.0
+Polygon,Crypto,Unknown,Cayman Islands,2024-02-01,2026-01-16,2,120,19.0
+Biofourmis,Healthcare,Series D,United States,2023-08-31,2023-08-31,1,120,
+SmartNews,Media,Series F,Japan,2023-01-12,2023-01-12,1,120,40.0
+RigUp,Energy,Series D,United States,2020-03-30,2020-03-30,1,120,25.0
+Captain Fresh ,Food,Series C,India,2023-01-15,2023-01-15,1,120,
+Trustly,Finance,Acquired,Sweden,2022-02-17,2022-02-17,1,120,
+Ten Square Games,Consumer,Seed,Poland,2023-04-17,2023-04-17,1,120,25.0
+Blue Nile,Retail,Acquired,United States,2023-03-28,2023-03-28,1,119,
+Nomad Health,Healthcare,Unknown,United States,2023-10-20,2023-10-20,1,119,17.0
+Medtronic,Healthcare,Post-IPO,United States,2023-04-12,2025-10-27,2,119,
+Koo,Consumer,Series B,India,2022-08-31,2023-04-20,2,118,30.0
+Movidesk,Support,Acquired,Brazil,2022-11-22,2022-11-22,1,118,
+Lattice,HR,Series F,United States,2022-10-27,2023-01-12,2,118,15.0
+C2FO,Finance,Series H,United States,2022-12-09,2024-06-18,3,116,2.5
+MercadoLibre,Retail,Post-IPO,Brazil,2026-01-12,2026-01-12,1,116,
+Sierra Space,Aerospace,Series B,United States,2023-11-16,2023-11-16,1,115,
+Teachmint,Education,Series B,India,2022-11-30,2023-05-05,2,115,5.0
+Knock,Real Estate,Unknown,United States,2022-03-15,2022-03-15,1,115,46.0
+Skit.ai,Support,Series B,India,2023-01-12,2023-01-12,1,115,
+Icon,Construction,Series B,United States,2025-01-09,2025-01-09,1,114,
+Homepoint,Real Estate,Post-IPO,United States,2022-11-17,2022-11-17,1,113,
+Assurance,Finance,Acquired,United States,2024-05-01,2024-05-01,1,112,100.0
+Genesis,Crypto,Series A,United States,2022-08-17,2023-01-05,2,112,25.0
+SoFi,Finance,Private Equity,United States,2020-05-20,2020-05-20,1,112,7.0
+Analog Devices,Manufacturing,Post-IPO,United States,2023-12-13,2023-12-13,1,111,
+TrueLayer,Finance,Series E,United Kingdom,2022-09-16,2024-11-15,2,111,17.5
+Eurora,Other,Series A,Estonia,2023-09-11,2023-09-11,1,111,
+Pier,Finance,Series B,Brazil,2023-01-12,2023-01-12,1,111,39.0
+Virgin Hyperloop,Transportation,Unknown,United States,2022-02-21,2022-02-21,1,111,50.0
+Gro Intelligence,Food,Series B,United States,2024-02-15,2024-03-01,2,110,35.0
+Salsify,Retail,Unknown,United States,2023-10-25,2023-10-25,1,110,
+Moon Active,Consumer,Unknown,Israel,2026-01-27,2026-01-27,1,110,5.0
+Skai,Marketing,Series E,Israel,2022-07-27,2024-12-03,2,110,9.0
+Carousell,Retail,Private Equity,Singapore,2022-12-01,2022-12-01,1,110,10.0
+Deepwatch,Security,Series C,United States,2023-07-13,2025-11-12,2,110,19.5
+Linktree,Consumer,Unknown,Australia,2022-08-09,2023-06-06,2,110,22.0
+Namely,HR,Series E,United States,2020-05-01,2020-05-01,1,110,40.0
+Permutive,Marketing,Series C,United Kingdom,2022-08-10,2023-04-11,2,110,26.0
+Rewire,Finance,Acquired,Israel,2026-02-04,2026-02-04,1,110,
+Healthy.io,Healthcare,Series D,Israel,2023-05-03,2024-09-22,2,110,31.5
+Varonis,Security,Post-IPO,United States,2022-11-06,2022-11-06,1,110,5.0
+Landing,Real Estate,Series C,United States,2022-10-06,2022-10-06,1,110,
+NYDIG,Crypto,Private Equity,United States,2022-09-22,2022-09-22,1,110,33.0
+Sidecar Health,Healthcare,Series C,United States,2022-06-28,2022-06-28,1,110,40.0
+Curative,Healthcare,Seed,United States,2022-09-20,2022-09-20,1,109,
+ForgeRock,Other,Acquired,United States,2023-12-13,2023-12-13,1,109,
+Astra,Sales,Unknown,India,2025-07-28,2025-07-28,1,106,100.0
+Climeworks,Energy,Private Equity,Switzerland,2025-05-21,2025-05-21,1,106,22.0
+Synthego,Healthcare,Series E,United States,2022-11-18,2022-11-18,1,105,20.0
+Foursquare,Marketing,Series G,United States,2024-05-23,2024-05-23,1,105,25.0
+Beam Benefits,Healthcare,Series E,United States,2023-02-08,2024-01-10,2,105,8.0
+Satellogic,Aerospace,Post-IPO,Uruguay,2024-05-24,2024-06-14,2,104,21.5
+Greenlight,Finance,Series D,United States,2023-01-12,2023-01-12,1,104,21.0
+Priceline,Travel,Acquired,United States,2024-06-28,2024-06-28,1,103,7.0
+SummerBio,Healthcare,Unknown,United States,2022-06-20,2022-06-20,1,101,100.0
+Wondery,Media,Acquired,United States,2025-08-04,2025-08-04,1,100,
+LegalZoom,Legal,Post-IPO,United States,2023-10-19,2023-10-19,1,100,
+Getaround,Transportation,Series D,United States,2020-03-27,2020-03-27,1,100,25.0
+Everquote,Finance,Post-IPO,United States,2023-07-11,2023-07-11,1,100,
+Moss,Finance,Series B,Germany,2022-09-23,2023-05-19,2,100,15.0
+Binance.US,Crypto,Subsidiary,United States,2023-09-12,2023-09-12,1,100,33.0
+Jumpcloud,Security,Series F,United States,2023-01-18,2023-01-18,1,100,12.0
+AppsFlyer,Data,Unknown,United States,2025-02-04,2025-02-04,1,100,7.0
+Traveloka,Travel,Unknown,Indonesia,2020-04-03,2020-04-03,1,100,10.0
+Metromile,Finance,Series E,United States,2020-04-06,2020-04-06,1,100,33.0
+eGym,Fitness,Series D,Germany,2020-04-02,2020-04-02,1,100,25.0
+Finder,Retail,Unknown,Australia,2023-04-04,2024-02-21,2,100,17.0
+Akulaku,Finance,Series D,Indonesia,2020-04-15,2020-04-15,1,100,
+Polygon,Crypto,Unknown,India,2023-02-21,2023-02-21,1,100,20.0
+Catch.com.au,Retail,Acquired,Australia,2023-02-06,2023-02-06,1,100,
+Cult.fit,Fitness,Series F,India,2024-01-24,2024-01-24,1,100,
+Lemon,Crypto,Series A,Argentina,2022-11-24,2022-11-24,1,100,38.0
+Venminder,Security,Acquired,United States,2024-10-21,2024-10-21,1,100,
+Fifth Season,Food,Series B,United States,2022-10-28,2022-10-28,1,100,100.0
+ShareChat,Consumer,Unknown,India,2022-12-02,2022-12-02,1,100,
+Snappy,Marketing,Series C,United States,2023-01-15,2023-01-15,1,100,30.0
+StreamElements,Media,Series B,Israel,2023-01-10,2023-08-17,2,100,27.5
+Flatiron School,Education,Acquired,United States,2020-05-06,2020-05-06,1,100,
+Argo AI,Transportation,Unknown,Germany,2020-06-29,2020-06-29,1,100,
+Tul,Construction,Series B,Colombia,2023-01-17,2023-01-17,1,100,
+CareRev,Healthcare,Series A,United States,2023-06-15,2023-06-15,1,100,33.0
+YouTube,Media,Acquired,United States,2024-01-17,2024-01-17,1,100,
+Zak,Food,Series A,Brazil,2022-05-16,2022-05-16,1,100,40.0
+Phantom Auto,Transportation,Unknown,United States,2024-03-12,2024-03-12,1,100,100.0
+Sonatype,Security,Acquired,United States,2023-05-09,2023-05-09,1,100,14.0
+Bluevine,Finance,Unknown,Israel,2024-12-10,2024-12-10,1,100,18.0
+Berlin Brands Group,Retail,Unknown,Germany,2022-06-10,2022-06-10,1,100,10.0
+Times Internet ,Media,Subsidiary,India,2023-08-18,2023-08-18,1,100,5.0
+BetterUp,HR,Series E,United States,2023-08-02,2023-08-02,1,100,16.0
+Salesloft,Sales,Acquired,United States,2023-02-07,2023-02-07,1,100,10.0
+PatientPop,Healthcare,Series B,United States,2020-04-01,2020-04-01,1,100,20.0
+Liv Up,Food,Series D,Brazil,2022-02-16,2022-02-16,1,100,15.0
+Babylon,Healthcare,Post-IPO,United Kingdom,2022-07-12,2022-07-12,1,100,
+Innoviz,Transportation,Post-IPO,Israel,2024-01-31,2025-02-04,2,100,11.0
+Cashfree Payments,Finance,Series B,India,2023-01-12,2023-01-12,1,100,
+Jumio,Security,Private Equity,United States,2023-01-11,2023-01-11,1,100,6.0
+Adobe,Marketing,Post-IPO,United States,2022-12-06,2022-12-06,1,100,
+Starry,Other,Post-IPO,United States,2023-01-18,2023-01-18,1,100,24.0
+Taboola,Marketing,Post-IPO,United States,2022-09-13,2022-09-13,1,100,6.0
+Cognyte,Security,Unknown,Israel,2022-12-02,2022-12-02,1,100,5.0
+Productboard,Product,Series D,United States,2022-11-15,2022-11-15,1,100,20.0
+Circ,Transportation,Acquired,Germany,2020-06-02,2020-06-02,1,100,
+Greenhouse,Recruiting,Private Equity,United States,2023-04-27,2023-04-27,1,100,12.0
+Cars24,Transportation,Series G,Indonesia,2023-05-03,2023-05-03,1,100,
+Doximity,Healthcare,Post-IPO,United States,2023-08-08,2023-08-08,1,100,10.0
+Lyric,Real Estate,Series B,United States,2020-03-25,2020-03-25,1,100,
+Handshake,Recruiting,Series F,United States,2025-10-14,2025-10-14,1,100,15.0
+Voi,Transportation,Series B,Sweden,2020-04-02,2020-04-02,1,100,
+Saks.com,Retail,Unknown,United States,2023-01-19,2023-01-19,1,100,5.0
+Lazada Group ,Retail,Acquired,Singapore,2024-01-03,2024-01-03,1,100,30.0
+Ruggable,Retail,Seed,United States,2023-01-27,2023-01-27,1,100,
+Jodo,Finance,Series A,India,2023-11-20,2023-11-20,1,100,
+NSO,Security,Seed,Israel,2022-08-21,2022-08-21,1,100,14.0
+nCino,Finance,Post-IPO,United States,2023-01-18,2023-01-18,1,100,7.0
+Vendr,Other,Series B,United States,2023-05-31,2023-05-31,1,100,25.0
+Freenome,Healthcare,Series E,United States,2024-04-23,2024-04-23,1,100,20.0
+Heureka Group,Retail,Acquired,Czech Republic,2024-04-23,2024-04-23,1,100,16.0
+CircleCI,Product,Series F,United States,2024-01-31,2024-01-31,1,100,
+Audible,Media,Acquired,United States,2024-01-11,2024-01-11,1,100,5.0
+Adaptive Biotechnologies,Healthcare,Post-IPO,United States,2022-03-08,2022-03-08,1,100,12.0
+InSightec,Healthcare,Unknown,Israel,2023-12-19,2023-12-19,1,100,20.0
+WeWork,Real Estate,Series H,India,2020-05-18,2020-05-18,1,100,20.0
+Atmosphere,Other,Series D,United States,2024-05-15,2024-05-15,1,100,
+Veev,Real Estate,Series D,United States,2022-11-11,2022-11-11,1,100,30.0
+SumUp,Finance,Unknown,Brazil,2022-05-30,2022-05-30,1,100,3.0
+Bryter,Product,Series B,Germany,2022-07-13,2022-07-13,1,100,30.0
+TripleLift,Marketing,Acquired,United States,2023-02-10,2023-02-10,1,100,20.0
+Zopper,Finance,Series D,India,2025-04-17,2025-04-17,1,100,
+Branch Metrics,Marketing,Series E,United States,2020-04-07,2020-04-07,1,100,20.0
+Udayy,Education,Seed,India,2022-06-01,2022-06-01,1,100,100.0
+Bright Money,Finance,Series A,India,2022-07-15,2022-07-15,1,100,50.0
+Progrexion,Finance,Acquired,United States,2022-05-05,2022-05-05,1,100,
+EMX Digital,Marketing,Unknown,United States,2023-02-13,2023-02-13,1,100,100.0
+Livspace,Retail,Series F,India,2023-03-17,2023-03-17,1,100,2.0
+Branch.io,Marketing,Series F,United States,2024-08-09,2024-08-09,1,100,
+Workit Health,Healthcare,Series C,United States,2023-04-07,2023-04-07,1,100,
+Melio,Finance,Series D,United States,2022-08-09,2024-03-04,2,100,7.0
+Rock Content,Marketing,Series A,Brazil,2020-04-06,2020-04-06,1,100,20.0
+Remote,HR,Series C,United States,2022-07-06,2022-07-06,1,100,9.0
+Lenovo,Hardware,Post-IPO,United States,2025-07-16,2025-07-16,1,100,3.0
+Merative,Healthcare,Acquired,Ireland,2023-09-21,2023-09-21,1,100,
+Parity Technologies,Crypto,Unknown,United Kingdom,2023-10-23,2023-10-23,1,100,30.0
+Checkmarx,Security,Series C,Israel,2022-11-02,2022-11-02,1,100,10.0
+Ghost Autonomy,Transportation,Series E,United States,2024-04-03,2024-04-03,1,100,100.0
+Orbotech,Manufacturing,Acquired,Israel,2024-03-19,2024-03-19,1,100,
+StockX,Retail,Series C,United States,2020-04-23,2020-04-23,1,100,12.0
+Fetch,Retail,Series E,United States,2023-03-14,2023-03-14,1,100,10.0
+Getir,Food,Series E,United States,2023-02-02,2023-02-02,1,100,
+Lendi,Real Estate,Unknown,Australia,2023-03-03,2023-03-03,1,100,
+Hyperscience,Data,Series E,United States,2022-03-03,2022-03-03,1,100,25.0
+HP,Hardware,Post-IPO,Israel,2023-02-19,2023-02-19,1,100,
+FanClash,Consumer,Series B,India,2023-03-30,2023-03-30,1,100,75.0
+10X Genomics,Healthcare,Post-IPO,United States,2022-08-04,2022-08-04,1,100,8.0
+Pacaso,Real Estate,Series C,United States,2022-10-11,2022-10-11,1,100,30.0
+Amplitude,Data,Post-IPO,United States,2023-04-05,2023-04-05,1,99,13.0
+Flock Freight,Logistics,Series D,United States,2023-04-10,2024-03-16,2,99,8.0
+The Predictive Index,HR,Acquired,United States,2020-04-02,2022-08-02,2,99,25.0
+Willow,Real Estate,Unknown,Australia,2022-12-23,2022-12-23,1,99,22.0
+Solidigm,Hardware,Unknown,United States,2023-07-06,2023-07-06,1,98,
+Colossus,Energy,Series A,United States,2022-05-04,2022-05-04,1,97,
+GroundGame Health,Healthcare,Series A,United States,2025-05-15,2025-05-15,1,97,
+Lemonade,Finance,Post-IPO,United States,2022-04-20,2023-05-16,2,97,3.0
+Arkane Studios,Consumer,Unknown,United States,2024-05-08,2024-05-08,1,96,100.0
+Leafly,Retail,Post-IPO,United States,2022-10-18,2023-03-16,2,96,21.0
+Pavilion Data,Infrastructure,Series D,United States,2022-10-10,2022-10-10,1,96,96.0
+54gene,Healthcare,Series B,United States,2022-08-29,2022-08-29,1,95,30.0
+BlackLine,Finance,Post-IPO,United States,2023-08-23,2023-08-23,1,95,5.0
+Culture Trip,Media,Series B,United Kingdom,2020-05-01,2020-05-01,1,95,32.0
+WHOOP,Fitness,Series F,United States,2022-07-21,2022-07-21,1,95,15.0
+Thinx,Retail,Acquired,United States,2024-01-31,2024-01-31,1,95,
+BlackLine,Finance,Private Equity,United States,2022-12-08,2022-12-08,1,95,5.0
+PACT Pharma,Healthcare,Series C,United States,2022-07-18,2022-07-18,1,94,
+PetLove,Retail,Series C,Brazil,2023-02-13,2023-02-13,1,94,
+Loft,Real Estate,Series C,Brazil,2020-03-27,2020-04-17,2,94,10.0
+Karat,HR,Unknown,United States,2023-01-20,2023-06-28,2,94,
+Newfront Insurance,Finance,Unknown,United States,2020-04-07,2020-04-07,1,94,
+GoFundMe,Finance,Series A,United States,2022-10-26,2022-10-26,1,94,12.0
+Babylon Health,Healthcare,Post-IPO,United Kingdom,2023-08-09,2023-08-09,1,94,
+Back Market,Retail,Series E,France,2022-12-23,2022-12-23,1,93,13.0
+Kitopi,Food,Series C,UAE,2022-11-21,2022-11-21,1,93,10.0
+BitTorrent,Infrastructure,Acquired,United States,2023-01-20,2023-01-20,1,92,
+Scoop,Transportation,Series C,United States,2020-04-08,2020-04-08,1,92,33.0
+Zoomo,Transportation,Series B,Australia,2022-10-04,2023-05-02,2,92,12.0
+Wheel,Healthcare,Series C,United States,2022-08-18,2023-02-01,2,91,22.5
+Leafly,Retail,Acquired,United States,2020-03-23,2020-03-23,1,91,50.0
+ConsenSys,Crypto,Unknown,United States,2020-04-20,2020-04-20,1,91,14.0
+Kueski,Finance,Series B,Mexico,2020-04-20,2020-04-20,1,90,30.0
+HeyJobs,Recruiting,Series B,Germany,2025-01-15,2025-01-15,1,90,
+Staffbase,Other,Series E,Germany,2023-06-02,2023-06-02,1,90,
+ScaleFactor,Finance,Series C,United States,2020-06-23,2020-06-23,1,90,90.0
+Salsify,Retail,Series F,United States,2022-11-16,2022-11-16,1,90,11.0
+Figure,Crypto,Unknown,United States,2023-07-26,2023-07-26,1,90,20.0
+Picsart,Consumer,Series C,United States,2022-05-17,2022-05-17,1,90,8.0
+Domo,Data,Post-IPO,United States,2020-04-09,2020-04-09,1,90,10.0
+Matterport,Data,Series D,United States,2020-04-09,2020-04-09,1,90,34.0
+Science 37 ,Healthcare,Post-IPO,United States,2022-11-14,2022-11-14,1,90,
+Workato,Other,Series E,United States,2023-02-01,2023-02-01,1,90,10.0
+Seegrid,Logistics,Unknown,United States,2022-08-02,2022-08-02,1,90,
+Scribe Media,Marketing,Unknown,United States,2023-05-04,2023-05-04,1,90,100.0
+Ethos Life,Finance,Series D,United States,2022-06-24,2023-02-21,2,90,12.0
+Eightfold AI,HR,Series E,United States,2023-02-03,2023-02-03,1,90,15.0
+Calm,Healthcare,Series C,United States,2022-08-11,2022-08-11,1,90,20.0
+GetYourGuide,Travel,Series E,Germany,2020-10-14,2020-10-14,1,90,17.0
+GumGum,Marketing,Series D,United States,2020-04-20,2020-04-20,1,90,25.0
+The Zebra,Finance,Series D,United States,2022-05-24,2022-11-15,2,90,
+LinkSquares,Legal,Series C,United States,2024-02-15,2024-02-15,1,90,
+Sunday,Finance,Series A,United States,2022-06-24,2022-06-24,1,90,23.0
+Industrious,Real Estate,Series D,United States,2020-04-02,2020-04-02,1,90,20.0
+Digimarc,Other,Post-IPO,United States,2025-02-27,2025-02-27,1,90,40.0
+Rebellion Defense,Data,Series B,United States,2023-04-27,2023-04-27,1,90,
+ApplyBoard,Education,Series D,Canada,2022-11-28,2022-11-28,1,90,6.0
+Reddit,Consumer,Series F,United States,2023-06-06,2023-06-06,1,90,5.0
+Unison,Finance,Series B,United States,2020-04-08,2020-04-08,1,89,45.0
+Protocol Labs,Crypto,Unknown,United States,2023-02-03,2023-02-03,1,89,20.0
+Domestika,Education,Series D,Spain,2023-03-31,2023-03-31,1,89,45.0
+QuintoAndar,Real Estate,Series D,Brazil,2020-04-17,2020-04-17,1,88,8.0
+BloomTech,Education,Unknown,United States,2022-12-01,2022-12-01,1,88,50.0
+DispatchHealth,Healthcare,Series E,United States,2024-01-29,2024-01-29,1,88,
+Brighte,Energy,Series C,Australia,2022-06-20,2022-09-09,2,88,15.0
+Foodsby,Food,Series B,United States,2020-03-24,2020-03-24,1,87,67.0
+PathAI,Healthcare,Series C,United States,2023-07-21,2023-07-21,1,87,
+Zenefits,HR,Series C,United States,2020-04-23,2020-04-23,1,87,15.0
+Ibotta,Retail,Series D,United States,2020-04-07,2020-04-07,1,87,15.0
+Quandoo,Food,Acquired,Germany,2021-02-03,2021-02-03,1,87,20.0
+Altruist,Finance,Series E,United States,2025-01-07,2025-10-23,2,87,12.5
+Outside,Media,Series B,United States,2022-05-20,2022-05-20,1,87,15.0
+Buy.com / Rakuten,Retail,Acquired,United States,2020-07-30,2020-07-30,1,87,100.0
+Lever,Recruiting,Series C,United States,2020-04-08,2020-04-08,1,86,40.0
+Talent.com,Recruiting,Series B,Canada,2023-04-05,2023-04-05,1,86,18.0
+Synapse,Finance,Series B,United States,2023-10-02,2023-10-02,1,86,40.0
+Mejuri,Retail,Series B,Canada,2020-04-09,2022-08-05,2,86,12.5
+Primer,Finance,Series B,United Kingdom,2022-12-09,2022-12-09,1,85,33.0
+PayPal,Finance,Post-IPO,Ireland,2024-06-18,2024-06-18,1,85,
+Poppulo,HR,Acquired,United States,2023-04-27,2023-04-27,1,85,
+Rev.com,Data,Series D,United States,2022-10-07,2022-10-07,1,85,
+Zego,Finance,Series C,United Kingdom,2022-07-14,2022-07-14,1,85,17.0
+Klue,Sales,Series B,Canada,2025-06-25,2025-06-25,1,85,40.0
+Patreon,Media,Series F,United States,2022-09-09,2022-09-13,2,85,17.0
+Niantic,Consumer,Series D,United States,2022-06-29,2022-06-29,1,85,8.0
+Singularity 6,Other,Series B,United States,2024-04-08,2024-05-15,2,85,35.0
+Crunchyroll,Media,Unknown,Japan,2023-02-21,2023-02-21,1,85,
+N26,Finance,Series E,Germany,2023-04-28,2023-09-29,2,85,4.0
+Funding Circle,Finance,Post-IPO,United States,2020-07-08,2020-07-08,1,85,
+MariaDB,Data,Post-IPO,United States,2023-10-12,2023-10-12,1,84,28.0
+Recharge,Finance,Series B,United States,2022-10-27,2022-10-27,1,84,17.0
+Ejento,Recruiting,Unknown,United States,2020-03-19,2020-03-19,1,84,100.0
+Sendy,Logistics,Series B,Kenya,2022-08-02,2022-08-02,2,84,15.0
+NextGen Healthcare,Healthcare,Acquired,United States,2023-11-17,2023-11-17,1,84,
+Fluke,Other,Seed,Brazil,2022-08-17,2022-08-17,1,83,82.0
+Openpay,Finance,Post-IPO,Australia,2023-02-07,2023-02-07,1,83,100.0
+Career Karma,Education,Series B,United States,2022-07-28,2023-01-12,2,82,33.0
+Remedy,Healthcare,Series A,United States,2020-10-29,2020-10-29,1,82,
+Away,Retail,Series D,United States,2020-04-07,2023-05-31,2,82,9.0
+Olo,Food,Post-IPO,United States,2023-06-14,2023-06-14,1,81,11.0
+Care.com,Consumer,Acquired,United States,2020-04-30,2020-04-30,1,81,
+Ancestry,Consumer,Post-IPO,United States,2024-03-14,2024-03-14,1,81,6.0
+Clearcover,Finance,Series D,United States,2023-04-17,2023-04-17,1,81,15.0
+Mamaearth,Retail,Unknown,India,2023-06-14,2023-06-14,1,80,
+App Annie,Data,Unknown,United States,2020-04-28,2020-04-28,1,80,18.0
+Lime,Transportation,Series D,United States,2020-04-29,2020-04-29,1,80,13.0
+Storytel,Consumer,Post-IPO,Sweden,2024-02-15,2024-02-15,1,80,13.0
+TaxBit,Crypto,Unknown,United States,2023-06-11,2023-06-11,1,80,40.0
+Kuku FM,Media,Series C,India,2024-11-14,2024-11-14,1,80,
+Sketch,Other,Series A,Netherlands,2022-10-11,2022-10-11,1,80,
+CoinDCX,Crypto,Series D,India,2023-01-11,2023-01-11,1,80,
+LeafLink,Other,Series C,United States,2022-12-15,2022-12-15,1,80,31.0
+Eat Just,Food,Unknown,United States,2023-02-24,2023-09-22,2,80,
+Gong,Sales,Series E,United States,2023-02-08,2023-02-08,1,80,7.0
+Foodpanda,Food,Acquired,Romania,2022-05-26,2022-05-26,1,80,
+Quartz,Media,Acquired,United States,2020-05-14,2020-05-14,1,80,40.0
+Tenstorrent,Hardware,Series D,Canada,2025-12-09,2025-12-09,1,80,7.0
+Stoa,Real Estate,Unknown,United States,2023-07-20,2023-07-20,1,80,80.0
+Pitch,Other,Series B,Germany,2024-01-08,2024-01-08,1,80,67.0
+AvantStay,Travel,Unknown,United States,2022-06-29,2022-06-29,1,80,
+VinFast US,Transportation,Subsidiary,United States,2023-02-06,2023-02-06,1,80,
+Indigo,Other,Series F,United States,2021-02-09,2021-02-09,1,80,
+Mux,Infrastructure,Series D,United States,2022-09-29,2023-05-31,2,80,25.0
+Otonomo,Transportation,Post-IPO,Israel,2022-12-08,2022-12-08,1,80,50.0
+Cookpad,Consumer,Unknown,Japan,2023-03-10,2023-03-10,1,80,
+Licious,Food,Series F,India,2024-02-09,2024-02-09,1,80,3.0
+AlayaCare,Healthcare,Series D,Canada,2022-08-16,2022-08-16,1,80,14.0
+Sandbox VR,Consumer,Series A,United States,2020-05-01,2020-05-01,1,80,80.0
+FabHotels,Travel,Series B,India,2020-03-30,2020-03-30,1,80,20.0
+Buenbit,Crypto,Series A,Argentina,2022-05-23,2022-05-23,1,80,45.0
+Nylas,Product,Series C,United States,2022-08-02,2022-08-02,1,80,25.0
+Aqgromalin,Food,Unknown,India,2022-06-20,2022-06-20,1,80,30.0
+Qumulo,Data,Series E,United States,2022-06-29,2022-06-29,1,80,19.0
+Glossier,Consumer,Series E,United States,2022-01-26,2022-01-26,1,80,33.0
+Aakash,Education,Acquired,India,2024-09-18,2024-09-18,1,80,
+BillGO,Finance,Series B,United States,2024-02-05,2024-02-05,1,80,
+Pagarbook,HR,Series A,India,2021-07-26,2021-07-26,1,80,
+Qoala,Finance,Series B,Indonesia,2023-07-31,2023-07-31,1,80,
+Bittrex,Crypto,Unknown,United States,2023-02-02,2023-02-02,1,80,
+Hologram,Infrastructure,Series B,United States,2022-06-09,2022-06-09,1,80,40.0
+Slickdeals,Retail,Unknown,United States,2023-05-12,2023-05-12,1,79,33.0
+Sumo Logic,Data,Acquired,United States,2023-06-07,2023-06-07,1,79,
+Dukaan,Retail,Series A,India,2022-10-31,2023-03-15,2,79,30.0
+PropertyGuru,Real Estate,Post-IPO,Singapore,2024-02-27,2024-02-27,1,79,
+Trendsales,Retail,Acquired,Denmark,2024-04-08,2024-04-08,1,79,100.0
+Built In,Recruiting,Series C,United States,2020-04-10,2022-10-05,2,78,25.0
+Canoo,Transportation,Post-IPO,United States,2022-07-01,2024-12-11,2,78,6.0
+Rangle,Product,Unknown,Canada,2020-03-25,2020-03-25,1,78,30.0
+Casper,Retail,Post-IPO,United States,2020-04-21,2020-04-21,1,78,21.0
+Mogo,Finance,Post-IPO,Canada,2020-03-27,2020-03-27,1,78,30.0
+Ada,Support,Series C,Canada,2022-09-20,2022-09-20,1,78,16.0
+Pulse Secure,Security,Acquired,United States,2020-12-23,2020-12-23,1,78,
+Komodo Health,Healthcare,Series E,United States,2022-12-13,2022-12-13,1,78,9.0
+Spin,Transportation,Acquired,United States,2022-09-30,2022-09-30,1,78,10.0
+Lyra Health,Healthcare,Series F,United States,2024-11-12,2024-11-12,1,77,2.0
+SambaNova,AI,Series D,United States,2025-04-25,2025-04-25,1,77,15.0
+Redesign Health,Healthcare,Unknown,United States,2024-02-13,2024-02-13,1,77,
+BharatAgri,Food,Series A,India,2023-01-15,2025-11-13,2,77,71.5
+BounceX,Marketing,Series B,United States,2020-04-06,2020-04-06,1,77,20.0
+Top Hat,Education,Series E,Canada,2023-08-04,2024-02-02,2,77,7.0
+Clutch,Transportation,Series B,Canada,2022-06-29,2022-06-29,1,76,22.0
+Carousell,Retail,Unknown,Singapore,2024-12-06,2024-12-06,1,76,7.0
+Uniphore,Support,Series E,United States,2023-01-03,2023-01-03,1,76,10.0
+Clari,Sales,Acquired,United States,2026-02-12,2026-02-12,1,76,
+Lokalise,Other,Series B,United States,2022-11-16,2022-11-16,1,76,23.0
+Zeitgold,Finance,Series B,Germany,2020-07-27,2020-07-27,1,75,72.0
+BitMEX,Crypto,Seed,Seychelles,2022-04-04,2022-04-04,1,75,25.0
+O'Reilly Media,Media,Unknown,United States,2020-03-25,2020-03-25,1,75,15.0
+Arrive Logistics,Logistics,Series B,United States,2020-04-03,2020-04-03,1,75,7.0
+VTrips,Travel,Private Equity,United States,2023-10-07,2023-10-07,1,75,9.0
+Metigy,Marketing,Series B,Australia,2022-07-31,2022-07-31,1,75,100.0
+Lucid Software,Other,Series E,United States,2023-09-25,2023-09-25,1,75,7.0
+Gramophone,Food,Series B,India,2023-01-16,2023-01-16,1,75,
+ThirdLove,Retail,Series B,United States,2020-03-27,2020-04-02,2,75,30.0
+Drip Capital,Finance,Series C,United States,2023-04-14,2023-04-14,1,75,20.0
+DISCO,Legal,Series E,United States,2020-03-27,2020-03-27,1,75,
+Thriver,Food,Series B,Canada,2020-08-06,2020-08-06,1,75,50.0
+Airmeet,Marketing,Series B,India,2023-05-25,2023-05-25,1,75,30.0
+Tackle.io,Infrastructure,Series C,United States,2023-06-21,2023-06-21,1,75,
+99,Transportation,Acquired,Brazil,2022-09-20,2022-09-20,1,75,2.0
+Sami,Healthcare,Unknown,Brazil,2022-06-14,2022-06-14,1,75,15.0
+Anchorage Digital,Crypto,Series D,United States,2023-03-14,2023-03-14,1,75,20.0
+Benchling,Other,Series F,United States,2023-04-21,2023-04-21,1,74,9.0
+Gokada,Transportation,Unknown,Nigeria,2022-11-14,2023-01-31,2,74,
+Textio,Recruiting,Unknown,United States,2020-03-27,2025-01-15,4,74,16.0
+Outschool,Education,Series D,United States,2022-07-05,2022-12-10,2,74,21.5
+Foundry,Crypto,Subsidiary,United States,2024-12-11,2024-12-11,1,74,27.0
+Heycar,Transportation,Unknown,Germany,2023-01-27,2023-01-27,1,73,
+FlightStats,Travel,Acquired,United States,2024-05-30,2024-05-30,1,73,
+Sana Benefits,HR,Series B,United States,2023-11-01,2023-11-01,1,73,50.0
+Juni,Finance,Unknown,Sweden,2022-11-17,2022-11-17,1,72,33.0
+Quanergy Systems,Transportation,Post-IPO,United States,2022-12-14,2022-12-14,1,72,
+Properly,Real Estate,Series B,Canada,2022-11-15,2022-11-15,1,71,
+1stdibs,Retail,Series D,United States,2020-04-02,2020-04-02,1,70,17.0
+DataRobot,Data,Series G,United States,2022-05-11,2022-05-11,1,70,7.0
+Redbubble,Retail,Post-IPO,Australia,2023-05-10,2023-05-10,1,70,23.0
+ F-Secure ,Security,Post-IPO,Finland,2023-10-25,2023-10-25,1,70,
+Kyruus,Healthcare,Unknown,United States,2023-02-05,2023-02-05,1,70,
+Dealtale,Sales,Acquired,Israel,2023-08-09,2023-08-09,1,70,100.0
+BitTitan,Data,Acquired,United States,2021-11-18,2021-11-18,1,70,27.0
+Boozt,Retail,Post-IPO,Sweden,2022-06-09,2022-06-09,1,70,5.0
+Hibob,HR,Series A,Israel,2020-03-30,2020-03-30,1,70,30.0
+Neon,Finance,Series B,Brazil,2020-04-13,2020-04-13,1,70,10.0
+Oscar Health,Healthcare,Unknown,United States,2020-04-23,2020-04-23,1,70,5.0
+KoinWorks,Finance,Unknown,Indonesia,2022-11-04,2022-11-04,1,70,8.0
+Nayax,Finance,Post-IPO,Israel,2025-07-07,2025-07-07,1,70,6.0
+Ibotta,Retail,Post-IPO,United States,2025-02-22,2025-02-22,1,70,8.0
+PickYourTrail,Travel,Series A,India,2020-05-21,2020-05-21,1,70,35.0
+Sure,Finance,Series C,United States,2025-02-03,2025-02-03,1,70,
+Arm Holdings,Hardware,Post-IPO,China,2023-12-18,2023-12-18,1,70,
+Banxa,Crypto,Post-IPO,Australia,2022-06-27,2022-06-27,1,70,30.0
+Virtudent,Healthcare,Series A,United States,2020-05-01,2020-05-01,1,70,
+Momentis Surgical,Healthcare,Series D,Israel,2023-05-08,2023-05-08,1,70,60.0
+Oda,Food,Unknown,Sweden,2022-11-01,2022-11-01,1,70,18.0
+StudySmarter,Education,Series A,Germany,2022-11-30,2022-11-30,1,70,
+Aura,Security,Series F,United States,2022-06-23,2022-06-23,1,70,9.0
+Acast,Media,Post-IPO,Sweden,2022-09-15,2022-09-15,1,70,15.0
+Brightcove,Marketing,Post-IPO,United States,2023-05-03,2023-05-03,1,70,10.0
+Bolt.Earth,Energy,Series B,India,2024-04-06,2024-04-06,1,70,40.0
+Quantcast,Marketing,Series C,United States,2020-04-08,2022-07-29,2,70,5.5
+Involves,Retail,Unknown,Brazil,2022-07-13,2022-07-13,1,70,18.0
+Carwow,Transportation,Unknown,United Kingdom,2022-11-25,2022-11-25,1,70,20.0
+Goodfood,Food,Post-IPO,Canada,2022-04-07,2022-04-07,1,70,
+Skillz,Consumer,Post-IPO,United States,2022-05-20,2022-05-20,1,70,10.0
+Bungalow,Real Estate,Series C,United States,2022-06-22,2022-06-22,1,70,
+Pollen,Travel,Series B,United Kingdom,2020-05-19,2020-05-19,1,69,31.0
+Gigamon,Data,Acquired,United States,2024-10-15,2024-10-15,1,69,
+HashiCorp,Security,Post-IPO,United States,2023-01-11,2023-01-11,1,69,
+iCIMS,Recruiting,Acquired,United States,2024-08-09,2024-08-09,1,69,
+The Iconic,Retail,Unknown,Australia,2023-02-23,2023-02-23,1,69,6.0
+Glossier,Retail,Series E,United States,2022-08-02,2026-02-11,2,69,20.5
+VSCO,Consumer,Series B,United States,2020-04-14,2025-12-09,2,69,35.0
+Embark Vet,Healthcare,Series B,United States,2023-01-11,2023-04-28,2,69,
+Hims & Hers,Healthcare,Post-IPO,United States,2025-05-30,2025-05-30,1,68,4.0
+7Shifts,Food,Series C,Canada,2024-01-11,2024-01-11,1,68,19.0
+Xing,HR,Series A,Germany,2023-03-21,2023-03-21,1,68,
+AgentSync,Finance,Series B,United States,2023-07-19,2023-07-19,1,67,24.0
+Nextdoor,Consumer,Post-IPO,United States,2025-08-07,2025-08-07,1,67,12.0
+Osso VR,Healthcare,Series C,United States,2024-04-01,2024-04-01,1,67,
+Ajaib,Finance,Unknown,Indonesia,2022-11-28,2022-11-28,1,67,8.0
+Patreon,Media,Series D,United States,2020-04-21,2021-04-26,2,66,13.0
+Tropic,Finance,Series B,United States,2023-10-20,2024-05-31,2,66,
+Turnitin,Education,Acquired,United States,2022-10-06,2024-03-07,2,66,3.5
+PlaxidityX,Security,Acquired,Israel,2025-07-23,2025-07-23,1,65,36.0
+Chope,Food,Series E,Singapore,2022-12-20,2022-12-20,1,65,24.0
+Playdots,Consumer,Acquired,United States,2022-10-13,2022-10-13,1,65,100.0
+Curve,Finance,Series C,United Kingdom,2022-06-01,2022-06-01,1,65,10.0
+Funding Societies,Finance,Series B,Singapore,2020-04-16,2020-04-16,1,65,18.0
+LiveRamp,Marketing,Post-IPO,United States,2025-03-05,2025-03-05,1,65,5.0
+uShip,Logistics,Series D,United States,2020-03-31,2020-03-31,1,65,37.0
+Mixpanel,Data,Series B,United States,2020-05-12,2020-05-12,1,65,19.0
+Veho,Logistics,Series B,United States,2024-01-25,2024-01-25,1,65,19.0
+TheSkimm,Media,Series C,United States,2020-05-01,2023-05-03,3,65,14.3
+Virta Health,Healthcare,Series C,United States,2020-04-07,2020-04-07,1,65,
+Clari,Sales,Series F,United States,2022-08-31,2023-02-06,2,65,
+BeyondMinds,Data,Series A,Israel,2022-05-23,2022-05-23,1,65,100.0
+Balto,Sales,Series B,United States,2022-06-22,2022-12-12,2,65,
+Paxos,Crypto,Unknown,United States,2024-06-12,2024-06-12,1,65,20.0
+Otovo,Energy,Post-IPO,Norway,2024-02-08,2024-02-08,1,65,15.0
+Lambda School,Education,Series C,United States,2021-04-29,2021-04-29,1,65,
+Repertoire Immune Medicines,Healthcare,Series B,United States,2022-11-08,2022-11-08,1,65,50.0
+InfluxData,Data,Series D,United States,2022-11-10,2022-11-10,1,65,27.0
+Zeus Living,Real Estate,Series C,United States,2022-10-20,2022-10-20,1,64,46.0
+Sigfox,Other,Acquired,France,2022-04-25,2022-04-25,1,64,
+Lev,Real Estate,Series B,United States,2022-12-07,2023-05-01,2,64,30.0
+Mapbox,Data,Unknown,United States,2023-01-12,2023-01-12,1,64,
+Warby Parker,Consumer,Post-IPO,United States,2022-08-08,2022-08-08,1,63,
+SynapseFI,Finance,Series B,United States,2020-06-12,2020-06-12,1,63,48.0
+Candy Digital,Crypto,Series A,United States,2022-11-28,2023-06-29,2,63,33.0
+UserTesting,Marketing,Acquired,United States,2023-03-03,2023-03-03,1,63,
+Veriff,Security,Series A,Estonia,2020-05-04,2020-05-04,1,63,21.0
+Pie Insurance,Finance,Series D,United States,2023-05-18,2023-05-18,1,63,14.0
+Pandion,Logistics,Series B,United States,2025-01-10,2025-01-10,1,63,100.0
+Nevro,Healthcare,Post-IPO,United States,2024-01-09,2024-01-09,1,63,5.0
+Element AI,Other,Series B,Canada,2020-05-04,2020-05-04,1,62,15.0
+Ebanx,Finance,Unknown,Brazil,2020-05-27,2020-05-27,1,62,8.0
+Brex,Finance,Series C,United States,2020-05-29,2020-05-29,1,62,15.0
+Wattpad,Media,Acquired,Canada,2023-03-08,2024-01-30,2,62,12.5
+CS Disco,Legal,Post-IPO,United States,2023-01-19,2023-01-19,1,62,9.0
+divvyDOSE,Healthcare,Acquired,United States,2022-05-06,2022-05-06,1,62,
+Numbrs,Finance,Series B,Switzerland,2020-05-07,2020-05-07,1,62,50.0
+Tempo Automation,Other,Post-IPO,United States,2023-07-13,2023-07-13,1,62,
+Point,Real Estate,Series C,United States,2023-07-27,2023-07-27,1,61,28.0
+Bossa Nova,Retail,Unknown,United States,2020-06-29,2020-06-29,1,61,
+Instagram,Consumer,Acquired,United States,2024-01-10,2024-01-10,1,60,
+CleverTap,Marketing,Series C,India,2020-04-16,2020-04-16,1,60,20.0
+Booking Holdings,Travel,Post-IPO,United States,2024-12-04,2024-12-04,1,60,
+ON,Retail,Unknown,United States,2024-07-16,2024-07-16,1,60,100.0
+Foodpanda,Food,Acquired,Singapore,2022-09-07,2022-09-07,1,60,
+Whatfix,AI,Series E,India,2025-12-09,2025-12-09,1,60,6.0
+Maven Clinic,Healthcare,Series F,United States,2024-11-01,2024-11-01,1,60,10.0
+Grin,Marketing,Series B,United States,2022-11-30,2022-11-30,1,60,13.0
+Expel,Security,Series E,United States,2023-06-09,2023-06-09,1,60,10.0
+Qomplx,AI,Series A,United States,2023-08-04,2023-08-04,1,60,
+Parallel Wireless,Infrastructure,Unknown,United States,2022-06-29,2022-06-29,1,60,
+Klub,Finance,Unknown,India,2024-11-29,2024-11-29,1,60,
+Raken,Construction,Series A,United States,2020-03-27,2020-03-27,1,60,
+Latch,Security,Series B,United States,2020-04-02,2020-04-02,1,60,
+Akseleran,Finance,Series A,Indonesia,2023-07-27,2023-07-27,1,60,
+Tilting Point,Consumer,Unknown,United States,2023-01-31,2023-01-31,1,60,14.0
+Sirplus,Food,Seed,Germany,2024-01-17,2024-01-17,1,60,
+Protocol,Media,Acquired,United States,2022-11-15,2022-11-15,1,60,100.0
+Salsify,Retail,Series D,United States,2020-04-03,2020-04-03,1,60,13.0
+Nate,Retail,Series A,United States,2022-06-30,2022-08-30,2,60,20.0
+Me Poupe,Finance,Unknown,Brazil,2023-01-28,2023-01-28,1,60,50.0
+Workmotion,HR,Series B,Germany,2022-12-15,2022-12-15,1,60,20.0
+Quicko,Transportation,Acquired,Brazil,2022-09-12,2022-09-12,1,60,
+Revolut,Finance,Series D,United Kingdom,2020-05-11,2020-05-11,1,60,3.0
+Optimizely,Marketing,Series D,United States,2020-07-15,2020-07-15,1,60,15.0
+Orca Security,Security,Series C,Israel,2024-01-03,2024-01-03,1,60,15.0
+Western Digital,Hardware,Post-IPO,Israel,2023-05-24,2023-05-24,1,60,7.0
+Dropp,Retail,Unknown,Germany,2023-02-14,2023-02-14,1,60,100.0
+C6 Bank,Finance,Unknown,Brazil,2020-04-06,2020-04-06,1,60,6.0
+WazirX,Crypto,Acquired,India,2022-10-02,2022-10-02,1,60,40.0
+Sanar,Healthcare,Unknown,Brazil,2022-06-10,2022-06-10,1,60,20.0
+TechTarget,Marketing,Post-IPO,United States,2022-12-08,2022-12-08,1,60,5.0
+BlueStacks,Other,Series C,United States,2022-07-20,2022-07-20,1,60,
+Deputy,HR,Series B,Australia,2020-05-04,2020-05-04,1,60,30.0
+Elementor,Media,Unknown,Israel,2022-06-15,2022-06-15,1,60,15.0
+MadeiraMadeira,Retail,Series E,Brazil,2022-08-09,2022-08-09,1,60,3.0
+Daily Harvest,Food,Series D,United States,2022-02-10,2022-02-10,1,60,20.0
+Lunchbox,Food,Series B,United States,2022-07-21,2022-07-21,1,60,33.0
+Metromile,Finance,Acquired,United States,2022-07-28,2022-07-28,1,60,20.0
+Harappa,Education,Acquired,India,2023-01-03,2023-01-03,1,60,30.0
+Omuni,Retail,Acquired,India,2023-08-30,2023-08-30,1,60,35.0
+FourKites,Logistics,Series D,United States,2022-08-11,2022-08-11,1,60,8.0
+Afterverse,Consumer,Unknown,Brazil,2022-06-03,2022-06-03,1,60,20.0
+Parler,Consumer,Series B,United States,2023-01-10,2023-01-10,1,60,75.0
+Uber,Transportation,Post-IPO,Lithuania,2022-09-07,2022-09-07,1,60,
+Shippo,Logistics,Series E,United States,2022-11-03,2022-11-03,1,60,20.0
+VerticalScope,Media,Post-IPO,Canada,2023-02-01,2023-02-01,1,60,22.0
+Stord,Logistics,Series D,United States,2022-06-02,2022-06-02,1,59,8.0
+Rasa,Data,Series B,Germany,2022-03-30,2022-03-30,1,59,40.0
+SHINE Technologies,Other,Series C,United States,2023-08-10,2023-08-10,1,59,
+Exodus,Crypto,Unknown,United States,2022-11-04,2022-11-04,1,59,22.0
+Bonsai,Retail,Series A,Canada,2022-04-26,2022-06-20,2,59,44.5
+Pitch,Marketing,Series B,Germany,2022-09-14,2022-09-14,1,59,30.0
+Medallia,Support,Acquired,United States,2023-02-24,2023-02-24,1,59,
+Chili Piper,Sales,Series B,United States,2022-11-17,2022-11-17,1,58,
+Envoy,HR,Series B,United States,2020-04-14,2020-04-14,1,58,30.0
+Bandcamp,Other,Acquired,United States,2023-10-16,2023-10-16,1,58,50.0
+Stack Overflow,Recruiting,Acquired,United States,2023-05-10,2023-05-10,1,58,10.0
+Gupy,HR,Series B,Brazil,2023-08-02,2023-08-02,1,58,8.0
+Hash,Finance,Series C,Brazil,2022-08-01,2022-08-01,1,58,50.0
+CodeClan,Education,Seed,United Kingdom,2023-08-04,2023-08-04,1,57,100.0
+Rhino,Real Estate,Unknown,United States,2022-02-03,2022-02-03,1,57,20.0
+Introhive,Sales,Series C,Canada,2022-07-20,2022-07-20,1,57,16.0
+Divergent 3D,Transportation,Series B,United States,2020-04-24,2020-04-24,1,57,36.0
+Loom,Product,Series C,United States,2022-06-01,2022-10-20,2,57,12.5
+Rubrik,Infrastructure,Series E,United States,2020-05-18,2020-05-18,1,57,
+Splyt,Transportation,Series B,United Kingdom,2022-11-18,2022-11-18,1,57,
+The Wing,Real Estate,Series C,United States,2020-07-01,2020-07-01,1,56,
+Wave Sports and Entertainment,Media,Series B,United States,2022-06-13,2022-06-13,1,56,33.0
+Vesta,Sales,Unknown,United States,2020-08-05,2020-08-05,1,56,
+Udacity,Education,Unknown,United States,2022-10-11,2022-10-11,1,55,13.0
+Tails.com,Retail,Series A,United Kingdom,2024-02-20,2024-02-20,1,55,25.0
+Hike,Consumer,Unknown,India,2023-08-10,2023-08-10,1,55,
+Pomelo Fashion,Retail,Unknown,Thailand,2022-09-08,2022-09-08,1,55,8.0
+Perion,Marketing,Post-IPO,Israel,2022-08-08,2024-06-25,2,55,5.0
+When I Work,HR,Series B,United States,2020-04-22,2020-04-22,1,55,35.0
+Definitive Healthcare,Healthcare,Post-IPO,United States,2023-01-12,2023-01-12,1,55,6.0
+Tufin,Security,Acquired,United States,2022-08-21,2022-08-21,1,55,10.0
+Ludia,Consumer,Acquired,,2023-06-28,2023-06-28,1,55,
+SalesLoft,Sales,Series D,United States,2020-05-07,2020-05-07,1,55,
+Urban Sports Club,Fitness,Unknown,Germany,2022-09-01,2022-09-01,1,55,15.0
+GoBolt,Logistics,Series C,Canada,2023-01-10,2023-01-10,1,55,5.0
+Airtime,Consumer,Series B,United States,2022-05-23,2025-06-04,2,55,31.5
+Multiverse,Education,Series D,United Kingdom,2026-01-05,2026-01-05,1,55,
+The Mom Project,HR,Series C,United States,2022-07-14,2022-07-14,1,54,15.0
+Marketforce,Retail,Series A,Kenya,2022-08-11,2022-08-11,1,54,9.0
+Collective Health,Healthcare,Series F,United States,2023-02-13,2023-02-13,1,54,
+Tempo Automation,Other,Series C,United States,2022-08-17,2022-08-17,1,54,
+Nexar,Transportation,Series D,United States,2022-11-30,2023-09-04,3,54,14.0
+Caliva,Retail,Series B,United States,2023-08-08,2023-08-08,1,54,
+Actifio,Data,Acquired,United States,2020-12-16,2020-12-16,1,54,
+Ualá,Finance,Series D,Argentina,2022-11-30,2022-11-30,1,53,3.0
+HackerRank,Recruiting,Series D,United States,2023-08-27,2023-08-27,1,53,
+MediaMath,Marketing,Private Equity,United States,2020-04-07,2020-04-07,1,53,8.0
+DHI Group,Recruiting,Post-IPO,United States,2023-05-26,2023-05-26,1,53,10.0
+OutboundEngine,Marketing,Series C,United States,2020-03-25,2020-03-25,1,52,28.0
+Showpad,Marketing,Series D,United States,2020-04-01,2020-04-01,1,52,12.0
+Bamboo Health,Healthcare,Unknown,United States,2022-07-01,2022-07-01,1,52,
+At-Bay,Security,Unknown,United States,2023-09-12,2026-03-04,2,52,9.0
+RealSelf,Healthcare,Series B,United States,2020-04-21,2022-07-21,2,51,9.0
+Highsnobiety,Media,Series A,Germany,2020-04-01,2020-04-01,1,51,25.0
+Dapper Labs,Crypto,Unknown,Canada,2023-07-12,2023-07-12,1,51,
+Mercos,Sales,Unknown,Brazil,2020-05-13,2020-05-13,1,51,40.0
+Cardlytics,Marketing,Post-IPO,United States,2022-11-14,2022-11-14,1,51,
+Acorns,Finance,Unknown,United States,2020-05-26,2020-05-26,1,50,
+Avidbots,Hardware,Series C,Canada,2023-03-14,2023-03-14,1,50,14.0
+DeepVerge,Healthcare,Post-IPO,Ireland,2023-07-12,2023-07-12,1,50,100.0
+Kenko Health,Healthcare,Series A,India,2023-08-30,2023-08-30,1,50,20.0
+Q4,Other,Series C,Canada,2022-08-23,2022-08-23,1,50,8.0
+Jimdo,Other,Unknown,Germany,2022-11-15,2022-11-15,1,50,16.0
+Freightos,Logistics,Post-IPO,United States,2023-07-12,2023-07-12,1,50,13.0
+Pocket Aces,Media,Unknown,India,2023-02-06,2023-02-06,1,50,25.0
+Remote Year,Travel,Series B,United States,2020-03-19,2020-03-19,1,50,50.0
+Dutchie,Other,Series D,United States,2022-06-06,2022-06-06,1,50,7.0
+Sabi,Retail,Series B,Nigeria,2025-06-19,2025-06-19,1,50,20.0
+LiveTiles,Other,Post-IPO,United States,2020-05-03,2020-05-03,1,50,
+Wahoo Fitness,Fitness,Unknown,United States,2022-04-27,2022-04-27,1,50,
+Segment,Data,Series D,United States,2020-05-06,2020-05-06,1,50,10.0
+Rubicon Project,Marketing,Post-IPO,United States,2020-05-06,2020-05-06,1,50,8.0
+Kenko Health,Healthcare,Unknown,India,2023-08-29,2023-08-29,1,50,20.0
+RingCentral,Support,Post-IPO,United States,2022-08-04,2022-08-04,1,50,
+Imperfect Foods,Food,Series D,United States,2022-07-29,2022-07-29,1,50,
+NanoString Technologies,Healthcare,Post-IPO,United States,2024-01-06,2024-01-06,1,50,9.0
+Salesforce,Sales,Post-IPO,Ireland,2023-08-02,2023-08-02,1,50,
+Kontist,Finance,Series B,Germany,2022-05-25,2022-05-25,1,50,25.0
+Tiendanube,Marketing,Unknown,Argentina,2022-10-17,2022-10-17,1,50,5.0
+Symend,Other,Series C,Canada,2023-03-17,2023-03-17,1,50,25.0
+Impossible Foods,Food,Series H,United States,2022-10-06,2022-10-06,1,50,6.0
+TakeOff,Retail,Unknown,Ukraine,2023-03-23,2023-03-23,1,50,
+Bobble AI,Consumer,Unknown,India,2025-09-04,2025-09-04,1,50,
+Vezeeta,Healthcare,Series D,United Arab Emirates,2022-06-28,2022-06-28,1,50,10.0
+Moov,Finance,Series B,United States,2024-09-25,2024-09-25,1,50,
+Warren,Finance,Series C,Brazil,2022-08-17,2022-08-17,1,50,
+Circle,Crypto,Private Equity,United States,2024-12-05,2024-12-05,1,50,6.0
+Zoopla,Real Estate,Series C,United Kingdom,2022-12-23,2022-12-23,1,50,
+Ambev Tech,Food,Acquired,Brazil,2023-03-02,2023-03-02,1,50,
+Replicated,Infrastructure,Series C,United States,2022-05-31,2022-05-31,1,50,
+Iron Ox,Food,Series C,United States,2022-11-02,2022-11-02,1,50,50.0
+Minute Media,Media,Series I,United Kingdom,2023-01-08,2023-01-08,1,50,10.0
+Iflix,Consumer,Unknown,Malaysia,2020-04-04,2020-04-04,1,50,12.0
+Axios Media,Media,Acquired,United States,2024-08-06,2024-08-06,1,50,10.0
+Earnin,Finance,Series C,United States,2020-04-01,2020-04-01,1,50,20.0
+Dazn,Consumer,Unknown,United Kingdom,2022-05-26,2022-05-26,1,50,2.0
+Ada Health,Healthcare,Series B,Germany,2022-10-17,2022-10-17,1,50,
+Wonderschool,Education,Series A,United States,2020-03-25,2020-03-25,1,50,75.0
+Aleph Alpha,AI,Series B,Germany,2026-01-14,2026-01-14,1,50,16.0
+Showpad,Marketing,Series D,Belgium,2024-04-18,2024-04-18,1,50,10.0
+Megaport,Infrastructure,Post-IPO,Australia,2023-04-27,2023-04-27,1,50,16.0
+SkySlope,Real Estate,Acquired,United States,2020-03-31,2020-03-31,1,50,25.0
+Breathe,Healthcare,Series A,India,2022-06-14,2022-06-14,1,50,33.0
+Huawei,Hardware,Unknown,Israel,2026-02-15,2026-02-15,1,50,
+ClearCo,Finance,Series C,Canada,2023-01-16,2023-01-16,1,50,30.0
+Eucalyptus,Healthcare,Series C,Australia,2022-07-22,2022-07-22,1,50,20.0
+Group Nine Media,Media,Unknown,United States,2020-04-07,2020-04-07,1,50,7.0
+Bizongo,Retail,Series E,India,2023-10-05,2023-10-05,1,50,
+Myntra,Retail,Acquired,India,2023-07-26,2023-07-26,1,50,
+Dragos,Security,Series D,United States,2023-06-06,2023-06-06,1,50,9.0
+Anodot,Data,Series C,Israel,2022-07-06,2022-07-06,2,50,23.5
+Impinj,Other,Post-IPO,United States,2024-02-13,2024-02-13,1,50,10.0
+FullStory,Marketing,Unknown,United States,2024-01-09,2024-01-09,1,50,10.0
+Fireblocks,Crypto,Series E,United States,2023-02-20,2024-02-07,2,50,4.0
+Cake Group,Crypto,Unknown,Singapore,2023-11-14,2023-11-14,1,50,30.0
+Bishop Fox,Security,Series B,United States,2023-05-02,2023-05-02,1,50,13.0
+iPrice Group,Retail,Unknown,Malaysia,2022-06-08,2022-06-08,1,50,20.0
+American Robotics,Other,Acquired,United States,2023-01-17,2023-01-17,1,50,65.0
+Lastline,Security,Series C,United States,2020-06-04,2020-06-04,1,50,40.0
+JOKR,Food,Series B,United States,2022-06-16,2022-06-16,1,50,5.0
+Graphy,Education,Subsidiary,India,2023-10-26,2023-10-26,1,50,20.0
+Puppet,Infrastructure,Series F,United States,2020-03-26,2020-03-26,1,50,10.0
+Lyst,Retail,Unknown,United Kingdom,2022-11-29,2022-11-29,1,50,25.0
+RiseUp,Finance,Series B,Israel,2024-04-30,2024-04-30,1,50,50.0
+Tibber,Energy,Series C,Norway,2023-06-27,2023-06-27,1,50,
+Wave Financial,Finance,Acquired,Canada,2023-03-09,2023-03-09,1,50,
+SonderMind,Healthcare,Series C,United States,2024-01-16,2024-01-16,1,49,17.0
+Equitybee,Finance,Series B,United States,2022-10-31,2023-02-08,2,49,22.5
+MicroVision,Other,Post-IPO,United States,2026-03-03,2026-03-03,1,49,
+First Mode,Transportation,Acquired,United States,2024-01-16,2024-01-16,1,48,20.0
+Titan Medical,Healthcare,Post-IPO,Canada,2023-02-10,2023-02-10,1,48,72.0
+Chingari,Media,Unknown,India,2023-06-19,2023-06-19,1,48,20.0
+Shogun,Retail,Series C,United States,2022-08-09,2022-08-09,1,48,30.0
+Button,Marketing,Series C,United States,2020-04-08,2020-04-08,1,48,35.0
+Netlify,Product,Series D,United States,2022-12-01,2022-12-01,1,48,16.0
+Guideline,Finance,Series E,United States,2023-04-03,2023-04-03,1,48,11.0
+Bench,Finance,Series B,Canada,2020-03-27,2020-03-27,1,47,10.0
+Open,Finance,Series D,India,2023-04-20,2023-04-20,1,47,
+HuffPo,Media,Acquired,United States,2021-03-09,2021-03-09,1,47,
+Ecobee,Energy,Series C,Canada,2020-03-26,2020-03-26,1,47,10.0
+Polly,Finance,Series C,United States,2022-12-02,2022-12-02,1,47,15.0
+Unbounce,Marketing,Series A,Canada,2022-08-03,2022-08-03,1,47,20.0
+Alto Pharmacy,Healthcare,Series D,United States,2020-09-29,2020-09-29,1,47,6.0
+The Athletic,Media,Series D,United States,2020-06-05,2020-06-05,1,46,8.0
+Wonolo,Recruiting,Series C,United States,2020-04-01,2020-04-01,1,46,13.0
+Akili Labs,Healthcare,Post-IPO,United States,2023-01-12,2023-01-12,1,46,30.0
+Payfactors,HR,Unknown,United States,2020-04-07,2020-04-07,1,46,
+Viant,Marketing,Post-IPO,United States,2022-12-13,2022-12-13,1,46,13.0
+AEye,Transportation,Post-IPO,United States,2023-03-28,2023-03-28,1,46,33.0
+Deep Instict,Security,Unknown,United States,2023-07-25,2023-07-25,1,46,15.0
+Intapp,Legal,Private Equity,United States,2020-05-18,2020-05-18,1,45,5.0
+Nuri,Finance,Series B,Germany,2022-05-25,2022-05-25,1,45,20.0
+TomTom,Transportation,Post-IPO,Poland,2023-12-12,2023-12-12,1,45,
+Hubba,Retail,Series B,Canada,2021-02-01,2021-02-01,1,45,100.0
+Zumper,Real Estate,Series D,United States,2022-06-16,2022-06-16,1,45,15.0
+Viber,Consumer,Acquired,Luxembourg,2022-11-15,2022-11-15,1,45,8.0
+Kissflow,Other,Unknown,India,2024-06-10,2024-06-10,1,45,11.0
+Examedi,Healthcare,Unknown,Chile,2023-04-11,2023-04-11,1,45,25.0
+Workstream,HR,Series B,United States,2022-07-22,2022-07-22,1,45,
+Airtasker,Retail,Series C,Australia,2023-04-27,2023-04-27,1,45,20.0
+Mainstreet,Finance,Series A,United States,2022-05-04,2022-05-04,1,45,30.0
+Otorio,Security,Acquired,Israel,2025-03-17,2025-03-17,1,45,56.0
+Aurora Labs,Transportation,Series C,Israel,2025-01-27,2025-01-27,1,45,60.0
+Ezoic,Infrastructure,Series A,United States,2022-12-31,2023-02-28,2,45,
+Pilot,Finance,Unknown,United States,2023-06-16,2023-06-16,1,45,13.0
+Freetrade,Finance,Unknown,United Kingdom,2022-06-10,2022-06-10,1,45,15.0
+Laybuy,Finance,Post-IPO,New Zealand,2022-07-28,2022-07-28,1,45,
+Hubilo,Marketing,Series B,United States,2022-07-12,2022-07-12,1,45,12.0
+TADA,Transportation,Subsidiary,South Korea,2023-06-15,2023-06-15,1,45,60.0
+Namogoo,Marketing,Series C,Israel,2022-11-09,2023-01-23,2,45,15.0
+Huma,Healthcare,Unknown,United Kingdom,2023-08-30,2023-08-30,1,45,10.0
+Peek,Travel,Series B,United States,2020-03-20,2020-03-20,1,45,
+Acko,Finance,Unknown,India,2020-04-01,2020-04-01,1,45,9.0
+Ahead,Healthcare,Unknown,United States,2022-04-14,2022-04-14,1,44,100.0
+Luxury Presence,Real Estate,Series B,United States,2023-01-17,2023-01-17,1,44,
+CoinSwitch,Crypto,Series C,India,2023-08-28,2023-08-28,1,44,
+Redox,Healthcare,Series C,United States,2020-06-16,2020-06-16,1,44,25.0
+Passport,Transportation,Series D,United States,2020-03-26,2020-03-26,1,44,
+Tomo,Finance,Series A,United States,2022-05-31,2022-05-31,1,44,33.0
+Bustle Digital Group,Media,Series E,United States,2020-04-03,2020-04-03,2,43,8.0
+Postscript,Marketing,Series C,United States,2022-06-26,2022-06-26,1,43,
+Chief,Other,Series B,United States,2023-04-27,2023-04-27,1,43,14.0
+Shelf Engine,Food,Series B,United States,2022-07-29,2022-07-29,1,43,
+Elinvar,Finance,Unknown,Germany,2022-10-21,2022-10-21,1,43,33.0
+Inscripta,Healthcare,Series E,United States,2022-12-08,2022-12-08,1,43,
+Unstoppable Domains,Crypto,Series B,United States,2022-07-14,2022-07-14,1,42,25.0
+Course Hero,Education,Series C,United States,2023-03-16,2023-03-16,1,42,15.0
+Velo3D,Manufacturing,Post-IPO,United States,2024-08-26,2024-08-26,1,42,
+Khatabook,Finance,Series C,India,2023-09-01,2023-09-01,1,42,
+Bestow,Finance,Series C,United States,2022-06-24,2022-06-24,1,41,14.0
+Practo,Healthcare,Series D,India,2023-04-08,2023-04-08,1,41,
+Peerspace,Real Estate,Series B,United States,2020-03-26,2020-03-26,1,41,75.0
+Food52,Food,Acquired,United States,2022-04-08,2022-06-03,2,41,12.5
+Treehouse,Education,Series B,United States,2021-09-14,2021-09-14,1,41,90.0
+Lighter Capital,Finance,Series B,United States,2020-04-24,2020-07-20,2,40,35.5
+Absci,Healthcare,Post-IPO,Canada,2022-08-09,2022-08-09,1,40,
+Brave Care,Healthcare,Series B,United States,2022-09-06,2022-09-06,1,40,33.0
+Stash Financial,Finance,Unknown,United States,2022-06-30,2022-06-30,1,40,8.0
+Riskified,Retail,Post-IPO,United States,2024-02-13,2024-02-13,1,40,6.0
+Loco,Consumer,Acquired,India,2023-11-30,2023-11-30,1,40,36.0
+Innovid,Marketing,Post-IPO,United States,2023-01-23,2023-01-23,1,40,10.0
+BigPanda,Infrastructure,Series E,United States,2023-04-24,2023-04-24,1,40,13.0
+Hodlnaut,Crypto,Unknown,Singapore,2022-08-19,2022-08-19,1,40,80.0
+Mr Yum,Food,Series A,Australia,2023-03-21,2023-03-21,1,40,
+Ideoclick,Retail,Series A,United States,2022-05-04,2022-05-04,1,40,
+TikTok India,Consumer,Acquired,India,2023-02-10,2023-02-10,1,40,
+Tidal,Consumer,Acquired,United States,2023-12-06,2023-12-06,1,40,10.0
+Vial,Healthcare,Series B,United States,2023-01-13,2023-01-13,1,40,
+Fly.io,Infrastructure,Series C,United States,2024-09-04,2024-09-04,1,40,
+Moglix,Retail,Series F,Singapore,2023-01-05,2023-01-05,1,40,2.0
+Daloopa,Data,Series A,India,2022-05-27,2022-05-27,1,40,
+Grover,Retail,Unknown,Germany,2022-12-07,2022-12-07,1,40,10.0
+Etermax,Other,Unknown,Argentina,2022-11-30,2022-11-30,1,40,
+CarTrawler,Transportation,Acquired,Ireland,2024-09-19,2024-09-19,1,40,10.0
+Archipelago,Real Estate,Series B,United States,2023-08-01,2023-08-01,1,40,30.0
+Navi,Finance,Private Equity,India,2020-06-17,2020-06-17,1,40,25.0
+Clinc,Support,Series B,United States,2020-04-09,2020-04-09,1,40,32.0
+Incredibuild,Product,Series B,Israel,2023-12-05,2023-12-05,1,40,20.0
+VideoAmp,Marketing,Series F,United States,2023-09-14,2023-09-14,1,40,10.0
+Relevel,HR,Unknown,India,2023-01-10,2023-01-10,1,40,20.0
+Oh My Green,Food,Seed,United States,2020-03-27,2020-03-27,1,40,
+Rivian,Transportation,Private Equity,United States,2020-06-02,2020-06-02,1,40,2.0
+Reverb,Retail,Acquired,United States,2024-09-20,2024-09-20,1,40,
+PharmEasy,Healthcare,Unknown,India,2022-06-16,2022-06-16,1,40,
+Shuttl,Transportation,Series C,India,2020-04-02,2020-04-02,1,40,
+Dozee,Healthcare,Series A,India,2024-09-02,2024-09-02,1,40,
+Morning Brew,Media,Acquired,United States,2023-03-09,2023-03-09,1,40,
+Submittable,Other,Unknown,United States,2024-08-08,2024-08-08,1,40,
+Oye Rickshaw,Transportation,Unknown,India,2022-06-29,2022-06-29,1,40,20.0
+Stack Overflow,Recruiting,Series D,United States,2020-05-05,2020-05-05,1,40,15.0
+Wejo,Transportation,Post-IPO,United Kingdom,2023-03-22,2023-03-22,1,40,16.0
+KiwiCo,Retail,Unknown,United States,2022-06-07,2022-06-07,1,40,
+Sight Diagnostics,Healthcare,Series D,Israel,2024-05-09,2024-05-09,1,40,30.0
+Eden / Managed By Q,Real Estate,Series B,United States,2020-04-08,2020-04-08,1,40,40.0
+Wistia,Marketing,Unknown,United States,2022-11-10,2022-11-10,1,40,
+The Grommet,Retail,Acquired,United States,2022-06-09,2022-06-09,1,40,100.0
+Basis Technologies,Marketing,Series B,United States,2023-02-21,2023-02-21,1,40,4.0
+Labster,Education,Series B,Denmark,2020-04-17,2020-04-17,1,40,
+Eruditus,Education,Series E,India,2022-06-04,2022-06-04,1,40,
+Logically,AI,Series A,United Kingdom,2025-02-17,2025-02-17,1,40,20.0
+Parsable,HR,Series C,United States,2020-04-15,2020-04-15,1,40,25.0
+Drata,Security,Series C,United States,2024-09-26,2024-09-26,1,40,9.0
+EVgo,Transportation,Post-IPO,United States,2023-02-23,2023-02-23,1,40,
+Homeday,Real Estate,Unknown,Germany,2023-09-12,2023-09-12,1,40,20.0
+Community,Marketing,Unknown,United States,2022-06-21,2022-06-21,1,40,30.0
+SpotHero,Transportation,Series D,United States,2020-06-03,2020-06-03,1,40,21.0
+BitSight,Security,Unknown,Israel,2023-02-26,2023-02-26,1,40,
+PaySense,Finance,Acquired,India,2020-07-09,2020-07-09,1,40,
+Absolute Software,Security,Post-IPO,Canada,2023-04-06,2023-04-06,1,40,5.0
+InDebted,Finance,Series B,Australia,2022-07-26,2022-07-26,1,40,17.0
+Cloudflare,Security,Post-IPO,United States,2024-01-11,2024-01-11,1,40,
+Adwerx,Marketing,Unknown,United States,2022-07-07,2022-07-07,1,40,
+Impact.com,Sales,Private Equity,United States,2024-02-05,2024-02-05,1,40,3.0
+Lightico,Finance,Series B,Israel,2022-03-31,2023-02-05,2,40,25.0
+Snowplow,Data,Series B,United Kingdom,2023-02-02,2023-02-02,1,40,
+StrongDM,Infrastructure,Series B,United States,2023-02-23,2023-02-23,1,40,
+Treasury Prime,Finance,Series C,United States,2024-02-28,2024-02-28,1,40,40.0
+PartnerStack,Sales,Series B,Canada,2023-01-24,2023-01-24,1,40,20.0
+Siteimprove,Marketing,Unknown,United States,2020-03-31,2020-03-31,1,40,
+Intrinsic,Other,Acquired,United States,2023-01-11,2023-01-11,1,40,20.0
+Cloudinary,Media,Unknown,United States,2022-11-14,2022-11-14,1,40,8.0
+Astra,Aerospace,Unknown,United States,2020-04-05,2020-04-05,1,40,25.0
+Jobcase,Recruiting,Private Equity,United States,2020-04-02,2020-04-02,1,39,20.0
+Goop,Retail,Unknown,United States,2024-09-06,2024-09-06,1,39,18.0
+Kiavi,Real Estate,Series E,United States,2022-07-14,2022-07-14,1,39,7.0
+Flatiron Health,Healthcare,Acquired,United States,2023-06-07,2023-06-07,1,39,
+Builder,Product,Series A,United States,2020-06-04,2020-06-04,1,39,14.0
+Freshbooks,Finance,Series B,Canada,2020-04-21,2020-04-21,1,38,9.0
+The Guild,Travel,Series B,United States,2020-03-23,2020-03-23,1,38,22.0
+Articulate,Education,Series A,United States,2023-02-02,2023-02-02,1,38,
+Immersive Labs,Security,Series C,United Kingdom,2022-08-30,2022-08-30,1,38,10.0
+M1,Finance,Series E,United States,2022-07-19,2022-07-19,1,38,
+Flockjay,Education,Series A,United States,2021-08-24,2021-08-24,1,37,50.0
+Springbig,Sales,Post-IPO,United States,2022-12-01,2022-12-01,1,37,23.0
+Zeplin,Product,Seed,United States,2023-08-30,2023-08-30,1,37,35.0
+Plex,Media,Unknown,United States,2023-06-28,2023-06-28,1,37,20.0
+Rent the Runway,Retail,Post-IPO,United States,2024-01-09,2024-01-09,1,37,10.0
+Capitolis,Finance,Series D,United States,2022-11-17,2022-11-17,1,37,25.0
+Humble Games,Media,Acquired,United States,2024-07-23,2024-07-23,1,36,100.0
+Ada Support,Support,Series B,Canada,2020-04-24,2020-04-24,1,36,23.0
+Labelbox,Data,Series D,United States,2022-08-08,2022-08-08,1,36,
+Hireology,Recruiting,Series D,United States,2020-05-12,2020-05-12,1,36,17.0
+Culture Amp,HR,Series E,Australia,2020-05-28,2020-05-28,1,36,8.0
+Plum,Healthcare,Series A,India,2022-11-09,2022-11-09,1,36,10.0
+Copper,Marketing,Series C,United States,2020-04-02,2020-04-02,1,35,
+Circus Kitchens,Food,Seed,Germany,2023-05-25,2023-05-25,1,35,
+Monese,Finance,Unknown,Portugal,2020-05-01,2020-05-01,1,35,
+OpenX,Marketing,Unknown,United States,2020-04-28,2020-04-28,1,35,15.0
+Linkfire,Marketing,Seed,Denmark,2022-10-11,2022-10-11,1,35,35.0
+TytoCare,Healthcare,Series E,United States,2025-07-17,2025-07-17,1,35,22.0
+WeTransfer,Other,Series A,Netherlands,2023-10-18,2023-10-18,1,35,10.0
+Kabam,Consumer,Acquired,United States,2022-11-09,2022-11-09,1,35,7.0
+WorkRamp,HR,Series C,United States,2022-09-15,2022-09-15,1,35,20.0
+Artsy,Retail,Series D,United States,2023-06-29,2023-06-29,1,35,15.0
+Appsmith,Unknown,Series B,United States,2023-09-22,2023-09-22,1,35,25.0
+Sweetgreen,Food,Series I,United States,2020-04-17,2020-04-17,1,35,10.0
+Gloat,HR,Series D,United States,2023-04-20,2023-04-20,1,35,12.0
+Superpedestrian,Transportation,Series C,United States,2022-06-22,2022-06-22,1,35,7.0
+Dynamic Signal,HR,Series E,United States,2020-04-02,2020-04-02,1,35,19.0
+Ridecell,Transportation,Series B,United States,2020-05-14,2020-05-14,1,35,15.0
+Jetty,Finance,Series B,United States,2020-04-03,2020-04-03,1,35,40.0
+D2iQ,Infrastructure,Series D,United States,2020-04-03,2020-04-03,1,34,13.0
+TealBook,Other,Series B,Canada,2022-11-17,2022-11-17,1,34,19.0
+Loop,Finance,Series A,United States,2022-08-24,2023-03-30,2,34,22.5
+Lola,Travel,Series C,United States,2020-03-19,2020-03-19,1,34,
+Grabango,Food,Unknown,United States,2023-09-11,2023-09-11,1,34,40.0
+Appgate,Security,Post-IPO,United States,2023-02-01,2023-02-01,1,34,8.0
+Studio,Education,Series B,United States,2022-06-13,2022-06-13,1,33,40.0
+Vee,HR,Seed,Israel,2022-07-31,2022-10-25,2,33,41.0
+ICANN,Infrastructure,Unknown,United States,2024-05-30,2024-05-30,1,33,7.0
+Citizen,Consumer,Series C,United States,2023-01-11,2023-01-11,1,33,
+Movidesk,Support,Seed,Brazil,2020-04-20,2020-04-20,1,33,25.0
+Amperity,Marketing,Series D,United States,2022-08-20,2024-01-25,2,33,3.0
+Paystack,Finance,Acquired,Nigeria,2023-11-16,2023-11-16,1,33,
+Section4,Education,Series A,United States,2022-05-12,2022-05-12,1,32,
+Advata,Healthcare,Unknown,United States,2022-10-28,2022-10-28,1,32,21.0
+Boxed,Retail,Post-IPO,United States,2023-03-15,2023-03-15,1,32,25.0
+AtoB,Finance,Series B,United States,2022-10-19,2022-10-19,1,32,30.0
+Loftium,Real Estate,Series A,United States,2020-05-29,2020-05-29,1,32,60.0
+CaptivateIQ,Sales,Series C,United States,2022-11-15,2022-11-15,1,31,10.0
+Pipedrive,Sales,Series C,Estonia,2020-05-05,2020-05-05,1,31,
+Enjoei,Retail,Unknown,Brazil,2023-01-20,2023-01-20,1,31,10.0
+Clue,Healthcare,Unknown,Germany,2023-01-18,2023-01-18,1,31,31.0
+Maven,Media,Post-IPO,United States,2020-03-30,2020-03-30,1,31,9.0
+Stashaway,Finance,Series D,Singapore,2022-06-09,2022-06-09,1,31,14.0
+Skillshare,Education,Unknown,United States,2022-06-01,2022-06-01,1,31,
+Uberflip,Marketing,Series A,Canada,2022-08-05,2022-08-05,1,31,17.0
+Flex,Manufacturing,Unknown,United States,2023-12-13,2023-12-13,1,31,
+Skedulo,HR,Series C,United States,2022-08-23,2022-08-23,1,31,8.0
+Zencity,Other,Unknown,Israel,2022-07-20,2022-07-20,1,30,20.0
+Kobo360,Logistics,Series B,Nigeria,2024-11-30,2024-11-30,1,30,
+Hydrow,Fitness,Series D,United States,2023-01-19,2023-01-19,1,30,
+Superloop,Infrastructure,Post-IPO,Australia,2020-08-24,2020-08-24,1,30,
+Replit,Product,Unknown,United States,2024-05-16,2024-05-16,1,30,20.0
+Coinsquare,Crypto,Unknown,Canada,2022-07-27,2022-07-27,1,30,24.0
+HomeLane,Retail,Series E,India,2023-03-06,2023-03-06,1,30,
+Trigo,Retail,Series C,Israel,2024-01-04,2024-01-04,1,30,15.0
+Tomorrow,Finance,Unknown,Germany,2022-12-16,2022-12-16,1,30,25.0
+Bright Machines,Data,Unknown,Israel,2022-06-28,2022-06-28,1,30,8.0
+Lusha,Marketing,Series B,United States,2022-07-18,2022-07-18,1,30,10.0
+Betterfly,Healthcare,Series C,Chile,2022-08-11,2022-08-11,1,30,
+Rapyd,Finance,Unknown,Israel,2024-06-18,2024-06-18,1,30,
+Glowforge,Manufacturing,Series E,United States,2023-12-15,2023-12-15,1,30,
+Edifecs,Healthcare,Unknown,United States,2023-01-20,2023-01-20,1,30,
+Submittable,Other,Series B,United States,2020-04-25,2020-04-25,1,30,20.0
+Xiaomi India,Other,Subsidiary,India,2023-06-29,2023-06-29,1,30,
+Hunty,HR,Seed,Colombia,2022-06-14,2022-06-14,1,30,
+Athennian,Legal,Series B,Canada,2023-07-05,2023-07-05,1,30,
+CyCognito,Security,Series C,United States,2022-12-08,2022-12-08,1,30,15.0
+Tanium,Security,Unknown,United States,2021-08-30,2021-08-30,1,30,
+Embroker,Finance,Series C,United States,2022-10-25,2022-10-25,1,30,12.0
+Hailo,Manufacturing,Series C,Israel,2026-01-08,2026-01-08,1,30,10.0
+Coterie Insurance,Finance,Series B,United States,2022-05-25,2022-05-25,1,30,20.0
+Qualcomm,Hardware,Post-IPO,Israel,2023-05-23,2023-05-23,1,30,
+BeeTech,Finance,Series B,Brazil,2020-04-10,2020-04-10,1,30,
+Syft Technologies,Manufacturing,Private Equity,New Zealand,2023-02-10,2023-02-10,1,30,20.0
+Fittr,Fitness,Series A,India,2023-03-02,2023-03-02,1,30,11.0
+People.ai,Marketing,Series C,United States,2020-04-17,2020-04-17,1,30,18.0
+Mensa Brands,Retail,Unknown,India,2023-05-30,2023-05-30,1,30,
+Gather,Consumer,Series B,United States,2022-06-02,2022-06-02,1,30,33.0
+Airbnb,Travel,Post-IPO,United States,2023-03-03,2023-03-03,1,30,
+True Anomaly,Aerospace,Series B,United States,2024-04-25,2024-04-25,1,30,25.0
+EquityZen,Finance,Series B,United States,2022-10-31,2022-10-31,1,30,27.0
+Veem,Finance,Unknown,United States,2020-05-14,2020-05-14,1,30,
+DataRails,Finance,Series B,Israel,2022-12-05,2022-12-05,1,30,18.0
+Starship Technologies,Transportation,Series A,Estonia,2020-03-30,2020-03-30,1,30,
+Overtime,Media,Series B,United States,2020-03-25,2020-03-25,1,30,23.0
+Detectify,Security,Unknown,Sweden,2023-08-18,2023-08-18,1,30,
+CTO.ai,Infrastructure,Seed,Canada,2020-03-20,2020-03-20,1,30,50.0
+Roblox,Consumer,Post-IPO,United States,2023-09-22,2023-09-22,1,30,
+Nav,Finance,Series C,United States,2020-04-07,2020-04-07,1,30,
+Lawgeex,Legal,Series C,Israel,2022-09-06,2022-09-06,1,30,33.0
+Salto,Other,Series B,Israel,2025-06-10,2025-06-10,1,30,50.0
+Sauce Labs,Infrastructure,Unknown,United States,2020-04-02,2020-04-02,1,30,15.0
+Getta,Transportation,Series A,Israel,2022-05-31,2022-05-31,1,30,
+Impala,Travel,Series B,United Kingdom,2022-06-01,2022-06-01,1,30,35.0
+Absci,Healthcare,Post-IPO,United States,2023-09-05,2023-09-05,1,30,15.0
+MoonPay,Crypto,Unknown,United States,2024-06-05,2024-06-05,1,30,10.0
+Nestcoin,Crypto,Seed,Nigeria,2022-11-14,2022-11-14,1,30,
+Fi.Money,Finance,Series C,India,2023-09-27,2023-09-27,1,30,10.0
+Pecan AI,Data,Series C,Israel,2023-01-05,2023-01-05,1,30,25.0
+Synapsica,Healthcare,Series A,India,2022-10-21,2022-10-21,1,30,30.0
+Emotive,Marketing,Series B,United States,2022-07-07,2022-07-07,1,30,18.0
+Earnix,Finance,Unknown,Israel,2023-05-04,2023-05-04,1,30,10.0
+RingCentral,Other,Post-IPO,United States,2023-01-17,2023-01-17,1,30,
+OKCredit,Finance,Series B,India,2022-02-24,2022-02-24,1,30,
+Blume Global,Logistics,Unknown,United States,2020-03-30,2020-03-30,1,30,10.0
+Medsaf,Healthcare,Unknown,Nigeria,2023-07-07,2023-07-07,1,30,100.0
+Bardee,Food,Seed,Australia,2023-08-03,2023-08-03,1,30,
+Booktopia,Retail,Series A,Australia,2023-01-23,2023-01-23,1,30,
+Autograph,Crypto,Series B,United States,2023-05-04,2023-05-04,1,30,33.0
+SQream,Data,Series B,United States,2022-07-06,2022-07-06,1,30,18.0
+Samsung,Hardware,Post-IPO,United States,2023-03-14,2023-03-14,1,30,
+Aleph Farms,Food,Unknown,Israel,2024-06-05,2024-06-05,1,30,30.0
+TCR2,Healthcare,Post-IPO,United States,2022-08-31,2022-08-31,1,30,20.0
+Ermetic,Security,Series B,United States,2023-01-23,2023-01-23,1,30,17.0
+Waze,Transportation,Acquired,United States,2020-09-09,2020-09-09,1,30,5.4
+Worksmith,Retail,Unknown,United States,2020-11-09,2020-11-09,1,30,50.0
+Twine Solutions ,Hardware,Unknown,Israel,2023-01-05,2023-01-05,1,30,33.0
+7shifts,Food,Series C,Canada,2023-09-15,2023-09-15,1,30,7.0
+Bullish,Crypto,Unknown,Hong Kong,2022-07-05,2022-07-05,1,30,8.0
+Bevi,Food,Series C,United States,2020-03-27,2020-03-27,1,30,20.0
+Catalant,Other,Series E,United States,2020-03-30,2020-03-30,1,30,
+Teampay,Finance,Series B,United States,2023-04-26,2023-04-26,1,30,33.0
+Thread,Retail,Acquired,United Kingdom,2022-11-30,2022-11-30,1,30,50.0
+FiscalNote,Media,Series D,United States,2020-04-02,2020-04-02,1,30,
+Personetics,Support,Private Equity,United States,2023-01-05,2023-01-05,1,30,8.0
+Windsurf,AI,Acquired,United States,2025-08-05,2025-08-05,1,30,
+Flutterwave,Finance,Unknown,Nigeria,2024-06-24,2024-06-24,1,30,3.0
+Plato,HR,Seed,United States,2022-08-23,2022-08-23,1,29,50.0
+Eigen Labs,Crypto,Unknown,United States,2025-07-08,2025-07-08,1,29,25.0
+Shef,Food,Series A,United States,2022-06-02,2022-06-02,1,29,
+Matrixport,Crypto,Series C,Singapore,2023-01-27,2023-01-27,1,29,10.0
+Uncapped,Finance,Unknown,United Kingdom,2022-05-27,2022-05-27,1,29,26.0
+SchoolMint,Education,Acquired,United States,2023-10-05,2023-10-05,1,29,14.0
+Foretellix,Transportation,Series C,Israel,2026-01-08,2026-01-08,1,29,18.0
+Cabify,Transportation,Unknown,Spain,2024-05-02,2024-05-02,1,29,
+GoTo,Other,Acquired,United States,2024-01-23,2024-01-23,1,29,
+Chessable,Consumer,Acquired,United Kingdom,2022-07-04,2022-07-04,1,29,
+Vesalius Therapeutics,Healthcare,Series B,United States,2022-09-19,2022-09-19,1,29,43.0
+Tickertape,Finance,Seed,India,2023-04-27,2023-04-27,1,29,29.0
+Apartment List,Real Estate,Series D,United States,2022-08-31,2022-08-31,1,29,10.0
+Catena Media,Marketing,Unknown,Malta,2024-10-23,2024-10-23,1,29,
+Betterment,Finance,Series F,United States,2023-02-15,2023-02-15,1,28,
+Moovel,Transportation,Unknown,United States,2020-04-01,2020-04-01,1,28,37.0
+Tally,Finance,Series C,United States,2020-05-07,2020-05-07,1,28,23.0
+Cowbell,Finance,Series B,United States,2023-09-29,2023-09-29,1,28,12.0
+Bakkt,Crypto,Post-IPO,United States,2024-05-03,2024-05-03,1,28,
+Cadre,Real Estate,Series C,United States,2020-05-11,2020-05-11,1,28,25.0
+SellerX,Retail,Unknown,Germany,2022-07-19,2022-07-19,1,28,
+Stint,HR,Unknown,United Kingdom,2022-07-19,2022-07-19,1,28,20.0
+Tilia,Finance,Unknown,United States,2023-07-19,2023-07-19,1,28,32.0
+Torii,Other,Series B,Israel,2023-06-29,2023-06-29,1,28,30.0
+Zum,Transportation,Series C,United States,2020-04-20,2020-04-20,1,28,
+Quanto,Finance,Series A,Brazil,2022-07-22,2022-07-22,1,28,22.0
+Marin Software,Marketing,Post-IPO,United States,2024-09-30,2024-09-30,1,27,26.0
+Demandbase,Sales,Series H,United States,2022-09-07,2022-09-07,1,27,3.0
+Sendle,Logistics,Series C,Australia,2022-07-04,2022-07-04,1,27,12.0
+PayJoy,Finance,Series B,United States,2020-04-28,2020-04-28,1,27,25.0
+Lithic,Finance,Series C,United States,2022-12-07,2022-12-07,1,27,18.0
+SafeGraph,Data,Series B,United States,2022-06-27,2022-06-27,1,27,25.0
+Transmit Security,Security,Series A,United States,2022-07-05,2022-07-05,1,27,7.0
+Brave,Consumer,Series B,United States,2024-08-28,2024-08-28,1,27,14.0
+LearnUpon,Education,Private Equity,Ireland,2023-02-07,2023-02-07,1,27,9.0
+Foxtrot,Food,Series C,United States,2022-09-23,2022-09-23,1,26,3.5
+Lucira Health,Healthcare,Post-IPO,United States,2023-02-24,2023-02-24,1,26,
+Briza,Finance,Series A,Canada,2022-12-20,2022-12-20,1,26,40.0
+Wordstream,Marketing,Acquired,United States,2020-04-06,2020-04-06,1,26,10.0
+Artnight,Retail,Unknown,Germany,2022-08-31,2022-08-31,1,26,36.0
+Chia Network,Crypto,Series D,United States,2023-10-02,2023-10-02,1,26,37.0
+Integrate.ai,Support,Unknown,Canada,2020-06-09,2020-06-09,1,26,
+Upside Foods,Food,Unknown,United States,2024-07-01,2024-07-01,1,26,
+Preply,Education,Series C,United States,2022-06-09,2022-06-09,1,26,5.0
+Humu,HR,Series B,United States,2020-04-02,2020-04-02,1,26,
+IRL,Consumer,Series C,United States,2022-06-02,2022-06-02,1,25,25.0
+Kickstarter,Finance,Unknown,United States,2020-05-13,2020-05-13,1,25,18.0
+UpScalio,Retail,Series B,India,2023-01-05,2023-01-05,1,25,15.0
+Code42,Data,Series B,United States,2020-04-09,2020-04-09,1,25,5.0
+Mode Analytics,Data,Series D,United States,2022-09-12,2022-09-12,1,25,
+Tulip Retail,Retail,Series C,Canada,2023-11-21,2023-11-21,1,25,
+Workable,Recruiting,Series C,United States,2020-05-05,2020-05-05,1,25,10.0
+Loja Integrada,Retail,Acquired,Brazil,2022-08-25,2022-08-25,1,25,10.0
+BVAccel,Marketing,Unknown,United States,2020-04-08,2020-04-08,1,25,25.0
+Vise,Finance,Series C,United States,2022-05-04,2022-05-04,1,25,
+ResearchGate,Other,Series D,Germany,2022-11-28,2022-11-28,1,25,10.0
+Ludeo,Consumer,Series A,United States,2025-10-20,2025-10-20,1,25,50.0
+HighRadius,Finance,Series C,India,2022-11-09,2022-11-09,1,25,
+Loftsmart,Real Estate,Series A,United States,2020-03-30,2020-03-30,1,25,75.0
+Cart.com,Retail,Unknown,United States,2023-01-10,2023-01-10,1,25,4.0
+Pear Therapeutics ,Healthcare,Post-IPO,United States,2022-07-25,2022-07-25,1,25,9.0
+TradeWindow,Finance,Series B,New Zealand,2023-03-15,2023-03-15,1,25,30.0
+Glisser,Travel,Unknown,United Kingdom,2023-01-26,2023-01-26,1,25,100.0
+Armis,Security,Private Equity,United States,2022-12-08,2022-12-08,1,25,4.0
+Brainly,Education,Series D,Poland,2022-11-06,2022-11-06,1,25,
+Niche,Education,Series C,United States,2024-03-08,2024-03-08,1,24,7.0
+Highsnobiety,Media,Acquired,Germany,2023-07-03,2023-07-03,1,24,10.0
+The Messenger,Media,Unknown,United States,2024-01-02,2024-01-02,1,24,
+Sourcegraph,Product,Series D,United States,2022-06-21,2022-06-21,1,24,8.0
+Lusha,Sales,Series B,United States,2025-12-10,2025-12-10,1,24,8.0
+Exterro,Legal,Private Equity,United States,2023-02-01,2023-02-01,1,24,3.0
+TIFIN,Crypto,Series D,United States,2022-06-14,2022-06-14,1,24,10.0
+Flipboard,Media,Unknown,United States,2022-10-16,2022-10-16,1,24,21.0
+Drop,Marketing,Series B,Canada,2022-11-01,2022-11-01,1,24,
+Rivos,Hardware,Unknown,United States,2023-08-23,2023-08-23,1,24,6.0
+Stax,Finance,Series D,United States,2023-02-24,2023-02-24,1,24,
+Transfix,Logistics,Series D,United States,2020-04-29,2020-04-29,1,24,10.0
+SundaySky,Marketing,Series D,United States,2022-07-11,2022-07-11,1,24,13.0
+Revelate,Data,Series A,Canada,2022-12-16,2022-12-16,1,24,30.0
+CrowdStreet,Real Estate,Series C,United States,2020-06-01,2020-06-01,1,24,22.0
+Thirty Madison,Healthcare,Acquired,United States,2022-05-14,2022-05-14,1,24,
+Plume,Healthcare,Series B,United States,2023-10-18,2023-10-18,1,24,
+Xolo,Finance,Series A,Estonia,2023-09-04,2023-09-04,1,24,
+Heroes,Retail,Unknown,United Kingdom,2022-07-15,2022-07-15,1,24,20.0
+Cogito,Support,Series C,United States,2020-04-06,2020-04-06,1,24,14.0
+Hodinkee,Retail,Seed,United States,2023-09-05,2023-09-05,1,24,20.0
+Truiloo,Security,Series D,Canada,2022-09-23,2022-09-23,1,24,5.0
+Aqua Security,Security,Series C,Israel,2020-04-01,2020-04-01,1,24,9.0
+Superhuman,Consumer,Series C,United States,2022-06-03,2022-06-03,1,23,22.0
+Stedi,Product,Series B,United States,2022-08-02,2022-08-02,1,23,30.0
+Aspire,Marketing,Series A,United States,2022-07-15,2022-07-15,1,23,
+Genome Medical,Healthcare,Series C,United States,2022-09-08,2022-09-08,1,23,
+Tonkean,Other,Series B,United States,2022-06-15,2022-06-15,1,23,23.0
+iCAD,Healthcare,Post-IPO,United States,2023-03-29,2023-03-29,1,23,28.0
+Splice,Media,Series D,United States,2022-07-20,2022-07-20,1,23,
+LOOP,Finance,Series A,United States,2024-06-16,2024-06-16,1,23,77.0
+Kuda,Finance,Series B,Nigeria,2022-09-02,2022-09-02,1,23,5.0
+BusBud,Transportation,Series B,Canada,2020-04-06,2020-04-06,1,23,32.0
+Legible,Media,Post-IPO,Canada,2022-04-04,2022-04-04,1,23,38.0
+TripleLift,Marketing,Series B,United States,2020-04-02,2020-04-02,1,23,7.0
+Komodo Health,Healthcare,Series C,United States,2020-04-20,2020-04-20,1,23,9.0
+Allbirds,Retail,Post-IPO,United States,2022-07-28,2022-07-28,1,23,
+Dover,Recruiting,Series A,United States,2022-07-26,2022-07-26,1,23,30.0
+GoSpotCheck,Retail,Series B,United States,2020-03-26,2020-03-26,1,23,20.0
+Antidote Health,Healthcare,Unknown,Israel,2022-10-23,2022-10-23,1,23,38.0
+Sherpa,Travel,Unknown,Canada,2022-07-29,2022-07-29,1,22,
+InVision,Product,Unknown,United States,2021-10-05,2021-10-05,1,22,
+CommonBond,Finance,Series D,United States,2022-05-13,2022-05-13,1,22,
+Pipl,Security,Unknown,United States,2022-06-23,2022-06-23,1,22,13.0
+D-ID,AI,Series B,Israel,2025-03-10,2025-03-10,1,22,25.0
+Centr,Fitness,Unknown,Australia,2023-07-13,2023-07-13,1,22,
+Citrine Informatics,Data,Series C,United States,2023-01-20,2023-01-20,1,22,27.0
+TextNow,Consumer,Seed,Canada,2022-07-28,2022-07-28,1,22,
+GoBear,Finance,Unknown,Singapore,2020-09-01,2020-09-01,1,22,11.0
+ActiveFence,Security,Series B,United States,2025-03-13,2025-03-13,1,22,7.0
+Magic Eden,Crypto,Series B,United States,2023-02-13,2023-02-13,1,22,
+Clyde,Marketing,Series B,United States,2022-04-25,2022-04-25,1,22,
+Credit Sesame,Finance,Series F,United States,2020-06-03,2020-06-03,1,22,14.0
+Sorare,Crypto,Series B,United States,2024-03-06,2024-03-06,1,22,13.0
+VideoAmp,Marketing,Series C,United States,2020-04-08,2020-04-08,1,21,10.0
+Gitpod,Product,Series A,Germany,2023-01-24,2023-01-24,1,21,28.0
+Teamwork,Other,Unknown,Ireland,2020-05-22,2020-05-22,1,21,
+Shakepay,Crypto,Series A,Canada,2023-01-27,2023-01-27,1,21,25.0
+Ninja Van,Transportation,Series E,Singapore,2024-04-29,2024-04-29,1,21,10.0
+StellarAlgo,Data,Series A,Canada,2023-10-19,2023-10-19,1,21,28.0
+Pocketmath,Marketing,Unknown,Singapore,2021-01-20,2021-01-20,1,21,100.0
+BlissClub,Retail,Series A,India,2024-02-09,2024-02-09,1,21,18.0
+Skillz,Consumer,Series D,United States,2020-04-14,2020-04-14,1,21,
+The Sill,Retail,Series A,United States,2020-05-28,2020-05-28,1,20,25.0
+Cellebrite,Other,Post-IPO,Israel,2025-12-03,2025-12-03,1,20,1.0
+Stability AI,AI,Unknown,United Kingdom,2024-04-18,2024-04-18,1,20,
+Sightful,Hardware,Unknown,Israel,2024-07-01,2024-07-01,1,20,33.0
+JetClosing,Real Estate,Series A,United States,2020-04-27,2020-04-27,1,20,20.0
+Immutable,Crypto,Series C,Australia,2022-07-26,2022-07-26,1,20,6.0
+Virgio,Retail,Series A,India,2023-10-25,2023-10-25,1,20,33.0
+TravelBank,Travel,Series B,United States,2020-03-24,2020-03-24,1,20,
+Drip,Marketing,Acquired,United States,2020-03-23,2020-03-23,1,20,
+Bleacher Report,Media,Acquired,United Kingdom,2020-09-11,2020-09-11,1,20,
+Insider Intelligence,Media,Subsidiary,United States,2023-06-29,2023-06-29,1,20,
+Retrain.ai,HR,Unknown,Israel,2025-07-02,2025-07-02,1,20,100.0
+Addepar,Finance,Series F,United States,2023-01-18,2023-01-18,1,20,3.0
+AngelList,Recruiting,Series B,United States,2020-03-31,2020-03-31,1,20,
+Karma,Retail,Series A,Israel,2023-05-04,2023-05-04,1,20,28.0
+Solarisbank,Finance,Unknown,Germany,2023-12-14,2023-12-14,1,20,
+Ocavu,Crypto,Series A,United States,2022-11-10,2022-11-10,1,20,48.0
+Identiq,Security,Series A,Israel,2024-04-01,2024-04-01,1,20,44.0
+Albert,Finance,Series C,United States,2022-06-10,2022-06-10,1,20,8.0
+Prefect,Data,Series B,United States,2025-03-25,2025-03-25,1,20,
+InfoSum,Security,Series B,United Kingdom,2022-10-19,2022-10-19,1,20,12.0
+Eatsy,Food,Seed,Singapore,2020-08-08,2020-08-08,1,20,100.0
+Crayon,Marketing,Series A,United States,2020-04-01,2020-04-01,1,20,20.0
+Quidax,Crypto,Unknown,Nigeria,2022-11-24,2022-11-24,1,20,20.0
+TytoCare,Healthcare,Series D,United States,2023-07-06,2023-07-06,1,20,10.0
+Factorial,HR,Series C,Spain,2023-07-13,2023-07-13,1,20,
+FlexCar,Transportation,Unknown,United States,2023-08-16,2023-08-16,1,20,
+GrayMeta,Data,Unknown,United States,2020-03-23,2020-03-23,1,20,40.0
+Argyle,Finance,Series B,United States,2022-08-26,2022-08-26,1,20,7.0
+Cohere,AI,Series D,Canada,2024-07-23,2024-07-23,1,20,5.0
+Toothsi,Healthcare,Series C,India,2023-05-12,2023-05-12,1,20,
+Opal,Marketing,Series B,United States,2020-03-27,2020-03-27,1,20,
+Shipsi,Retail,Seed,United States,2020-04-28,2020-04-28,1,20,50.0
+Caliva,Retail,Series A,United States,2020-03-30,2020-03-30,1,20,
+Xentral,Product,Series B,Germany,2022-12-10,2022-12-10,1,20,10.0
+NuoDB,Data,Unknown,United States,2020-04-10,2020-04-10,1,20,29.0
+Thimble,Finance,Series A,United States,2022-07-05,2022-07-05,1,20,33.0
+Stream,Product,Series B,United States,2022-06-30,2022-06-30,1,20,12.0
+Deep Instinct,Security,Unknown,Israel,2025-05-04,2025-05-04,1,20,10.0
+Moovit,Transportation,Acquired,Israel,2024-06-19,2024-06-19,1,20,10.0
+Privitar,Data,Series C,United Kingdom,2021-01-27,2021-01-27,1,20,
+Atera,Other,Series B,Israel,2024-11-03,2024-11-03,1,20,6.0
+Tamara Mellon,Retail,Series C,United States,2020-03-12,2020-03-12,1,20,40.0
+Perimeter 81,Security,Series C,Israel,2022-12-06,2022-12-06,1,20,8.0
+Sales Boomerang,Sales,Private Equity,United States,2022-10-20,2022-10-20,1,20,
+Deepgram,AI,Series B,United States,2023-10-11,2023-10-11,1,20,20.0
+Stytch,Security,Series B,United States,2023-02-27,2023-02-27,1,19,25.0
+"#Paid",Marketing,Series B,Canada,2023-01-27,2023-01-27,1,19,17.0
+Intersect,Product,Acquired,Canada,2020-05-13,2020-05-13,1,19,11.0
+CoinTracker,Crypto,Series A,United States,2023-01-28,2023-01-28,1,19,
+Lambda School,Education,Series B,United States,2020-04-21,2020-04-21,1,19,
+UPshow,Marketing,Series A,United States,2020-04-24,2020-04-24,1,19,30.0
+AU10TIX,Security,Unknown,Israel,2023-01-31,2023-01-31,1,19,9.0
+Wint Wealth,Finance,Series A,India,2024-02-14,2024-02-14,1,19,20.0
+Homebot,Real Estate,Acquired,United States,2022-12-19,2022-12-19,1,18,13.0
+Tidepool,Healthcare,Unknown,United States,2020-11-17,2020-11-17,1,18,40.0
+Sharethrough,Marketing,Series D,United States,2020-07-01,2020-07-01,1,18,
+Yonder,Media,Series A,United States,2020-03-20,2020-03-20,1,18,
+Incredibuild,Product,Acquired,Israel,2024-11-04,2024-11-04,1,18,11.0
+Opencare,Healthcare,Series A,Canada,2020-04-03,2020-04-03,1,18,25.0
+Glitch,Product,Series A,United States,2020-05-21,2020-05-21,1,18,36.0
+Lendis,Other,Series A,Germany,2022-07-04,2022-07-04,1,18,15.0
+Kenoby,Recruiting,Unknown,Brazil,2020-04-08,2020-04-08,1,18,16.0
+Rows,Other,Series B,Germany,2022-06-29,2022-06-29,1,18,30.0
+Pana,Travel,Series A,United States,2020-04-01,2020-04-01,1,18,
+HealthMatch,Healthcare,Series B,Australia,2022-06-28,2022-06-28,1,18,50.0
+Ethos Life,Finance,Series C,United States,2020-06-05,2020-06-05,1,18,14.0
+FamPay,Finance,Series A,India,2023-08-02,2023-08-02,1,18,
+Zenoti,Fitness,Series C,United States,2020-03-31,2020-03-31,1,17,4.0
+Bolt,Transportation,Series F,Nigeria,2023-02-21,2023-02-21,1,17,
+Community Gaming,Crypto,Series A,United States,2023-04-14,2023-04-14,1,17,17.0
+Sensibill,Finance,Series B,Canada,2020-04-01,2020-04-01,1,17,20.0
+Clearbanc,Finance,Series B,Canada,2020-04-13,2020-04-13,1,17,8.0
+Anagram,Healthcare,Series A,United States,2020-04-03,2020-04-03,1,17,
+Synctera,Finance,Series A,United States,2024-03-26,2024-03-26,1,17,15.0
+Crossbeam,Sales,Series C,United States,2023-03-30,2023-03-30,1,17,15.0
+Mode Analytics,Data,Series C,United States,2020-05-13,2020-05-13,1,17,
+Connected,Product,Unknown,Canada,2020-04-08,2020-04-08,1,17,10.0
+Ynsect,Food,Series D,France,2023-04-17,2023-04-17,1,17,25.0
+Shein,Retail,Private Equity,Singapore,2024-09-30,2024-09-30,1,17,
+Amplero,Marketing,Series B,United States,2020-03-29,2020-03-29,1,17,100.0
+G2,Marketing,Series C,United States,2020-06-30,2020-06-30,1,17,5.0
+Inuitive,Manufacturing,Unknown,Israel,2024-08-15,2024-08-15,1,16,20.0
+Avocargo,Transportation,Seed,Germany,2023-04-06,2023-04-06,1,16,100.0
+Rhumbix,Construction,Series B,United States,2020-04-10,2020-04-10,1,16,27.0
+Baton,Transportation,Series A,United States,2022-06-29,2022-06-29,1,16,25.0
+OFFOR Health,Healthcare,Series A,United States,2023-01-24,2023-01-24,1,16,
+TRM Labs,Crypto,Series B,United States,2023-04-18,2023-04-18,1,16,9.0
+Lattice,HR,Series C,United States,2020-05-15,2020-05-15,1,16,10.0
+Top Hat,Education,Series D,Canada,2020-05-12,2020-05-12,1,16,3.0
+ContraFect,Healthcare,Post-IPO,United States,2022-08-15,2022-08-15,1,16,37.0
+FreightWaves,Logistics,Private Equity,United States,2024-09-24,2024-09-24,1,16,
+Help.com,Support,Seed,United States,2020-03-16,2020-03-16,1,16,100.0
+EverC,Security,Unknown,Israel,2024-07-17,2024-07-17,1,16,10.0
+Koinly,Crypto,Unknown,United Kingdom,2022-12-06,2022-12-06,1,16,14.0
+SeekOut,Recruiting,Series C,United States,2023-10-05,2023-10-05,1,16,7.0
+Finite State,Security,Series B,United States,2022-06-17,2022-06-17,1,16,20.0
+Forma.ai,Sales,Series B,Canada,2022-07-20,2022-07-20,1,15,9.0
+Smallcase,Finance,Series C,India,2023-03-21,2023-03-21,1,15,4.0
+Walnut,Sales,Series B,United States,2024-05-29,2024-05-29,1,15,20.0
+Vouch,Finance,Series C,United States,2022-06-23,2022-06-23,1,15,7.0
+Airtame,Consumer,Unknown,Denmark,2022-06-15,2022-06-15,1,15,
+Horizn Studios,Travel,Series B,Germany,2020-04-24,2020-04-24,1,15,25.0
+Clarify Health,Healthcare,Series D,United States,2022-07-22,2022-07-22,1,15,5.0
+Retention.com,Marketing,Unknown,United States,2024-08-16,2024-08-16,1,15,
+Koho,Finance,Series D,Canada,2022-11-17,2022-11-17,1,15,4.0
+Kodiak Robotics,Transportation,Series A,United States,2020-04-15,2020-04-15,1,15,20.0
+Triplebyte,Recruiting,Series B,United States,2020-03-23,2020-03-23,1,15,17.0
+Teleport,Infrastructure,Series C,United States,2022-07-01,2022-07-01,1,15,6.0
+Boost,Finance,Series B,United States,2023-04-04,2023-04-04,1,15,20.0
+DataStax,Data,Series E,United States,2020-04-14,2020-04-14,1,15,
+Kaleidoscope,Finance,Series A,United States,2023-03-14,2023-03-14,1,15,30.0
+Atlas Obscura ,Media,Series B,United States,2020-06-18,2020-06-18,1,15,
+Usermind,Marketing,Series C,United States,2020-04-01,2020-04-01,1,15,25.0
+Tabnine,AI,Series B,Israel,2025-02-05,2025-02-05,1,15,18.0
+Borrowell,Finance,Series B,Canada,2020-04-06,2020-04-06,1,15,20.0
+Roblox China,Consumer,Subsidiary,China,2023-10-23,2023-10-23,1,15,
+GenWise,Other,Seed,India,2025-05-05,2025-05-05,1,15,20.0
+Seedr,Finance,Acquired,United Kingdom,2024-01-23,2024-01-23,1,15,
+Treasure Financial,Finance,Series A,United States,2024-01-09,2024-01-09,1,14,60.0
+PayScale,HR,Acquired,United States,2023-07-14,2023-07-14,1,14,2.0
+Fundbox,Finance,Series C,United States,2020-06-02,2020-06-02,1,14,15.0
+Finleap Connect,Finance,Series A,Germany,2022-06-30,2022-06-30,1,14,10.0
+Tulip Retail,Retail,Series B,Canada,2020-04-15,2020-04-15,1,14,
+G/O Media Group,Media,Unknown,United States,2020-04-03,2020-04-03,1,14,5.0
+OpenWeb,Media,Series E,Israel,2022-06-15,2022-06-15,1,14,5.0
+Lighthouse Labs,Education,Unknown,Canada,2020-04-09,2020-04-09,1,14,7.0
+Bridgit,Construction,Series B,Canada,2022-12-06,2022-12-06,1,13,13.0
+Ladder Life,Finance,Series C,United States,2020-03-23,2020-03-23,1,13,25.0
+Syte,Retail,Series C,Israel,2022-07-05,2022-07-05,1,13,8.0
+Vivian Health,Healthcare,Acquired,United States,2024-04-03,2024-04-03,1,13,
+Trove Recommerce,Retail,Series C,United States,2020-04-15,2020-04-15,1,13,
+The Org,HR,Series B,United States,2022-08-03,2022-08-03,1,13,
+No Fluff Jobs,HR,Acquired,Poland,2023-03-04,2023-03-04,1,13,
+Politico / Protocol,Media,Unknown,United States,2020-04-21,2020-04-21,1,13,
+Fable,Other,Series A,Canada,2023-07-31,2023-07-31,1,13,9.0
+GrabCAD,Other,Acquired,Estonia,2024-01-12,2024-01-12,1,13,
+Limelight,Recruiting,Unknown,United States,2021-02-04,2021-02-04,1,13,100.0
+Substack,Media,Series B,United States,2022-06-29,2022-06-29,1,13,14.0
+Consider.co,Other,Seed,United States,2020-03-26,2020-03-26,1,13,100.0
+Sword Health,Healthcare,Unknown,United States,2024-11-11,2024-11-11,1,13,
+Tor,Security,Unknown,United States,2020-04-17,2020-04-17,1,13,37.0
+Arc,HR,Seed,United States,2022-07-20,2022-07-20,1,13,
+Hedvig,Finance,Series B,Sweden,2022-09-01,2022-09-01,1,12,
+DSCO,Retail,Series A,United States,2020-04-03,2020-04-03,1,12,
+BookClub,Education,Series A,United States,2022-05-31,2022-05-31,1,12,25.0
+100 Thieves,Consumer,Series C,United States,2022-07-13,2022-07-13,1,12,
+Jama,Product,Unknown,United States,2020-03-25,2020-03-25,1,12,5.0
+Tome,AI,Series B,United States,2024-04-16,2024-04-16,1,12,25.0
+CNET,Media,Acquired,United States,2023-03-02,2023-03-02,1,12,10.0
+MVPindex,Marketing,Series B,United States,2024-01-25,2024-01-25,1,12,30.0
+Dooly,Sales,Series B,Canada,2022-08-09,2022-08-09,1,12,
+Abra,Crypto,Series C,United States,2022-06-30,2022-06-30,1,12,5.0
+MakerBot,Consumer,Acquired,United States,2020-06-02,2020-06-02,1,12,
+Kongregate,Media,Series C,United States,2020-07-01,2020-07-01,1,12,
+Descartes Labs,Data,Series B,United States,2020-06-02,2020-06-02,1,12,16.0
+Tome,Sales,Series B,United States,2024-10-02,2024-10-02,1,12,31.0
+Pliops,Data,Series D,Israel,2022-08-16,2022-08-16,1,12,9.0
+PubMatic,Marketing,Post-IPO,United States,2024-10-07,2024-10-07,1,12,1.0
+Venngage,Marketing,Unknown,Canada,2023-01-24,2023-01-24,1,11,20.0
+Compete,HR,Series A,Israel,2022-09-12,2022-09-12,1,11,28.0
+Anywell,Real Estate,Series A,Israel,2022-08-14,2022-08-14,1,11,
+Cypress.io,Product,Series B,United States,2024-06-14,2024-06-14,1,11,
+Loopio,Sales,Series A,Canada,2020-05-04,2020-05-04,1,11,8.0
+GetNinjas,Consumer,Series B,Brazil,2020-04-08,2020-04-08,1,11,10.0
+Deadspin,Media,Acquired,United States,2024-03-11,2024-03-11,1,11,100.0
+Tripbam,Travel,Unknown,United States,2020-04-03,2020-04-03,1,10,25.0
+Welkin Health,Healthcare,Series B,United States,2020-04-24,2020-04-24,1,10,33.0
+Element Analytics,Data,Series A,United States,2020-03-25,2020-03-25,1,10,
+Ike,Transportation,Series A,United States,2020-04-22,2020-04-22,1,10,14.0
+Nori,Energy,Unknown,United States,2023-04-10,2023-04-10,1,10,37.0
+Humane,Hardware,Series C,United States,2024-01-09,2024-01-09,1,10,4.0
+Her Campus Media,Media,Unknown,United States,2020-06-10,2020-06-10,1,10,18.0
+CoinJar,Crypto,Unknown,Australia,2022-11-29,2022-11-29,1,10,20.0
+PerkSpot,HR,Private Equity,United States,2020-04-06,2020-04-06,1,10,10.0
+Bringg,Logistics,Series D,Israel,2020-04-21,2020-04-21,1,10,10.0
+Canva,Consumer,Unknown,Australia,2025-04-02,2025-04-02,1,10,
+Forward,Healthcare,Series C,United States,2020-04-20,2020-04-20,1,10,3.0
+Hugging Face,AI,Series D,United States,2025-02-05,2025-02-05,1,10,4.0
+Swyft,Logistics,Series A,Canada,2022-06-15,2022-06-15,1,10,30.0
+Noogata,AI,Series A,Israel,2025-05-15,2025-05-15,1,10,100.0
+Digital Currency Gruop,Crypto,Unknown,United States,2022-11-02,2022-11-02,1,10,13.0
+Dotscience,Product,Unknown,United Kingdom,2020-05-19,2020-05-19,1,10,100.0
+Polarr,Consumer,Series A,United States,2020-03-29,2020-03-29,1,10,
+Tapps Games,Consumer,Unknown,Brazil,2022-11-01,2022-11-01,1,10,
+Xerpa,HR,Unknown,Brazil,2020-04-14,2020-04-14,1,10,
+Slite,Other,Series A,France,2023-03-23,2023-03-23,1,10,25.0
+Humble,Media,Acquired,United States,2022-04-15,2022-04-15,1,10,
+Iris Nova,Food,Seed,United States,2020-03-30,2020-03-30,1,9,50.0
+&Open,Marketing,Series A,Ireland,2022-11-17,2022-11-17,1,9,9.0
+Incredible Health,Healthcare,Series A,United States,2020-04-01,2020-04-01,1,9,40.0
+N26,Finance,Series D,United States,2020-05-08,2020-05-08,1,9,1.0
+BitOasis,Crypto,Series B,United Arab Emirates,2022-06-19,2022-06-19,1,9,5.0
+Andgo,HR,Series A,Canada,2023-09-29,2023-09-29,1,9,
+Docly,Healthcare,Seed,United Kingdom,2020-08-19,2020-08-19,1,8,80.0
+JupiterOne,Security,Series C,United States,2023-06-13,2023-06-13,1,8,
+Captiv8,Marketing,Unknown,United States,2023-08-24,2023-08-24,1,8,3.0
+LoopMe,Marketing,Unknown,United Kingdom,2020-04-09,2020-04-09,1,8,4.0
+Kinde,Other,Seed,Australia,2023-02-20,2023-02-20,1,8,28.0
+Voyage SMS,Marketing,Unknown,United States,2022-06-23,2022-06-23,1,8,13.0
+Center,Finance,Series C,United States,2024-09-07,2024-09-07,1,8,4.0
+CodeCombat,Education,Series A,United States,2020-10-23,2020-10-23,1,8,
+HopSkipDrive,Transportation,Unknown,United States,2020-03-13,2020-03-13,1,8,10.0
+Coding Dojo,Education,Unknown,United States,2020-04-02,2020-04-02,1,7,7.0
+Expert360,Recruiting,Series C,Australia,2022-08-11,2022-08-11,1,7,
+TechCrunch,Media,Acquired,United States,2024-01-30,2024-01-30,1,7,
+Smashing,Consumer,Seed,United States,2025-04-16,2025-04-16,1,7,100.0
+Panda Squad,Consumer,Seed,United States,2020-03-13,2020-03-13,1,6,75.0
+Atsu,Infrastructure,Unknown,United States,2020-04-10,2020-04-10,1,6,100.0
+Character.ai,AI,Series A,United States,2024-08-29,2024-08-29,1,6,5.0
+Simon Data,Marketing,Series C,United States,2020-04-23,2020-04-23,1,6,
+Instamojo,Finance,Unknown,India,2020-04-02,2020-04-02,1,6,6.0
+Mara,Crypto,Seed,Kenya,2023-06-06,2023-06-06,1,6,
+Dark,Product,Seed,United States,2020-06-23,2020-06-23,1,6,100.0
+Jiobit,Consumer,Unknown,United States,2020-04-24,2020-04-24,1,6,21.0
+Synergysuite,Food,Series A,United States,2020-04-02,2020-04-02,1,5,7.0
+Aya,Finance,Seed,Canada,2020-11-19,2020-11-19,1,5,25.0
+Geekwire,Media,Unknown,United States,2020-04-10,2020-04-10,1,5,31.0
+Glean AI,Finance,Seed,United States,2023-05-08,2023-05-08,1,5,
+DialSource,Marketing,Series B,United States,2020-03-31,2020-03-31,1,5,14.0
+Havenly,Consumer,Series C,United States,2020-07-01,2020-07-01,1,5,
+Woven,HR,Series A,United States,2022-08-16,2022-08-16,1,5,15.0
+Avantage Entertainment,Media,Unknown,United States,2020-04-03,2020-04-03,1,5,20.0
+Spyce,Food,Series A,United States,2020-04-08,2020-04-08,1,4,12.0
+TutorMundi,Education,Series A,Brazil,2020-04-24,2020-04-24,1,4,100.0
+Flytedesk,Marketing,Seed,United States,2020-03-18,2020-03-18,1,4,20.0
+Tailwind Labs,Product,Unknown,United States,2026-01-08,2026-01-08,1,3,
+Branch,Retail,Seed,United States,2020-06-11,2020-06-11,1,3,27.0
