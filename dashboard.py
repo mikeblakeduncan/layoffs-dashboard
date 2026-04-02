@@ -17,6 +17,43 @@ st.set_page_config(
 st.title("📉 Tech Layoffs Analytics")
 st.caption("Source: layoffs.fyi — updated through March 2026")
 
+with st.expander("ℹ️ About this dashboard"):
+    st.markdown("""
+    ### What is this?
+    This dashboard tracks tech industry layoffs from 2020 through early 2026, sourced from
+    [layoffs.fyi](https://layoffs.fyi) — a crowd-sourced database maintained by Roger Lee.
+
+    It answers three core questions:
+    - **Who** is getting laid off (which companies, which industries)?
+    - **When** did layoffs peak — and are they accelerating or slowing?
+    - **What stage** are these companies at — early-stage startups or established public companies?
+
+    ---
+
+    ### How was it built?
+    This is a end-to-end modern data stack project built entirely with free, open-source tools:
+
+    | Layer | Tool | Purpose |
+    |---|---|---|
+    | Storage | **DuckDB** | Local SQL database — stores the raw CSV and all transformed tables |
+    | Transform | **dbt Core** | SQL-based transformation pipeline — cleans and aggregates the raw data |
+    | Dashboard | **Streamlit** | Python web app framework — renders this dashboard |
+    | Charts | **Plotly** | Interactive charting library |
+    | Hosting | **Streamlit Community Cloud** | Free public deployment direct from GitHub |
+
+    ---
+
+    ### The pipeline
+    1. Raw CSV downloaded from Kaggle (layoffs.fyi data) and loaded into DuckDB
+    2. A **dbt staging model** cleaned the data — fixed date formats, cast types, handled nulls
+    3. Two **dbt mart models** aggregated the data by company and by month
+    4. This Streamlit app reads those mart tables and renders the charts you see here
+
+    ---
+    *Built by Mike Duncan as a hands-on learning project with the modern data stack.*
+    """)
+
+
 # --- Load Data ---
 @st.cache_data
 def load_data():
