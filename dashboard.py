@@ -6,6 +6,7 @@ import plotly.express as px
 # --- Config ---
 import os
 DATA_PATH = os.path.join(os.path.dirname(__file__), "layoffs_by_company.csv")
+MONTHLY_PATH = os.path.join(os.path.dirname(__file__), "layoffs_by_month.csv")
 
 st.set_page_config(
     page_title="Tech Layoffs Dashboard",
@@ -22,7 +23,13 @@ def load_data():
     df = pd.read_csv(DATA_PATH)
     return df
 
+@st.cache_data
+def load_monthly():
+    df = pd.read_csv(MONTHLY_PATH, parse_dates=["month"])
+    return df
+
 df = load_data()
+df_monthly = load_monthly()
 
 # --- Sidebar Filters ---
 st.sidebar.header("Filters")
@@ -133,6 +140,41 @@ with col_right2:
     )
     fig4.update_layout(coloraxis_showscale=False, margin=dict(l=0, r=0, t=0, b=0))
     st.plotly_chart(fig4, use_container_width=True)
+
+st.divider()
+
+# --- Row 3: Layoffs Over Time ---
+st.subheader("Layoffs Over Time")
+
+time_grain = st.radio("View by", ["Month", "Quarter"], horizontal=True)
+
+if time_grain == "Quarter":
+    df_time = df_monthly.copy()
+    df_time["period"] = df_time["month"].dt.to_period("Q").dt.to_timestamp()
+    df_time = df_time.groupby("period").agg(
+        total_laid_off=("total_laid_off", "sum"),
+        companies_affected=("companies_affected", "sum"),
+        layoff_events=("layoff_events", "sum")
+    ).reset_index().rename(columns={"period": "month"})
+else:
+    df_time = df_monthly.copy()
+
+fig5 = px.bar(
+    df_time,
+    x="month",
+    y="total_laid_off",
+    labels={"total_laid_off": "Total Laid Off", "month": ""},
+    color_discrete_sequence=["#e74c3c"]
+)
+fig5.add_scatter(
+    x=df_monthly["month"],
+    y=df_monthly["rolling_3m_avg"],
+    mode="lines",
+    name="3-Month Avg",
+    line=dict(color="#2c3e50", width=2)
+)
+fig5.update_layout(margin=dict(l=0, r=0, t=0, b=0), showlegend=True)
+st.plotly_chart(fig5, use_container_width=True)
 
 st.divider()
 
